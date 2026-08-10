@@ -1,0 +1,1689 @@
+name,email,date_of_birth,mobile_no,name_clean,failure_reason
+Kristen Horn,Kristen_Horn@lin.com,1974-09-10,737931,Kristen Horn,invalid_mobile
+Kimberly Chang,Kimberly_Chang@johnson-lopez.biz,02/27/1974,2692047,Kimberly Chang,invalid_mobile
+Mary Ball,Mary_Ball@stevens.biz,02/05/1968,886359,Mary Ball,invalid_mobile
+Benjamin Craig,Benjamin_Craig@berry.net,12/11/1988,696429,Benjamin Craig,invalid_mobile
+Cathy Werner,Cathy_Werner@martinez.net,2018-09-25,7138041,Cathy Werner,invalid_mobile;below_18
+Brandon Bell,Brandon_Bell@johnson-burgess.com,1961-10-27,768543,Brandon Bell,invalid_mobile
+Paul Farley,Paul_Farley@payne-taylor.com,1980-11-22,8196105,Paul Farley,invalid_mobile
+Sarah Mcdaniel,Sarah_Mcdaniel@hughes-simon.com,2017/04/26,12556,Sarah Mcdaniel,invalid_mobile;below_18
+Caroline Anderson,Caroline_Anderson@blair-phillips.com,02/27/1988,5818212,Caroline Anderson,invalid_mobile
+Carl Jones,Carl_Jones@coleman.com,06/21/1993,220035,Carl Jones,invalid_mobile
+Scott Lee,Scott_Lee@phillips.com,2010-07-12,52145751,Scott Lee,below_18
+Kaylee Coleman,Kaylee_Coleman@hammond.com,10/08/2009,156657,Kaylee Coleman,invalid_mobile;below_18
+Charles Parker,Charles_Parker@morris-keller.com,12/20/1980,92921,Charles Parker,invalid_mobile
+Susan Hess,Susan_Hess@sharp-hodges.net,1950-05-21,46541,Susan Hess,invalid_mobile
+Kiara Collier,Kiara_Collier@chandler.biz,1959-05-21,955551,Kiara Collier,invalid_mobile
+Mr. Scott Martinez,Scott_Martinez@goodwin.com,02/16/1992,369441,Scott Martinez,invalid_mobile
+Christopher Ortega,Christopher_Ortega@perez.biz,1959-06-18,9968155,Christopher Ortega,invalid_mobile
+Michael Russell,Michael_Russell@nunez-wright.com,2013/01/20,6400283,Michael Russell,invalid_mobile;below_18
+Dwayne Johnson,Dwayne_Johnson@contreras-boyd.com,2006/11/10,115935,Dwayne Johnson,invalid_mobile;below_18
+Deanna Sherman,Deanna_Sherman@wright-sanchez.org,25-04-1975,143073,Deanna Sherman,invalid_mobile
+Douglas Francis,Douglas_Francis@king-cross.org,21-12-1992,1535885,Douglas Francis,invalid_mobile
+Vicki Diaz,Vicki_Diaz@macdonald-day.com,1993/10/05,165459,Vicki Diaz,invalid_mobile
+Robin Phillips,Robin_Phillips@krause.net,1974-07-15,69531,Robin Phillips,invalid_mobile
+Travis Rice,Travis_Rice@bradley.net,05/08/2006,3631 6303,Travis Rice,invalid_mobile;below_18
+Ashley Rocha,Ashley_Rocha@hicks.info,1956/09/11,7046565,Ashley Rocha,invalid_mobile
+Sarah Jacobson,Sarah_Jacobson@mclean-jacobs.info,03/09/1958,6107 1779,Sarah Jacobson,invalid_mobile
+Joseph Torres,Joseph_Torres@johnson.com,1955/05/05,34376,Joseph Torres,invalid_mobile
+Kim Jones,Kim_Jones@little.net,02-11-1985,34401,Kim Jones,invalid_mobile
+Melissa Tanner,Melissa_Tanner@johnson.net,04/30/1989,70391,Melissa Tanner,invalid_mobile
+Sonya Foster,Sonya_Foster@garcia-browning.com,10-09-1988,143877,Sonya Foster,invalid_mobile
+Mr. Thomas Rivera,Thomas_Rivera@guzman-avila.com,1951/07/15,843813,Thomas Rivera,invalid_mobile
+Jamie Silva,Jamie_Silva@hill.com,2006/06/21,469791,Jamie Silva,invalid_mobile;below_18
+Kathleen Moore,Kathleen_Moore@avila.info,1952/02/03,609093,Kathleen Moore,invalid_mobile
+Evelyn Pineda,Evelyn_Pineda@sullivan-collins.net,02/04/1958,8819217,Evelyn Pineda,invalid_mobile
+Kyle Peters,Kyle_Peters@cole-edwards.com,1995/08/25,346701,Kyle Peters,invalid_mobile
+Anthony Cruz,Anthony_Cruz@burns.com,22-02-1955,1742399,Anthony Cruz,invalid_mobile
+Gary Harper,Gary_Harper@bell-mueller.com,01/11/1998,77546,Gary Harper,invalid_mobile
+Linda Johnson,Linda_Johnson@williams.biz,1959/07/29,828207,Linda Johnson,invalid_mobile
+Melissa Smith,Melissa_Smith@carroll.org,1997-12-08,9831067,Melissa Smith,invalid_mobile
+Kristen Floyd,Kristen_Floyd@robinson.com,1993-05-25,4685654,Kristen Floyd,invalid_mobile
+William Diaz,William_Diaz@cruz-norris.com,02/16/1987,97811,William Diaz,invalid_mobile
+Benjamin Smith,Benjamin_Smith@christian-contreras.com,12/23/1987,9583 5639,Benjamin Smith,invalid_mobile
+David Glenn,David_Glenn@jenkins-mcfarland.org,15-06-2011,960561,David Glenn,invalid_mobile;below_18
+Dawn Jones,Dawn_Jones@ashley-johnson.com,2007/03/02,91686479,Dawn Jones,below_18
+Joel Smith,Joel_Smith@walker-roth.biz,1971-09-09,8287875,Joel Smith,invalid_mobile
+Mr. Larry Grimes MD,Larry_Grimes@lewis-richardson.info,12/31/2005,966177,Larry Grimes,invalid_mobile;below_18
+Joseph Arnold,Joseph_Arnold@gibbs.biz,08/21/2005,2019270,Joseph Arnold,invalid_mobile;below_18
+Kyle Long,Kyle_Long@galvan.com,07/13/1992,2785329,Kyle Long,invalid_mobile
+Brittany Day,Brittany_Day@brown.info,2018/05/22,61597047,Brittany Day,below_18
+Thomas Lee,Thomas_Lee@wilson-allen.com,10/28/1996,91381,Thomas Lee,invalid_mobile
+Jennifer Hansen,Jennifer_Hansen@nelson.biz,06/28/1963,308547,Jennifer Hansen,invalid_mobile
+Lisa Murray,Lisa_Murray@mcclain.net,2011-07-09,3172233,Lisa Murray,invalid_mobile;below_18
+Meghan Wade,Meghan_Wade@garcia-brown.org,09/15/1982,610719,Meghan Wade,invalid_mobile
+Tammie Brooks,Tammie_Brooks@james.com,1962/09/14,114957,Tammie Brooks,invalid_mobile
+Maria Bell,Maria_Bell@lambert-lamb.com,2018/10/26,60030719,Maria Bell,below_18
+Allison Livingston,Allison_Livingston@jones-thompson.com,1950/12/01,503175,Allison Livingston,invalid_mobile
+Chris Hays,Chris_Hays@todd-mccoy.info,08/27/1951,2661590,Chris Hays,invalid_mobile
+Courtney Mitchell,Courtney_Mitchell@dominguez.biz,27-12-1981,657699,Courtney Mitchell,invalid_mobile
+Shawn White,Shawn_White@kerr.com,1960/09/15,21631,Shawn White,invalid_mobile
+Zachary Watts,Zachary_Watts@nguyen-whitehead.info,1984-12-30,3427810,Zachary Watts,invalid_mobile
+Sarah Montoya,Sarah_Montoya@jackson.com,2000-11-07,31426,Sarah Montoya,invalid_mobile
+Jennifer Barker,Jennifer_Barker@wilson.net,2011/05/26,61006,Jennifer Barker,invalid_mobile;below_18
+Tiffany Stevens,Tiffany_Stevens@estrada.com,05/23/1962,6246556,Tiffany Stevens,invalid_mobile
+Ruben Armstrong,Ruben_Armstrong@watkins.com,10-09-2015,6962936,Ruben Armstrong,invalid_mobile;below_18
+Dr. Jeffrey Spencer,Jeffrey_Spencer@cooke.com,1982/12/29,19976,Jeffrey Spencer,invalid_mobile
+Nicole Ramsey,Nicole_Ramsey@vega.biz,1970/07/11,340839,Nicole Ramsey,invalid_mobile
+Anne Roy,Anne_Roy@humphrey-smith.com,1969/08/27,87811,Anne Roy,invalid_mobile
+Allison Chavez,Allison_Chavez@lewis.biz,1984-08-18,64931,Allison Chavez,invalid_mobile
+Marcus Adams,Marcus_Adams@perry.info,01/22/1985,5901652,Marcus Adams,invalid_mobile
+Mary Smith,Mary_Smith@meyer.net,1993/07/17,64046,Mary Smith,invalid_mobile
+Joseph Reed,Joseph_Reed@kelley.com,12/20/1951,1879 8163,Joseph Reed,invalid_mobile
+Jeff Armstrong,Jeff_Armstrong@kennedy-lucas.com,1954-03-01,88331,Jeff Armstrong,invalid_mobile
+Sean Shields,Sean_Shields@christian.info,2001/02/16,617613,Sean Shields,invalid_mobile
+Christian Grant,Christian_Grant@booker-frank.com,09/23/1979,8851893,Christian Grant,invalid_mobile
+Edward Watson,Edward_Watson@brooks.com,2007-12-04,946371,Edward Watson,invalid_mobile;below_18
+Derrick Cooke,Derrick_Cooke@hill.net,2004-09-15,4575922,Derrick Cooke,invalid_mobile;below_18
+Sean Patrick,Sean_Patrick@rivera.com,25-10-2000,41681,Sean Patrick,invalid_mobile
+Heather Collins,Heather_Collins@williams.com,1986/12/03,910971,Heather Collins,invalid_mobile
+Megan Gomez,Megan_Gomez@wade-stone.com,2008-01-29,3002476,Megan Gomez,invalid_mobile;below_18
+William Hale,William_Hale@pena.info,22-04-2007,4519208,William Hale,invalid_mobile;below_18
+Olivia Thompson,Olivia_Thompson@bryan-navarro.com,30-11-2005,481533,Olivia Thompson,invalid_mobile;below_18
+Lori Torres,Lori_Torres@hill.net,1996/10/13,5795175,Lori Torres,invalid_mobile
+Vickie Hernandez,Vickie_Hernandez@chapman.com,02/14/1963,25106,Vickie Hernandez,invalid_mobile
+Kimberly Brown,Kimberly_Brown@jones.com,11/23/1960,820029,Kimberly Brown,invalid_mobile
+Phillip Hansen,Phillip_Hansen@spence.com,2010/06/23,816429,Phillip Hansen,invalid_mobile;below_18
+Jeanette Knight,Jeanette_Knight@carey.com,1952/01/30,72491,Jeanette Knight,invalid_mobile
+Kayla Hanson,Kayla_Hanson@clay.biz,10-08-1967,6484759,Kayla Hanson,invalid_mobile
+Dr. John Porter,John_Porter@cobb-lee.com,07-10-1985,4437021,John Porter,invalid_mobile
+Elizabeth Reyes,Elizabeth_Reyes@roberson.com,31-01-1955,32301,Elizabeth Reyes,invalid_mobile
+Kristen Henry,Kristen_Henry@parker.com,07-02-2014,675081,Kristen Henry,invalid_mobile;below_18
+Claudia Anderson,Claudia_Anderson@smith-lynch.info,05-10-2012,53767631,Claudia Anderson,below_18
+Nicholas Webb,Nicholas_Webb@johnson.com,11/03/1953,993549,Nicholas Webb,invalid_mobile
+Allison Cooper,Allison_Cooper@taylor.biz,2001/12/05,93151,Allison Cooper,invalid_mobile
+Zachary Barnes,Zachary_Barnes@horne.biz,2005-05-03,41935039,Zachary Barnes,below_18
+Gregory Hill III,Gregory_Hill@sims-sparks.net,1991/11/02,2850534,Gregory Hill III,invalid_mobile
+Terry Ayers,Terry_Ayers@morris.com,2007-08-06,76391,Terry Ayers,invalid_mobile;below_18
+Jessica Wilson,Jessica_Wilson@nichols.com,11/15/1954,662205,Jessica Wilson,invalid_mobile
+Daniel Frazier,Daniel_Frazier@reilly.org,26-10-2017,2907584,Daniel Frazier,invalid_mobile;below_18
+Brian Welch,Brian_Welch@armstrong.net,11-11-2005,417927,Brian Welch,invalid_mobile;below_18
+Carol Chavez,Carol_Chavez@cantu-shelton.com,07/03/2004,4824387,Carol Chavez,invalid_mobile;below_18
+Ethan Mcdonald,Ethan_Mcdonald@lewis.com,1990-01-15,57126,Ethan Mcdonald,invalid_mobile
+Gerald Martinez,Gerald_Martinez@jenkins-barnes.net,1986/07/01,30641,Gerald Martinez,invalid_mobile
+Eric King,Eric_King@graham.com,14-09-1970,895557,Eric King,invalid_mobile
+Sylvia Walters,Sylvia_Walters@archer.com,2009-02-14,64876,Sylvia Walters,invalid_mobile;below_18
+Jonathan Lane,Jonathan_Lane@wright.com,2008/01/09,935133,Jonathan Lane,invalid_mobile;below_18
+Jeffrey Bauer,Jeffrey_Bauer@garza.com,08/13/1966,5115 4803,Jeffrey Bauer,invalid_mobile
+Jessica Shaffer,Jessica_Shaffer@alexander.com,2013-03-05,1444542,Jessica Shaffer,invalid_mobile;below_18
+Chris Spencer,Chris_Spencer@pacheco.net,04/19/1993,45821,Chris Spencer,invalid_mobile
+Mary Clarke,Mary_Clarke@jacobs-martin.org,03/05/1959,6620314,Mary Clarke,invalid_mobile
+Timothy Mendoza,Timothy_Mendoza@rodriguez-crawford.com,1979/12/22,45876,Timothy Mendoza,invalid_mobile
+Alicia Hoffman,Alicia_Hoffman@gomez.com,2011-07-16,633645,Alicia Hoffman,invalid_mobile;below_18
+Joseph Gardner,Joseph_Gardner@bray.com,18-01-1953,18996,Joseph Gardner,invalid_mobile
+Rachael Rangel,Rachael_Rangel@marquez.biz,1980-06-18,88691,Rachael Rangel,invalid_mobile
+Jeffrey Harrington,Jeffrey_Harrington@smith.com,07-08-1966,76691,Jeffrey Harrington,invalid_mobile
+Debbie Freeman,Debbie_Freeman@thompson.net,27-04-2010,699285,Debbie Freeman,invalid_mobile;below_18
+Matthew Braun,Matthew_Braun@logan.net,1974/04/28,4133403,Matthew Braun,invalid_mobile
+Sheri Hudson,Sheri_Hudson@smith.com,20-09-2009,18706439,Sheri Hudson,below_18
+Mary King,Mary_King@thomas-bates.com,05-03-2016,9495998,Mary King,invalid_mobile;below_18
+Beth Davis,Beth_Davis@hernandez.com,26-09-2010,169533,Beth Davis,invalid_mobile;below_18
+Margaret Castillo,Margaret_Castillo@gross.biz,12-12-1960,374415,Margaret Castillo,invalid_mobile
+Tommy Sandoval,Tommy_Sandoval@fischer.com,24-07-1966,266061,Tommy Sandoval,invalid_mobile
+Christopher Hines,Christopher_Hines@long-hammond.com,10/09/2015,11201,Christopher Hines,invalid_mobile;below_18
+Richard Wright,Richard_Wright@griffin-fletcher.info,06-01-2006,539817,Richard Wright,invalid_mobile;below_18
+Michael Brown,Michael_Brown@smith-schmidt.net,2012/06/18,47713991,Michael Brown,below_18
+Nathan Yu,Nathan_Yu@murray.com,2001-11-12,67541,Nathan Yu,invalid_mobile
+Cameron Ford,Cameron_Ford@finley-vazquez.org,05/23/1966,606009,Cameron Ford,invalid_mobile
+Carla Hayes,Carla_Hayes@singh-ponce.net,03/01/1983,6159196,Carla Hayes,invalid_mobile
+Marissa Matthews,Marissa_Matthews@graves.com,02/21/1972,2063 6447,Marissa Matthews,invalid_mobile
+Gary Figueroa,Gary_Figueroa@hernandez.com,07/11/1963,3026717,Gary Figueroa,invalid_mobile
+Michael West,Michael_West@rojas.net,2011-07-23,2103781,Michael West,invalid_mobile;below_18
+Martin Walton,Martin_Walton@grant.org,2011/05/12,593379,Martin Walton,invalid_mobile;below_18
+Christopher Stephenson,Christopher_Stephenson@wade.com,05/06/1962,435111,Christopher Stephenson,invalid_mobile
+Eric Ortiz,Eric_Ortiz@johnson.com,2005-02-08,3593234,Eric Ortiz,invalid_mobile;below_18
+Andrew Cowan,Andrew_Cowan@gray-young.info,22-08-1961,128361,Andrew Cowan,invalid_mobile
+Rhonda Moss DDS,Rhonda_Moss@nelson.com,1951/12/30,817173,Rhonda Moss,invalid_mobile
+Sarah Williams,Sarah_Williams@morris.org,05-06-1985,553179,Sarah Williams,invalid_mobile
+Carolyn Collins,Carolyn_Collins@taylor.info,1996/12/26,82871,Carolyn Collins,invalid_mobile
+Larry Mooney,Larry_Mooney@west-sanchez.info,2010-10-28,61381,Larry Mooney,invalid_mobile;below_18
+Laura Livingston,Laura_Livingston@ponce.biz,1991-03-07,178515,Laura Livingston,invalid_mobile
+Candace Mckenzie,Candace_Mckenzie@evans-fields.com,03/18/1952,4009167,Candace Mckenzie,invalid_mobile
+Candace Wallace,Candace_Wallace@dickerson.com,05-08-1998,45146,Candace Wallace,invalid_mobile
+Jason White,Jason_White@hill.org,05-05-2005,186057,Jason White,invalid_mobile;below_18
+Patricia Reynolds,Patricia_Reynolds@holt-sweeney.com,2012/05/08,21775831,Patricia Reynolds,below_18
+Michael Ellison,Michael_Ellison@brown.com,1988/04/07,398331,Michael Ellison,invalid_mobile
+Melissa Robles,Melissa_Robles@ryan-meyers.com,05/19/1980,90836,Melissa Robles,invalid_mobile
+Heidi Fry,Heidi_Fry@ross.org,07/02/1998,82436,Heidi Fry,invalid_mobile
+Charles Ruiz,Charles_Ruiz@sullivan-jones.com,01/13/1968,8515 8255,Charles Ruiz,invalid_mobile
+Stephanie Green DDS,Stephanie_Green@collins.com,2011-11-12,736485,Stephanie Green,invalid_mobile;below_18
+Stacey Garcia,Stacey_Garcia@dalton-henry.com,1987/01/20,72151,Stacey Garcia,invalid_mobile
+Glenda Burke,Glenda_Burke@smith.biz,14-03-1976,83726,Glenda Burke,invalid_mobile
+Zachary Alvarez,Zachary_Alvarez@kelly.com,2001-09-10,25626,Zachary Alvarez,invalid_mobile
+Rachel Shaw,Rachel_Shaw@stevenson-martinez.com,12/23/1958,6651 1687,Rachel Shaw,invalid_mobile
+Carmen Beard,Carmen_Beard@estrada.net,2016/02/29,60170903,Carmen Beard,below_18
+Tony Daniels,Tony_Daniels@arellano.com,06/14/1976,9584653,Tony Daniels,invalid_mobile
+George Aguirre,George_Aguirre@herrera.com,2002/12/01,615255,George Aguirre,invalid_mobile
+James Miller,James_Miller@nguyen.com,08/31/1971,6491 7031,James Miller,invalid_mobile
+April Taylor,April_Taylor@barnes.net,2010-09-15,44364927,April Taylor,below_18
+Robert Johnson,Robert_Johnson@kelly.com,03/10/1956,7776119,Robert Johnson,invalid_mobile
+Gary White,Gary_White@brown.org,12/31/1962,3255036,Gary White,invalid_mobile
+Kim Lowe,Kim_Lowe@pratt.com,11-06-1953,7925947,Kim Lowe,invalid_mobile
+Samantha Jones,Samantha_Jones@cortez-frazier.biz,07/21/1955,8965083,Samantha Jones,invalid_mobile
+Randy Lozano,Randy_Lozano@patton-peters.com,30-01-1970,469011,Randy Lozano,invalid_mobile
+Arthur Chavez,Arthur_Chavez@lyons.com,1988/01/01,398565,Arthur Chavez,invalid_mobile
+Melissa Miller,Melissa_Miller@anderson-hayes.com,25-02-2011,45981,Melissa Miller,invalid_mobile;below_18
+Leslie Mccormick,Leslie_Mccormick@moore.com,26-10-1968,240375,Leslie Mccormick,invalid_mobile
+Carlos Rubio,Carlos_Rubio@maynard.org,17-06-2017,8913535,Carlos Rubio,invalid_mobile;below_18
+David York,David_York@shaffer.biz,07/14/1998,628659,David York,invalid_mobile
+Olivia Poole,Olivia_Poole@blake.com,04/18/1977,7408416,Olivia Poole,invalid_mobile
+Wayne Wilson,Wayne_Wilson@christian.com,1958/02/14,8696654,Wayne Wilson,invalid_mobile
+Janice Campbell,Janice_Campbell@davis-ryan.com,15-03-1950,951693,Janice Campbell,invalid_mobile
+Julie Johnson,Julie_Johnson@brown-murray.biz,2006/06/06,754581,Julie Johnson,invalid_mobile;below_18
+Robert Soto,Robert_Soto@huffman.org,21-02-1964,157035,Robert Soto,invalid_mobile
+Brenda Cowan,Brenda_Cowan@white-marsh.com,1960/08/24,401061,Brenda Cowan,invalid_mobile
+Kayla Taylor,Kayla_Taylor@ball.biz,1955-03-23,798915,Kayla Taylor,invalid_mobile
+Antonio Garcia,Antonio_Garcia@williamson-warren.com,1969-01-23,8287959,Antonio Garcia,invalid_mobile
+Tyler Cisneros,Tyler_Cisneros@frye-velasquez.info,31-05-1969,581631,Tyler Cisneros,invalid_mobile
+Jillian Crawford,Jillian_Crawford@may-meza.com,1980-06-21,638457,Jillian Crawford,invalid_mobile
+Karl Pierce,Karl_Pierce@aguilar.com,04/28/1999,4696945,Karl Pierce,invalid_mobile
+Joann Taylor,Joann_Taylor@hernandez.com,09/07/1985,645597,Joann Taylor,invalid_mobile
+Jennifer Jenkins,Jennifer_Jenkins@gilmore-king.com,12/21/1992,689985,Jennifer Jenkins,invalid_mobile
+Nancy Brown,Nancy_Brown@alexander.com,1969-05-01,40586,Nancy Brown,invalid_mobile
+Emma Munoz,Emma_Munoz@hill.com,1967/10/17,3247525,Emma Munoz,invalid_mobile
+Melissa Mcguire,Melissa_Mcguire@smith-payne.org,1975/04/02,7129991,Melissa Mcguire,invalid_mobile
+Bryan Chavez,Bryan_Chavez@campbell-boyd.com,08-09-2002,686979,Bryan Chavez,invalid_mobile
+Fernando Salazar,Fernando_Salazar@humphrey.com,04/19/1972,7119 2443,Fernando Salazar,invalid_mobile
+Megan Moore,Megan_Moore@sanchez.com,02/07/1955,6151034,Megan Moore,invalid_mobile
+Robert Williams,Robert_Williams@rogers.net,09-03-1984,5827648,Robert Williams,invalid_mobile
+Kimberly Herrera,Kimberly_Herrera@stevens.com,1987-06-15,274011,Kimberly Herrera,invalid_mobile
+Gloria Potts,Gloria_Potts@kidd.org,20-11-1956,93061,Gloria Potts,invalid_mobile
+Suzanne Barnett,Suzanne_Barnett@norman-payne.com,1952-08-28,856419,Suzanne Barnett,invalid_mobile
+Kylie Thomas,Kylie_Thomas@thomas.com,1996/10/05,950613,Kylie Thomas,invalid_mobile
+Christopher Matthews,Christopher_Matthews@holloway.com,18-04-1969,5612601,Christopher Matthews,invalid_mobile
+Nicole Parks,Nicole_Parks@haney-hahn.org,2005-05-09,4168158,Nicole Parks,invalid_mobile;below_18
+Kevin Chambers,Kevin_Chambers@brown-miller.com,1996-12-03,31371,Kevin Chambers,invalid_mobile
+Kimberly Lawson,Kimberly_Lawson@bennett-fletcher.com,1968/08/24,8918561,Kimberly Lawson,invalid_mobile
+Rachel Lopez,Rachel_Lopez@nichols.com,08/14/1964,88726,Rachel Lopez,invalid_mobile
+Christopher Clay,Christopher_Clay@clark-brown.biz,2017-04-21,563625,Christopher Clay,invalid_mobile;below_18
+Daniel Martin,Daniel_Martin@mendez-miller.com,1961-09-29,2787681,Daniel Martin,invalid_mobile
+William Taylor,William_Taylor@garcia-bush.net,11/04/1955,374985,William Taylor,invalid_mobile
+Steven Johnson,Steven_Johnson@hall.com,2005-07-16,95881,Steven Johnson,invalid_mobile;below_18
+Taylor Bryant,Taylor_Bryant@walker.com,04/06/2016,80016,Taylor Bryant,invalid_mobile;below_18
+Lauren Jones,Lauren_Jones@castaneda.com,07/24/1987,9651 2831,Lauren Jones,invalid_mobile
+Lindsey Robertson,Lindsey_Robertson@solomon.com,06/03/1970,51586,Lindsey Robertson,invalid_mobile
+Allison Thomas,Allison_Thomas@phillips-garcia.com,13-02-1968,5959150,Allison Thomas,invalid_mobile
+Susan Parsons,Susan_Parsons@carter.biz,07/29/1994,724803,Susan Parsons,invalid_mobile
+Brady Snyder,Brady_Snyder@archer.com,15-06-1999,703269,Brady Snyder,invalid_mobile
+Brent Mcgrath,Brent_Mcgrath@jackson-maxwell.info,2017/02/26,225897,Brent Mcgrath,invalid_mobile;below_18
+Peter Smith,Peter_Smith@wright.com,12/29/1950,707703,Peter Smith,invalid_mobile
+Deborah Fox,Deborah_Fox@watts.org,2017/02/22,3735915,Deborah Fox,invalid_mobile;below_18
+Heather Collins,Heather_Collins@daniels.com,2017/08/20,880443,Heather Collins,invalid_mobile;below_18
+Misty Ramirez,Misty_Ramirez@chavez.com,23-10-2014,1951391,Misty Ramirez,invalid_mobile;below_18
+Scott Johnson,Scott_Johnson@davis.com,03/11/1965,682641,Scott Johnson,invalid_mobile
+Jay Nixon,Jay_Nixon@brown-sanchez.info,1961/08/29,128097,Jay Nixon,invalid_mobile
+Tony Hall,Tony_Hall@david.com,2009-02-16,8117866,Tony Hall,invalid_mobile;below_18
+Taylor Smith,Taylor_Smith@williams-burns.info,1985-04-09,8532231,Taylor Smith,invalid_mobile
+Mark Reynolds,Mark_Reynolds@stokes-mcpherson.com,06/01/1989,1255759,Mark Reynolds,invalid_mobile
+Marilyn Christensen,Marilyn_Christensen@cooper-ward.com,26-03-2008,94007639,Marilyn Christensen,below_18
+Denise Atkins,Denise_Atkins@smith-shelton.net,2011/01/18,691611,Denise Atkins,invalid_mobile;below_18
+Melissa Gonzales,Melissa_Gonzales@collins.com,2018-11-03,513771,Melissa Gonzales,invalid_mobile;below_18
+Henry Hoffman,Henry_Hoffman@hubbard-garrett.com,18-05-1965,38756,Henry Hoffman,invalid_mobile
+Daisy Davenport,Daisy_Davenport@spencer-guerrero.info,1993/01/15,20866,Daisy Davenport,invalid_mobile
+Christopher Paul,Christopher_Paul@smith-gonzales.com,18-03-1955,8029330,Christopher Paul,invalid_mobile
+Kevin Craig,Kevin_Craig@osborne-hudson.biz,14-04-2011,939093,Kevin Craig,invalid_mobile;below_18
+Natalie Coleman,Natalie_Coleman@robertson.com,2011/10/17,80856,Natalie Coleman,invalid_mobile;below_18
+Jeremy Strickland,Jeremy_Strickland@adkins.com,12/23/1950,2015 1487,Jeremy Strickland,invalid_mobile
+Gary Bonilla,Gary_Bonilla@carr.biz,03/16/1992,636849,Gary Bonilla,invalid_mobile
+Heidi Perez,Heidi_Perez@harper.com,13-04-1970,215895,Heidi Perez,invalid_mobile
+Robert Johnson,Robert_Johnson@mitchell.info,10/18/2000,6258351,Robert Johnson,invalid_mobile
+Gary Mills,Gary_Mills@pearson-benson.com,1957-01-10,18231,Gary Mills,invalid_mobile
+Chelsea Caldwell,Chelsea_Caldwell@gomez.com,17-02-1995,268449,Chelsea Caldwell,invalid_mobile
+John Frye,John_Frye@johnson.org,11/18/1950,3519734,John Frye,invalid_mobile
+Michael Strong,Michael_Strong@bradley.com,24-11-1969,575217,Michael Strong,invalid_mobile
+Christopher Delgado,Christopher_Delgado@robinson.com,2016-07-16,715353,Christopher Delgado,invalid_mobile;below_18
+Rebecca Martinez,Rebecca_Martinez@russell.com,10/26/1988,171597,Rebecca Martinez,invalid_mobile
+Marissa Mccoy,Marissa_Mccoy@ruiz.com,1991-08-23,9407994,Marissa Mccoy,invalid_mobile
+Ricky Kerr,Ricky_Kerr@fischer-savage.biz,2006/04/27,200889,Ricky Kerr,invalid_mobile;below_18
+Anna Campbell,Anna_Campbell@alvarez.com,11-04-1991,875505,Anna Campbell,invalid_mobile
+Marie Walters,Marie_Walters@navarro.biz,1978-03-10,995145,Marie Walters,invalid_mobile
+Marc Davis,Marc_Davis@harris.com,05/20/1980,9659 7403,Marc Davis,invalid_mobile
+James Dixon,James_Dixon@manning.com,05/18/2007,337551,James Dixon,invalid_mobile;below_18
+Vicki Ramirez,Vicki_Ramirez@mcdonald.com,2013-01-17,71806,Vicki Ramirez,invalid_mobile;below_18
+Krista Campbell,Krista_Campbell@stark.net,24-04-1994,357441,Krista Campbell,invalid_mobile
+Lauren Patterson,Lauren_Patterson@love-taylor.net,12/01/2009,85706,Lauren Patterson,invalid_mobile;below_18
+Megan Clark,Megan_Clark@lutz-garrison.info,1960/09/28,17556,Megan Clark,invalid_mobile
+Judy Zimmerman,Judy_Zimmerman@baker.com,11/09/2017,6415123,Judy Zimmerman,invalid_mobile;below_18
+Joseph Williams MD,Joseph_Williams@wall-smith.info,2001-07-01,97871,Joseph Williams,invalid_mobile
+Lori Acevedo,Lori_Acevedo@randolph.com,30-10-1978,50796,Lori Acevedo,invalid_mobile
+Dawn Snyder,Dawn_Snyder@long-hamilton.info,1956-07-08,245361,Dawn Snyder,invalid_mobile
+Jennifer Simmons,Jennifer_Simmons@matthews.com,05-11-1984,69056,Jennifer Simmons,invalid_mobile
+Alyssa Nunez,Alyssa_Nunez@johnson.com,1992-08-24,46831,Alyssa Nunez,invalid_mobile
+Robert Black,Robert_Black@cooper.biz,19-06-1980,768243,Robert Black,invalid_mobile
+Julia Young,Julia_Young@bishop.info,20-07-1989,67471,Julia Young,invalid_mobile
+Melinda Barnes,Melinda_Barnes@porter.com,1953/06/18,83881,Melinda Barnes,invalid_mobile
+Mr. Brett Armstrong,Brett_Armstrong@baker-madden.net,03/17/1982,849219,Brett Armstrong,invalid_mobile
+Erik Stevenson,Erik_Stevenson@byrd.com,2007-07-06,171309,Erik Stevenson,invalid_mobile;below_18
+Daniel George,Daniel_George@wolf-rojas.com,1984-12-09,280101,Daniel George,invalid_mobile
+Lindsey Jones,Lindsey_Jones@roberts-gonzalez.net,27-03-1954,3487156,Lindsey Jones,invalid_mobile
+Virginia Lopez,Virginia_Lopez@anderson.com,05-08-1993,4644613,Virginia Lopez,invalid_mobile
+Andrew Brown,Andrew_Brown@lindsey-villanueva.com,1992-04-04,2683360,Andrew Brown,invalid_mobile
+Donna Lowery,Donna_Lowery@warren.info,1955/03/26,1934388,Donna Lowery,invalid_mobile
+Alexis Andrade,Alexis_Andrade@santiago.com,05/04/2014,77956,Alexis Andrade,invalid_mobile;below_18
+Alyssa Pierce,Alyssa_Pierce@ruiz.com,05/16/1968,9583 9991,Alyssa Pierce,invalid_mobile
+Tara Johnson,Tara_Johnson@smith-brown.com,01/01/1962,74946,Tara Johnson,invalid_mobile
+Pamela Scott,Pamela_Scott@thompson-myers.com,04/08/1994,90651,Pamela Scott,invalid_mobile
+Martin Ward,Martin_Ward@jones.info,1992-08-15,787521,Martin Ward,invalid_mobile
+Kristina Hernandez,Kristina_Hernandez@martin.com,1963/08/21,12016,Kristina Hernandez,invalid_mobile
+Robert Bush,Robert_Bush@simmons.com,01/10/1968,17296,Robert Bush,invalid_mobile
+Rebecca Larson,Rebecca_Larson@shannon-long.com,01/14/1993,12481,Rebecca Larson,invalid_mobile
+Brittany Watson,Brittany_Watson@hernandez.biz,1990/06/19,550599,Brittany Watson,invalid_mobile
+John Prince,John_Prince@rodriguez-richardson.com,07-03-1976,940833,John Prince,invalid_mobile
+Ashley Boyer,Ashley_Boyer@miller.com,20-10-1970,815421,Ashley Boyer,invalid_mobile
+James Dean,James_Dean@garcia.com,1991/09/21,590115,James Dean,invalid_mobile
+Natalie Gordon,Natalie_Gordon@zhang.com,23-03-2013,764475,Natalie Gordon,invalid_mobile;below_18
+Ryan Smith,Ryan_Smith@simpson-smith.com,1976/07/06,229317,Ryan Smith,invalid_mobile
+William Delgado,William_Delgado@russell.com,2007-08-16,71961335,William Delgado,below_18
+Brian Johnson,Brian_Johnson@glover.com,06/06/1954,6134969,Brian Johnson,invalid_mobile
+James Patel,James_Patel@ramos.com,04/21/1951,4207491,James Patel,invalid_mobile
+Aimee Reyes,Aimee_Reyes@dunn.com,1954-12-14,3252852,Aimee Reyes,invalid_mobile
+Edward Griffin,Edward_Griffin@mcconnell.net,01-12-1988,73951,Edward Griffin,invalid_mobile
+Debra Baker,Debra_Baker@mitchell.com,2017/07/28,87896,Debra Baker,invalid_mobile;below_18
+Yvette Kramer,Yvette_Kramer@greene.biz,05/13/1997,9038562,Yvette Kramer,invalid_mobile
+Alyssa Williams DVM,Alyssa_Williams@huff.com,1958/03/16,25031,Alyssa Williams,invalid_mobile
+John Cunningham,John_Cunningham@moore-norton.com,2002/10/07,89356,John Cunningham,invalid_mobile
+Dana Gilbert,Dana_Gilbert@mclean-livingston.biz,30-04-1976,8521150,Dana Gilbert,invalid_mobile
+Stephen Henry,Stephen_Henry@jones.com,1981/07/23,58641,Stephen Henry,invalid_mobile
+Bradley James,Bradley_James@smith.com,1965-11-03,6789630,Bradley James,invalid_mobile
+Melinda Peters,Melinda_Peters@schroeder-king.com,02/12/1973,275385,Melinda Peters,invalid_mobile
+Robert Goodman,Robert_Goodman@atkinson.com,01/31/2010,81801,Robert Goodman,invalid_mobile;below_18
+Leslie Moore,Leslie_Moore@waller.org,12/09/1984,1323 7891,Leslie Moore,invalid_mobile
+Sarah Gray,Sarah_Gray@ryan-reese.org,08/27/1995,18121,Sarah Gray,invalid_mobile
+Amy Haynes,Amy_Haynes@suarez.net,2000-01-28,57376,Amy Haynes,invalid_mobile
+Gary Dean,Gary_Dean@harrison-farley.com,07/03/1955,519399,Gary Dean,invalid_mobile
+Jonathan Duran,Jonathan_Duran@dixon.com,10/20/1981,289695,Jonathan Duran,invalid_mobile
+Elizabeth Ruiz,Elizabeth_Ruiz@bell-ho.com,1979/02/02,697629,Elizabeth Ruiz,invalid_mobile
+Caitlin Lewis,Caitlin_Lewis@miller.com,07/04/2007,7931512,Caitlin Lewis,invalid_mobile;below_18
+Micheal Blackburn,Micheal_Blackburn@lewis.org,10/10/1962,7063 7879,Micheal Blackburn,invalid_mobile
+Sheryl Mccarthy,Sheryl_Mccarthy@fox-johnson.org,03/29/1997,3859556,Sheryl Mccarthy,invalid_mobile
+Lisa Smith,Lisa_Smith@johnson.com,09/21/2004,12546,Lisa Smith,invalid_mobile;below_18
+Jared Juarez,Jared_Juarez@neal.info,12/04/1975,65986,Jared Juarez,invalid_mobile
+Brett Castro,Brett_Castro@wilson.com,2005/03/11,875235,Brett Castro,invalid_mobile;below_18
+Jessica Murray,Jessica_Murray@lewis.com,2000-09-08,97696,Jessica Murray,invalid_mobile
+Austin Coffey,Austin_Coffey@wolf.biz,2010/07/03,782595,Austin Coffey,invalid_mobile;below_18
+Shelly Jacobs,Shelly_Jacobs@jones.org,24-02-1977,9984906,Shelly Jacobs,invalid_mobile
+Elizabeth Logan,Elizabeth_Logan@hale.org,2005/01/14,177789,Elizabeth Logan,invalid_mobile;below_18
+Cody Anderson,Cody_Anderson@arroyo.com,1960-09-29,53651,Cody Anderson,invalid_mobile
+Kayla Wood,Kayla_Wood@wallace.com,1999/03/06,393903,Kayla Wood,invalid_mobile
+Paul Singh DDS,Paul_Singh@silva-callahan.com,11-11-1951,256683,Paul Singh,invalid_mobile
+Thomas Moore,Thomas_Moore@cain.com,2009/07/24,36306,Thomas Moore,invalid_mobile;below_18
+Linda Pacheco,Linda_Pacheco@moore.com,1969/01/17,4596047,Linda Pacheco,invalid_mobile
+Jenny Clark,Jenny_Clark@soto.com,1976/07/08,271815,Jenny Clark,invalid_mobile
+Patrick Guzman,Patrick_Guzman@ryan-todd.biz,1960/06/10,9436477,Patrick Guzman,invalid_mobile
+Mr. Scott Peters,Scott_Peters@barnes-diaz.com,03/03/2013,3644880,Scott Peters,invalid_mobile;below_18
+John Stevenson,John_Stevenson@horton.com,2000/06/08,598899,John Stevenson,invalid_mobile
+Kristina Brooks,Kristina_Brooks@anderson.com,04/21/2004,72641,Kristina Brooks,invalid_mobile;below_18
+Nancy Aguilar,Nancy_Aguilar@lane.com,08/11/1995,9751 6423,Nancy Aguilar,invalid_mobile
+Robert Brown,Robert_Brown@perez.info,1991-06-26,813777,Robert Brown,invalid_mobile
+Jessica Williams,Jessica_Williams@thomas-martin.com,08/24/1973,2647 2931,Jessica Williams,invalid_mobile
+David Brown,David_Brown@coffey.com,04-03-1971,30431,David Brown,invalid_mobile
+Dorothy Munoz,Dorothy_Munoz@martinez.net,01-01-1973,752553,Dorothy Munoz,invalid_mobile
+Jason Lawson,Jason_Lawson@mcintyre.com,10-01-1997,780189,Jason Lawson,invalid_mobile
+James Hall,James_Hall@smith.info,2008/01/31,858027,James Hall,invalid_mobile;below_18
+Patricia Carpenter,Patricia_Carpenter@jordan-mendoza.org,17-12-1985,4425457,Patricia Carpenter,invalid_mobile
+Jeff Cardenas,Jeff_Cardenas@cunningham.com,1969-08-10,4531605,Jeff Cardenas,invalid_mobile
+Frank Madden,Frank_Madden@haley.net,1990/11/04,1185514,Frank Madden,invalid_mobile
+George Tanner,George_Tanner@pacheco-olson.com,25-04-1958,96191,George Tanner,invalid_mobile
+Jesse Frazier,Jesse_Frazier@webb-riley.com,11/02/1956,2243319,Jesse Frazier,invalid_mobile
+Edward Russell,Edward_Russell@eaton-jones.com,03/31/1961,454155,Edward Russell,invalid_mobile
+Diana Mcdonald,Diana_Mcdonald@dillon-johnson.com,03/09/1968,8910840,Diana Mcdonald,invalid_mobile
+Randy Dawson,Randy_Dawson@johnson.com,05/25/1969,3704177,Randy Dawson,invalid_mobile
+Jasmine Williams,Jasmine_Williams@levy.com,1979-01-25,93936,Jasmine Williams,invalid_mobile
+Sara Young,Sara_Young@thornton.com,20-07-1984,735591,Sara Young,invalid_mobile
+Christina Torres,Christina_Torres@rodriguez.net,08/29/2017,892383,Christina Torres,invalid_mobile;below_18
+Maria Bailey,Maria_Bailey@quinn.com,08/09/1974,1331198,Maria Bailey,invalid_mobile
+Charles Bartlett,Charles_Bartlett@thomas-wilson.com,07/09/2002,9629845,Charles Bartlett,invalid_mobile
+Natalie Parker,Natalie_Parker@hernandez.com,15-02-1997,59446,Natalie Parker,invalid_mobile
+Paula Hernandez DDS,Paula_Hernandez@obrien.com,1986-10-01,49086,Paula Hernandez,invalid_mobile
+Jessica Jenkins,Jessica_Jenkins@small.com,1974/04/13,75096,Jessica Jenkins,invalid_mobile
+Drew Henson,Drew_Henson@taylor.org,20-09-2018,698007,Drew Henson,invalid_mobile;below_18
+Michael Davis,Michael_Davis@hill.org,2010/02/03,49850919,Michael Davis,below_18
+Ian Ramos,Ian_Ramos@smith-edwards.info,23-06-2011,5515322,Ian Ramos,invalid_mobile;below_18
+Anna Wright,Anna_Wright@nguyen-robertson.com,31-12-2000,5426709,Anna Wright,invalid_mobile
+Ashley Anderson,Ashley_Anderson@bailey-rice.com,1998/01/02,28346,Ashley Anderson,invalid_mobile
+Jennifer Wright,Jennifer_Wright@francis.org,1960-07-26,9076747,Jennifer Wright,invalid_mobile
+Nicole Lopez,Nicole_Lopez@fox.com,25-03-2000,461409,Nicole Lopez,invalid_mobile
+Tara Ellis,Tara_Ellis@faulkner.com,21-01-2013,65996,Tara Ellis,invalid_mobile;below_18
+Hannah Elliott,Hannah_Elliott@edwards.com,05-02-1961,4880142,Hannah Elliott,invalid_mobile
+Gavin Rodriguez,Gavin_Rodriguez@butler-hunt.com,09/17/2015,976137,Gavin Rodriguez,invalid_mobile;below_18
+Johnny Jackson,Johnny_Jackson@gaines-brown.com,2002/01/07,439215,Johnny Jackson,invalid_mobile
+Martin Garrett,Martin_Garrett@owens.com,1956/07/03,4124730,Martin Garrett,invalid_mobile
+Terri Hayes,Terri_Hayes@williams.org,02/21/1962,2552880,Terri Hayes,invalid_mobile
+Carolyn Garner,Carolyn_Garner@barker.com,1958-10-25,8988155,Carolyn Garner,invalid_mobile
+Lisa Lee,Lisa_Lee@walker-vazquez.net,10/21/1961,2100428,Lisa Lee,invalid_mobile
+Rodney Escobar,Rodney_Escobar@hughes.com,04/30/1976,24406,Rodney Escobar,invalid_mobile
+Michelle Carter DVM,Michelle_Carter@lara.com,2016-04-26,33246,Michelle Carter,invalid_mobile;below_18
+John Dunn,John_Dunn@delacruz.org,1984-01-11,625113,John Dunn,invalid_mobile
+Terry Pierce,Terry_Pierce@warner-reyes.com,09/10/1964,9151 8459,Terry Pierce,invalid_mobile
+David Buck,David_Buck@taylor-robinson.net,03/05/1968,28481,David Buck,invalid_mobile
+Jennifer Newman,Jennifer_Newman@bell.com,1984/05/29,996087,Jennifer Newman,invalid_mobile
+Cynthia Lee,Cynthia_Lee@lin-francis.com,05/24/2002,7189190,Cynthia Lee,invalid_mobile
+Sylvia Clark,Sylvia_Clark@spencer.com,02/01/1952,149289,Sylvia Clark,invalid_mobile
+Joseph Taylor,Joseph_Taylor@peck.net,03/29/1950,3532621,Joseph Taylor,invalid_mobile
+Kathleen Barton,Kathleen_Barton@moreno.com,1959-11-10,91591,Kathleen Barton,invalid_mobile
+Michael Harris Jr.,Michael_Harris@mcknight.com,21-02-2006,3416260,Michael Harris Jr.,invalid_mobile;below_18
+Eric Benson,Eric_Benson@brooks.com,07/01/2013,1324058,Eric Benson,invalid_mobile;below_18
+Curtis Butler,Curtis_Butler@king.info,10/12/1968,14771,Curtis Butler,invalid_mobile
+Brittany Le,Brittany_Le@evans-harrison.com,1984/09/18,3191609,Brittany Le,invalid_mobile
+Jeremiah Sims,Jeremiah_Sims@white-baldwin.com,1977/06/09,28096,Jeremiah Sims,invalid_mobile
+David Davis,David_Davis@robinson-lee.net,1973/05/02,58916,David Davis,invalid_mobile
+Tiffany Bond,Tiffany_Bond@mccall.com,12/05/1984,44416,Tiffany Bond,invalid_mobile
+Patricia Chen,Patricia_Chen@williams-stevens.com,2014-02-14,358569,Patricia Chen,invalid_mobile;below_18
+William Crawford,William_Crawford@anderson-williams.com,02/27/1955,2446928,William Crawford,invalid_mobile
+Christina Roberts,Christina_Roberts@pruitt.com,08-10-2013,5548957,Christina Roberts,invalid_mobile;below_18
+Jerome Scott,Jerome_Scott@hughes.info,1984/08/07,1679511,Jerome Scott,invalid_mobile
+James Miles,James_Miles@mitchell-brown.net,07-01-1953,7903218,James Miles,invalid_mobile
+Michael Downs,Michael_Downs@james.com,1992-01-27,3353071,Michael Downs,invalid_mobile
+Kayla Wheeler,Kayla_Wheeler@marshall.com,1960/04/24,599109,Kayla Wheeler,invalid_mobile
+Charles Martin,Charles_Martin@ramirez.org,12/13/1992,4412325,Charles Martin,invalid_mobile
+Harold Bennett,Harold_Bennett@thomas.net,2013-12-02,1554351,Harold Bennett,invalid_mobile;below_18
+Michael Swanson,Michael_Swanson@patel.com,1968/08/15,12671,Michael Swanson,invalid_mobile
+Janet Mcdonald,Janet_Mcdonald@olson.org,08/13/1970,846171,Janet Mcdonald,invalid_mobile
+Jacob Smith,Jacob_Smith@graves.com,1996-05-04,6550300,Jacob Smith,invalid_mobile
+Alexa Webb,Alexa_Webb@owens.com,1963/07/21,124545,Alexa Webb,invalid_mobile
+Louis Klein,Louis_Klein@phillips-allen.com,12/20/1965,3367 1863,Louis Klein,invalid_mobile
+Tony Yu,Tony_Yu@esparza.com,06-11-1951,578805,Tony Yu,invalid_mobile
+Lisa Goodman,Lisa_Goodman@floyd-vasquez.com,2008-11-05,7551307,Lisa Goodman,invalid_mobile;below_18
+Kimberly Hernandez,Kimberly_Hernandez@moore-johnson.com,10/27/2008,78896,Kimberly Hernandez,invalid_mobile;below_18
+Phillip Friedman,Phillip_Friedman@arnold.biz,1988-10-15,1929376,Phillip Friedman,invalid_mobile
+Brian Lam,Brian_Lam@jones.com,04/09/2008,3411 1927,Brian Lam,invalid_mobile;below_18
+Blake Mclaughlin,Blake_Mclaughlin@rogers.com,08-06-2016,70699583,Blake Mclaughlin,below_18
+Billy Olsen,Billy_Olsen@cooper.com,1969-05-03,86056,Billy Olsen,invalid_mobile
+Shawn Brock,Shawn_Brock@lee.com,09-09-1967,8254877,Shawn Brock,invalid_mobile
+Danielle Jones,Danielle_Jones@nelson.com,1965-02-13,16871,Danielle Jones,invalid_mobile
+Jim Gomez,Jim_Gomez@cox-moore.com,1956/06/04,143811,Jim Gomez,invalid_mobile
+Sabrina Henderson,Sabrina_Henderson@reynolds.com,2008-02-20,4519243,Sabrina Henderson,invalid_mobile;below_18
+David Pennington,David_Pennington@graham.com,1975/03/02,36206,David Pennington,invalid_mobile
+Stephanie Bowman,Stephanie_Bowman@harvey-rodriguez.net,1951/05/21,9987944,Stephanie Bowman,invalid_mobile
+Joseph Frazier,Joseph_Frazier@lopez-lewis.net,03/13/2010,41346,Joseph Frazier,invalid_mobile;below_18
+Ryan Mclaughlin,Ryan_Mclaughlin@archer-snyder.com,2017-07-13,6722388,Ryan Mclaughlin,invalid_mobile;below_18
+Tony Hall,Tony_Hall@gamble-brown.com,02-10-1951,76596,Tony Hall,invalid_mobile
+John Obrien,John_Obrien@pearson-hansen.com,01/16/1958,380373,John Obrien,invalid_mobile
+Barbara Johnson,Barbara_Johnson@valdez-brown.biz,23-05-2004,256605,Barbara Johnson,invalid_mobile;below_18
+Carrie Miller,Carrie_Miller@taylor.com,01-04-2017,910407,Carrie Miller,invalid_mobile;below_18
+Samantha Dean,Samantha_Dean@bennett.net,1961/02/13,2718451,Samantha Dean,invalid_mobile
+Jamie Wilson,Jamie_Wilson@kane-french.info,2014-01-10,47161,Jamie Wilson,invalid_mobile;below_18
+Carlos Acosta,Carlos_Acosta@hartman-zamora.com,2004-07-05,5026001,Carlos Acosta,invalid_mobile;below_18
+Amy Bennett,Amy_Bennett@smith-chase.com,1964-01-26,25266,Amy Bennett,invalid_mobile
+Dominique Wells,Dominique_Wells@carter-hurst.com,2014/05/29,80856,Dominique Wells,invalid_mobile;below_18
+Michael Barton,Michael_Barton@marshall-henson.com,30-05-2007,29311,Michael Barton,invalid_mobile;below_18
+Megan Riggs,Megan_Riggs@turner.net,04-03-1974,661233,Megan Riggs,invalid_mobile
+Whitney Andrews,Whitney_Andrews@morris-zimmerman.com,26-12-1981,86756,Whitney Andrews,invalid_mobile
+Catherine Jones,Catherine_Jones@adams-cole.com,1997/09/26,95931,Catherine Jones,invalid_mobile
+William Andrews,William_Andrews@willis.com,1996-03-22,3711394,William Andrews,invalid_mobile
+Kathleen Edwards,Kathleen_Edwards@clark.com,2017-08-08,75094807,Kathleen Edwards,below_18
+Justin Johnson,Justin_Johnson@gordon.com,1954-02-05,13111,Justin Johnson,invalid_mobile
+Valerie Young,Valerie_Young@mueller.com,07/14/1954,829539,Valerie Young,invalid_mobile
+Samantha Perez,Samantha_Perez@bailey.org,23-06-1994,406497,Samantha Perez,invalid_mobile
+Devin Allen,Devin_Allen@decker-frank.com,10/24/1975,52676,Devin Allen,invalid_mobile
+Stephanie Little,Stephanie_Little@hicks-anderson.net,23-11-1950,8730597,Stephanie Little,invalid_mobile
+Melanie Miller,Melanie_Miller@martinez.biz,05/15/1987,48116,Melanie Miller,invalid_mobile
+Erica Beck,Erica_Beck@lane.com,23-04-1957,459363,Erica Beck,invalid_mobile
+Toni Dunn,Toni_Dunn@chapman.com,08/31/1980,8967 4459,Toni Dunn,invalid_mobile
+David Jackson,David_Jackson@stokes-guzman.com,08/25/1968,735651,David Jackson,invalid_mobile
+Melanie Gates,Melanie_Gates@yang.com,05-01-2012,78743751,Melanie Gates,below_18
+Jordan Lewis,Jordan_Lewis@nolan.net,14-12-1962,34596,Jordan Lewis,invalid_mobile
+Michele Johnson,Michele_Johnson@johnson-james.net,04-10-2005,33671,Michele Johnson,invalid_mobile;below_18
+Samantha Ryan,Samantha_Ryan@hernandez.com,2005-10-16,84616,Samantha Ryan,invalid_mobile;below_18
+Christopher Hudson,Christopher_Hudson@conrad.com,17-12-1959,21286,Christopher Hudson,invalid_mobile
+Zachary Williams,Zachary_Williams@jackson-dean.com,18-02-1978,7658953,Zachary Williams,invalid_mobile
+Donna Davis,Donna_Davis@garza.com,1968/08/09,53051,Donna Davis,invalid_mobile
+Christopher Nolan,Christopher_Nolan@black-copeland.biz,2017/11/17,459765,Christopher Nolan,invalid_mobile;below_18
+Evelyn Hanna,Evelyn_Hanna@mitchell-perez.org,2016/04/27,778125,Evelyn Hanna,invalid_mobile;below_18
+Jason Johnson,Jason_Johnson@edwards.com,02/13/1974,25696,Jason Johnson,invalid_mobile
+Barbara Caldwell,Barbara_Caldwell@lopez.org,1950/05/09,8702443,Barbara Caldwell,invalid_mobile
+Ronald Huff,Ronald_Huff@miles.com,2000/03/21,9563044,Ronald Huff,invalid_mobile
+Holly Norris,Holly_Norris@gutierrez-hurst.org,1969/01/06,8525392,Holly Norris,invalid_mobile
+Derrick Carter,Derrick_Carter@coleman-byrd.info,05-04-1964,33971,Derrick Carter,invalid_mobile
+Kenneth Golden,Kenneth_Golden@ramsey.com,2000/01/24,98796,Kenneth Golden,invalid_mobile
+Grace Edwards,Grace_Edwards@jones-kelley.com,08/08/2006,2539 4751,Grace Edwards,invalid_mobile;below_18
+Jonathan Rios,Jonathan_Rios@johnson.net,1981/09/19,489579,Jonathan Rios,invalid_mobile
+Mackenzie Miller,Mackenzie_Miller@bender-stanton.com,04/29/2015,5541943,Mackenzie Miller,invalid_mobile;below_18
+Tammy Taylor,Tammy_Taylor@pace.com,1950-07-12,6704671,Tammy Taylor,invalid_mobile
+Reginald King,Reginald_King@turner.net,04-10-1981,3018387,Reginald King,invalid_mobile
+Matthew Fletcher,Matthew_Fletcher@perez.com,2005/02/09,191049,Matthew Fletcher,invalid_mobile;below_18
+Elizabeth Jordan,Elizabeth_Jordan@schroeder-mcdaniel.com,01/07/2004,3007 4335,Elizabeth Jordan,invalid_mobile;below_18
+Sally Santiago,Sally_Santiago@bowers.net,21-02-1973,58976,Sally Santiago,invalid_mobile
+Jason Saunders,Jason_Saunders@campos.org,1995/10/06,2477245,Jason Saunders,invalid_mobile
+Carol Hernandez,Carol_Hernandez@rowe.net,08/04/1985,9701973,Carol Hernandez,invalid_mobile
+James Hess DDS,James_Hess@humphrey-white.org,01/16/1990,572313,James Hess,invalid_mobile
+Michael Stokes,Michael_Stokes@navarro.com,06/11/1979,6755470,Michael Stokes,invalid_mobile
+Jeffrey Martinez,Jeffrey_Martinez@flynn-young.info,02-09-2017,32055439,Jeffrey Martinez,below_18
+Joseph Bell,Joseph_Bell@gallegos.net,09/16/1958,91156,Joseph Bell,invalid_mobile
+Pamela Black,Pamela_Black@powers-decker.biz,02/18/1992,43891,Pamela Black,invalid_mobile
+Robert Jordan,Robert_Jordan@boyer.com,2015/03/02,739083,Robert Jordan,invalid_mobile;below_18
+Kathy Baker,Kathy_Baker@griffin-williams.com,08/18/2000,3274433,Kathy Baker,invalid_mobile
+Brian Bailey,Brian_Bailey@bush-hart.biz,1990-07-07,71636,Brian Bailey,invalid_mobile
+Mitchell Clark,Mitchell_Clark@miller.com,1964/08/29,19311,Mitchell Clark,invalid_mobile
+Kelly Mcintyre,Kelly_Mcintyre@mosley.net,24-03-2014,89346135,Kelly Mcintyre,below_18
+Latoya Gonzales,Latoya_Gonzales@ross.org,17-12-2009,75186,Latoya Gonzales,invalid_mobile;below_18
+Olivia Mayo,Olivia_Mayo@alexander.com,01/19/2017,5753231,Olivia Mayo,invalid_mobile;below_18
+Todd Jennings,Todd_Jennings@house.com,1986/06/21,5296082,Todd Jennings,invalid_mobile
+Paul Dixon,Paul_Dixon@smith.com,1965-03-25,14406,Paul Dixon,invalid_mobile
+Julie Torres,Julie_Torres@harris.com,1992-01-22,6153134,Julie Torres,invalid_mobile
+James Miller,James_Miller@ellis-fox.com,1999-09-01,6415543,James Miller,invalid_mobile
+John Howard,John_Howard@zimmerman.com,02-06-1998,527469,John Howard,invalid_mobile
+Anne Savage,Anne_Savage@moore.com,07/17/1990,13466,Anne Savage,invalid_mobile
+Mrs. Amber Esparza,Amber_Esparza@hoffman.com,2004/12/30,12096,Amber Esparza,invalid_mobile;below_18
+Todd Armstrong,Todd_Armstrong@carlson-smith.info,21-08-1973,7744906,Todd Armstrong,invalid_mobile
+Aaron Richardson,Aaron_Richardson@savage-swanson.org,03-06-1991,161793,Aaron Richardson,invalid_mobile
+Gregory Pollard,Gregory_Pollard@smith-hensley.com,25-07-1962,3299773,Gregory Pollard,invalid_mobile
+Chelsea Madden,Chelsea_Madden@cooper.com,12/21/1962,2231440,Chelsea Madden,invalid_mobile
+Misty Ramos,Misty_Ramos@stokes.org,11/03/2007,243207,Misty Ramos,invalid_mobile;below_18
+Ryan Murphy,Ryan_Murphy@brooks.com,1974-10-28,51176,Ryan Murphy,invalid_mobile
+Brittany Sandoval,Brittany_Sandoval@gibson.biz,21-02-2012,6974969,Brittany Sandoval,invalid_mobile;below_18
+Kristen Banks,Kristen_Banks@gentry-curtis.biz,2003-12-03,70256,Kristen Banks,invalid_mobile
+Julia Stokes,Julia_Stokes@wood.com,1959/03/21,21651,Julia Stokes,invalid_mobile
+Amber Thompson,Amber_Thompson@mcdonald.net,1980/10/25,24291,Amber Thompson,invalid_mobile
+Mrs. Valerie Norton,Valerie_Norton@villanueva.com,1967-07-05,83236,Valerie Norton,invalid_mobile
+Jennifer Gonzales,Jennifer_Gonzales@morris.org,08/22/1993,9366190,Jennifer Gonzales,invalid_mobile
+Jacqueline Hernandez,Jacqueline_Hernandez@johnson.com,1952/01/29,76556,Jacqueline Hernandez,invalid_mobile
+Jennifer Miller,Jennifer_Miller@miller-ray.net,08-02-1971,996507,Jennifer Miller,invalid_mobile
+Dawn Bond,Dawn_Bond@robinson.com,1974/01/05,59871,Dawn Bond,invalid_mobile
+Tara Daniel,Tara_Daniel@ross.com,1982/07/01,9372196,Tara Daniel,invalid_mobile
+Victor Serrano,Victor_Serrano@nelson-hudson.com,09-02-1959,9598338,Victor Serrano,invalid_mobile
+Elizabeth Bell,Elizabeth_Bell@nguyen.org,03/29/2001,2019 2319,Elizabeth Bell,invalid_mobile
+Julie Coleman,Julie_Coleman@knight.com,1951/01/04,332217,Julie Coleman,invalid_mobile
+Jennifer Brown,Jennifer_Brown@cook.net,2010/01/10,54129959,Jennifer Brown,below_18
+John Ramirez,John_Ramirez@smith-edwards.com,2000-03-07,30631,John Ramirez,invalid_mobile
+Becky Hall,Becky_Hall@padilla.com,07/26/2006,215037,Becky Hall,invalid_mobile;below_18
+Christine Smith,Christine_Smith@hansen.com,1963-04-27,70341,Christine Smith,invalid_mobile
+Christopher Osborne,Christopher_Osborne@parker.com,1991/08/06,12466,Christopher Osborne,invalid_mobile
+Jacob Hernandez,Jacob_Hernandez@young-jenkins.com,1969/05/20,26011,Jacob Hernandez,invalid_mobile
+Jennifer Rogers,Jennifer_Rogers@campbell.com,1997/05/19,44671,Jennifer Rogers,invalid_mobile
+Tammy Young,Tammy_Young@jenkins-jones.com,05/22/1989,8107723,Tammy Young,invalid_mobile
+James Lewis,James_Lewis@gonzalez.org,05-03-2008,47055567,James Lewis,below_18
+Charles Stanley,Charles_Stanley@waters.biz,1960-05-23,49406,Charles Stanley,invalid_mobile
+Christina Garcia,Christina_Garcia@vargas.com,1999/06/11,624873,Christina Garcia,invalid_mobile
+Heather Davis,Heather_Davis@small-haas.com,1951-11-03,675903,Heather Davis,invalid_mobile
+Ashley Fuentes,Ashley_Fuentes@johnson.net,1959-04-28,72316,Ashley Fuentes,invalid_mobile
+Jorge Brown,Jorge_Brown@thomas-green.org,2004/10/21,25446,Jorge Brown,invalid_mobile;below_18
+Sierra Park MD,Sierra_Park@brewer.net,1985-10-19,2510418,Sierra Park,invalid_mobile
+Todd Miller,Todd_Miller@blankenship-hernandez.com,10/17/1976,54616,Todd Miller,invalid_mobile
+Crystal Luna,Crystal_Luna@davis.org,1961/02/24,43706,Crystal Luna,invalid_mobile
+Devin Flores,Devin_Flores@wells-wang.com,1977-10-13,594807,Devin Flores,invalid_mobile
+Danielle Snyder,Danielle_Snyder@hayes-davis.com,04/22/2013,90666,Danielle Snyder,invalid_mobile;below_18
+Edward Carney,Edward_Carney@lopez.com,07-12-1991,145035,Edward Carney,invalid_mobile
+Joseph Grimes,Joseph_Grimes@diaz.com,07/28/1961,66511,Joseph Grimes,invalid_mobile
+April Fowler,April_Fowler@fitzgerald.com,13-12-2017,83236,April Fowler,invalid_mobile;below_18
+Michelle Mccoy,Michelle_Mccoy@johnson.biz,1987/06/20,5999330,Michelle Mccoy,invalid_mobile
+Alicia Stone MD,Alicia_Stone@oconnell.com,10/15/1973,42516,Alicia Stone,invalid_mobile
+Micheal Lloyd,Micheal_Lloyd@vaughn.net,2016/04/30,325203,Micheal Lloyd,invalid_mobile;below_18
+Richard Ortiz,Richard_Ortiz@burton.com,07/19/2013,8811 9227,Richard Ortiz,invalid_mobile;below_18
+Jasmine Reyes,Jasmine_Reyes@miller.com,1968/09/10,54816,Jasmine Reyes,invalid_mobile
+Tony Smith,Tony_Smith@davis.com,12/22/2005,6671 1831,Tony Smith,invalid_mobile;below_18
+Mary Melton,Mary_Melton@dorsey-wheeler.biz,1951/11/24,74341,Mary Melton,invalid_mobile
+William Griffin,William_Griffin@jenkins.com,1971/06/22,4299114,William Griffin,invalid_mobile
+Scott Vargas,Scott_Vargas@elliott.net,1953-05-07,28386,Scott Vargas,invalid_mobile
+Adam Guerra,Adam_Guerra@nelson-reynolds.com,14-06-1996,9600599,Adam Guerra,invalid_mobile
+Christina Vang,Christina_Vang@miller.com,1996/04/05,2106812,Christina Vang,invalid_mobile
+Nicole Williams,Nicole_Williams@rivera.com,08-05-1950,628269,Nicole Williams,invalid_mobile
+Erica Powers,Erica_Powers@harris.org,04/15/1957,88026,Erica Powers,invalid_mobile
+Angela Garcia,Angela_Garcia@fernandez-long.com,1951/01/27,43266,Angela Garcia,invalid_mobile
+Melissa Brown,Melissa_Brown@walker-phillips.com,1995-02-05,99061,Melissa Brown,invalid_mobile
+John Santiago,John_Santiago@rodriguez.net,08-01-2015,7427883,John Santiago,invalid_mobile;below_18
+Donald Nelson,Donald_Nelson@fuller.com,04/16/1980,461871,Donald Nelson,invalid_mobile
+Misty Bell,Misty_Bell@webb.com,04/08/1993,217155,Misty Bell,invalid_mobile
+Vanessa Barnes,Vanessa_Barnes@mcknight.com,1975/06/30,6571958,Vanessa Barnes,invalid_mobile
+Brian Austin,Brian_Austin@jones.com,1975/10/01,870147,Brian Austin,invalid_mobile
+Melanie Blake,Melanie_Blake@anderson-martin.com,1981-06-10,384855,Melanie Blake,invalid_mobile
+Marvin Franklin,Marvin_Franklin@andrews-kelley.info,2018-11-07,12200175,Marvin Franklin,below_18
+Angela Massey,Angela_Massey@ford.com,1970-12-09,2971228,Angela Massey,invalid_mobile
+Lisa Cole,Lisa_Cole@gaines-pham.org,11/06/1976,66221,Lisa Cole,invalid_mobile
+Jeffrey Salas,Jeffrey_Salas@hernandez-weber.org,09/08/1991,8635 9023,Jeffrey Salas,invalid_mobile
+Richard Reeves,Richard_Reeves@pena.biz,07/25/1973,48586,Richard Reeves,invalid_mobile
+Heather Maldonado,Heather_Maldonado@warner-cole.info,1999/07/14,6672842,Heather Maldonado,invalid_mobile
+Shelly Mcdaniel,Shelly_Mcdaniel@little.com,10/28/1995,8659 9403,Shelly Mcdaniel,invalid_mobile
+David Ryan,David_Ryan@williams.com,1975-07-28,59886,David Ryan,invalid_mobile
+Tyler Trevino,Tyler_Trevino@greene.info,24-08-2005,99178143,Tyler Trevino,below_18
+Christina Jackson,Christina_Jackson@griffith-thomas.net,29-08-2002,18006,Christina Jackson,invalid_mobile
+Jodi Peterson,Jodi_Peterson@wall-perry.org,21-12-1999,3840194,Jodi Peterson,invalid_mobile
+Melissa Carney,Melissa_Carney@ramirez-leach.com,1975-09-15,297843,Melissa Carney,invalid_mobile
+David Cole,David_Cole@montgomery-stafford.com,1969-11-12,37986,David Cole,invalid_mobile
+Ricardo Weber,Ricardo_Weber@foster-mayer.com,11/14/1964,1573923,Ricardo Weber,invalid_mobile
+Jessica Mckenzie,Jessica_Mckenzie@day.com,08/11/1950,579219,Jessica Mckenzie,invalid_mobile
+James Ramirez,James_Ramirez@phillips.com,1998-06-10,455655,James Ramirez,invalid_mobile
+Jeffrey Wise,Jeffrey_Wise@baker.org,1987/10/11,5587429,Jeffrey Wise,invalid_mobile
+Brandy Fisher,Brandy_Fisher@baird.com,2012/06/30,8728378,Brandy Fisher,invalid_mobile;below_18
+Renee Barrera,Renee_Barrera@baxter-anderson.info,10-05-1976,340911,Renee Barrera,invalid_mobile
+Alexander Mckee,Alexander_Mckee@lewis.com,2010-10-29,47776,Alexander Mckee,invalid_mobile;below_18
+Sheryl Hill,Sheryl_Hill@johnson.net,1962/08/31,79331,Sheryl Hill,invalid_mobile
+Sandra White,Sandra_White@williams.com,1953/05/13,77216,Sandra White,invalid_mobile
+Christopher Thompson,Christopher_Thompson@peterson.biz,1994-08-02,383049,Christopher Thompson,invalid_mobile
+Theresa Johnson,Theresa_Johnson@chapman-quinn.com,08/12/2010,6735 3751,Theresa Johnson,invalid_mobile;below_18
+Kristopher Cunningham,Kristopher_Cunningham@cunningham.org,1974/09/08,5811499,Kristopher Cunningham,invalid_mobile
+Nathan Morgan,Nathan_Morgan@larson.com,2013-12-24,98173775,Nathan Morgan,below_18
+David Murray,David_Murray@mclaughlin.com,1994-12-09,95171,David Murray,invalid_mobile
+Daniel Herrera,Daniel_Herrera@carter.com,2001/02/27,83606,Daniel Herrera,invalid_mobile
+John Mcpherson,John_Mcpherson@jensen.com,08/16/1968,218979,John Mcpherson,invalid_mobile
+Scott Simmons,Scott_Simmons@ritter-goodwin.info,1983/11/18,97746,Scott Simmons,invalid_mobile
+Gary Tran,Gary_Tran@henry.net,06/27/1979,184149,Gary Tran,invalid_mobile
+Erica Vaughn,Erica_Vaughn@erickson-evans.org,11/13/1958,8347 2491,Erica Vaughn,invalid_mobile
+Jennifer Peterson,Jennifer_Peterson@chung.info,1957-12-19,14746,Jennifer Peterson,invalid_mobile
+April Mccormick,April_Mccormick@douglas.com,08/15/1963,1458325,April Mccormick,invalid_mobile
+Justin Davis,Justin_Davis@perry.biz,1992-04-13,6929798,Justin Davis,invalid_mobile
+Julia Hall,Julia_Hall@cisneros.com,1991/07/17,12391,Julia Hall,invalid_mobile
+Anna Cunningham,Anna_Cunningham@willis.org,09/12/1986,80726,Anna Cunningham,invalid_mobile
+Jacob Stevens,Jacob_Stevens@holland.com,2006-10-22,27840591,Jacob Stevens,below_18
+Jerry Payne,Jerry_Payne@burgess.com,1988/09/02,46946,Jerry Payne,invalid_mobile
+Mark Collins,Mark_Collins@sullivan.biz,03/09/1977,9028797,Mark Collins,invalid_mobile
+Benjamin Clark,Benjamin_Clark@cooper-ortega.com,1997/10/08,5598447,Benjamin Clark,invalid_mobile
+Lisa Norton,Lisa_Norton@huffman.com,1973/12/21,707067,Lisa Norton,invalid_mobile
+Christopher Smith,Christopher_Smith@lamb.com,07/07/1981,4259 4715,Christopher Smith,invalid_mobile
+Mary Myers,Mary_Myers@perez-tanner.com,1968-07-15,9706656,Mary Myers,invalid_mobile
+Stephanie Skinner,Stephanie_Skinner@bailey-reyes.com,1999/08/20,87466,Stephanie Skinner,invalid_mobile
+Dave Kelly,Dave_Kelly@oneal-jones.net,26-06-1973,8204323,Dave Kelly,invalid_mobile
+Patricia Gallagher,Patricia_Gallagher@lawrence.org,2018/03/02,68350383,Patricia Gallagher,below_18
+Shaun Holloway,Shaun_Holloway@steele.com,1987/06/23,601695,Shaun Holloway,invalid_mobile
+Marc Love,Marc_Love@martin.com,07/22/1955,9679 6419,Marc Love,invalid_mobile
+Michael Mayer,Michael_Mayer@davis.net,04/14/1971,2025990,Michael Mayer,invalid_mobile
+Mason Rodriguez,Mason_Rodriguez@morris.com,10/23/2005,53041,Mason Rodriguez,invalid_mobile;below_18
+Jason Payne,Jason_Payne@bell.net,1997/04/30,18901,Jason Payne,invalid_mobile
+Johnny Hicks,Johnny_Hicks@galvan.biz,02/17/2005,9824893,Johnny Hicks,invalid_mobile;below_18
+Lisa Rodgers,Lisa_Rodgers@jenkins.com,1956-01-25,3937403,Lisa Rodgers,invalid_mobile
+Sarah Tyler,Sarah_Tyler@sloan.com,01-08-1981,98166,Sarah Tyler,invalid_mobile
+Brian Rodriguez,Brian_Rodriguez@lawrence-johnson.biz,1982-12-21,6485942,Brian Rodriguez,invalid_mobile
+Charlene Jones,Charlene_Jones@fox.com,2008-05-22,321531,Charlene Jones,invalid_mobile;below_18
+Carol Patrick,Carol_Patrick@noble.info,12/30/1959,1354473,Carol Patrick,invalid_mobile
+Mrs. Jessica Gibson DDS,Jessica_Gibson@wall.com,1996-08-24,3945845,Jessica Gibson,invalid_mobile
+Linda Sullivan,Linda_Sullivan@clayton.org,12/19/1991,4560718,Linda Sullivan,invalid_mobile
+Donna Carrillo,Donna_Carrillo@rush.org,2008-01-19,76211239,Donna Carrillo,below_18
+Scott Baker,Scott_Baker@frey.com,1995/11/11,99946,Scott Baker,invalid_mobile
+Brian Jensen,Brian_Jensen@berger.com,14-07-1960,98736,Brian Jensen,invalid_mobile
+Veronica Zavala,Veronica_Zavala@wilson.org,27-02-2009,58144359,Veronica Zavala,below_18
+Jenny Fields,Jenny_Fields@ward.com,1991/02/06,946185,Jenny Fields,invalid_mobile
+George Monroe,George_Monroe@guzman.biz,09/15/1990,916341,George Monroe,invalid_mobile
+Michael Smith,Michael_Smith@allen.info,07/10/1981,3928149,Michael Smith,invalid_mobile
+Kevin Oliver,Kevin_Oliver@duffy-holland.biz,2001/10/26,23056,Kevin Oliver,invalid_mobile
+Nicholas Mejia,Nicholas_Mejia@gibson.com,22-03-1956,63151,Nicholas Mejia,invalid_mobile
+Phillip Logan,Phillip_Logan@campbell-norris.com,11/08/1985,59586,Phillip Logan,invalid_mobile
+Thomas Alvarez,Thomas_Alvarez@cole-mitchell.com,1994/02/16,251115,Thomas Alvarez,invalid_mobile
+Kaitlin Lawson,Kaitlin_Lawson@rodriguez-green.com,2001/09/04,36701,Kaitlin Lawson,invalid_mobile
+Carlos Wagner,Carlos_Wagner@taylor.info,2011/06/18,159465,Carlos Wagner,invalid_mobile;below_18
+Christopher Anderson,Christopher_Anderson@howell.biz,1981-06-11,21311,Christopher Anderson,invalid_mobile
+Julie Oneal,Julie_Oneal@blair.biz,03-05-1975,833781,Julie Oneal,invalid_mobile
+Megan Friedman,Megan_Friedman@garcia.com,1973-05-04,76256,Megan Friedman,invalid_mobile
+Cheryl Taylor,Cheryl_Taylor@willis.com,1971-01-25,732711,Cheryl Taylor,invalid_mobile
+Eric Richards,Eric_Richards@reeves.net,1950/02/10,93011,Eric Richards,invalid_mobile
+Rebecca Mitchell,Rebecca_Mitchell@bullock.org,2011-05-12,17774807,Rebecca Mitchell,below_18
+Anna Patrick,Anna_Patrick@vance.com,10-12-1963,94576,Anna Patrick,invalid_mobile
+Eric Schmidt,Eric_Schmidt@roberson.com,25-04-1966,21721,Eric Schmidt,invalid_mobile
+Mark Campbell,Mark_Campbell@brown.com,2004-07-05,61242343,Mark Campbell,below_18
+Taylor Oconnell,Taylor_Oconnell@campbell.com,1952-05-08,469089,Taylor Oconnell,invalid_mobile
+Debra Peters,Debra_Peters@smith.com,08/04/1982,6911 5179,Debra Peters,invalid_mobile
+William Russell,William_Russell@evans.com,06/01/1969,176085,William Russell,invalid_mobile
+Ryan Mcdaniel,Ryan_Mcdaniel@white.com,1987-08-04,49071,Ryan Mcdaniel,invalid_mobile
+Jacqueline Frazier,Jacqueline_Frazier@pollard.info,03/06/2005,7887 7139,Jacqueline Frazier,invalid_mobile;below_18
+Steven Stuart,Steven_Stuart@murray-todd.org,1990-01-21,836013,Steven Stuart,invalid_mobile
+Emily Rodriguez,Emily_Rodriguez@allen-richards.com,1985/06/11,6593581,Emily Rodriguez,invalid_mobile
+Ryan Perez,Ryan_Perez@taylor.com,31-05-1955,27721,Ryan Perez,invalid_mobile
+Megan Lopez,Megan_Lopez@williams-gonzales.com,1953/07/02,184833,Megan Lopez,invalid_mobile
+Joseph Perez,Joseph_Perez@ryan.com,09/09/1974,6187 6187,Joseph Perez,invalid_mobile
+Kimberly Wright,Kimberly_Wright@tran.com,2013-02-12,22291,Kimberly Wright,invalid_mobile;below_18
+Donald Braun,Donald_Braun@madden.com,04/16/2004,4348877,Donald Braun,invalid_mobile;below_18
+Savannah Reese,Savannah_Reese@townsend-rios.com,07/23/2018,4211 2635,Savannah Reese,invalid_mobile;below_18
+Leslie Wiggins,Leslie_Wiggins@reese-camacho.com,21-09-2014,95381,Leslie Wiggins,invalid_mobile;below_18
+Mrs. Deanna Gonzalez,Deanna_Gonzalez@murray.com,1965-06-25,38166,Deanna Gonzalez,invalid_mobile
+Derrick Brown PhD,Derrick_Brown@rodriguez.info,18-08-1978,46266,Derrick Brown,invalid_mobile
+Meghan Davis,Meghan_Davis@ward.com,2009/02/22,73453023,Meghan Davis,below_18
+Stephanie Morgan,Stephanie_Morgan@howard.com,12/31/1988,137259,Stephanie Morgan,invalid_mobile
+Caleb Singh,Caleb_Singh@campbell-allen.com,24-02-1974,384849,Caleb Singh,invalid_mobile
+Cassandra Andrade,Cassandra_Andrade@becker-clark.com,1980-09-15,693843,Cassandra Andrade,invalid_mobile
+Robert Hall,Robert_Hall@osborn.com,1972-05-09,86501,Robert Hall,invalid_mobile
+Kenneth Hill,Kenneth_Hill@allen-brown.com,01/28/2002,6015920,Kenneth Hill,invalid_mobile
+David Brown,David_Brown@patton-garcia.com,11/28/2011,17471,David Brown,invalid_mobile;below_18
+Stephen Meyers,Stephen_Meyers@welch.com,05/17/1951,8823130,Stephen Meyers,invalid_mobile
+Victor Becker,Victor_Becker@williams-little.info,1969/05/29,6671232,Victor Becker,invalid_mobile
+Thomas Sanchez,Thomas_Sanchez@cunningham-reid.net,09/14/1957,2399 4083,Thomas Sanchez,invalid_mobile
+Michael Chapman,Michael_Chapman@bennett-tucker.org,1958/10/05,407643,Michael Chapman,invalid_mobile
+Stephen Lam,Stephen_Lam@estrada-young.com,1952/01/09,3454340,Stephen Lam,invalid_mobile
+Theresa Wells,Theresa_Wells@smith.biz,2004/01/17,5855179,Theresa Wells,invalid_mobile;below_18
+Richard Barrera,Richard_Barrera@jackson.com,1950-12-16,3993270,Richard Barrera,invalid_mobile
+Kelly Boyle,Kelly_Boyle@hayes.com,1995-07-17,363399,Kelly Boyle,invalid_mobile
+James Hicks,James_Hicks@mendoza.com,07/04/1981,7759690,James Hicks,invalid_mobile
+Todd Simon PhD,Todd_Simon@lopez.com,01/06/1998,6364541,Todd Simon,invalid_mobile
+Jason Meyer,Jason_Meyer@murphy-mitchell.org,2018/06/08,980619,Jason Meyer,invalid_mobile;below_18
+Lindsay Rivera,Lindsay_Rivera@smith.com,05/22/2001,70331,Lindsay Rivera,invalid_mobile
+Michael Peterson,Michael_Peterson@johnson.com,02/17/1996,58731,Michael Peterson,invalid_mobile
+Jennifer Martin PhD,Jennifer_Martin@mack.com,2010/01/06,41092831,Jennifer Martin,below_18
+Martin Solomon,Martin_Solomon@graves.net,07/20/1983,4963442,Martin Solomon,invalid_mobile
+Rebecca Quinn,Rebecca_Quinn@moore-crawford.info,1960-11-27,22971,Rebecca Quinn,invalid_mobile
+Leslie Ruiz,Leslie_Ruiz@liu.com,12-07-1966,34336,Leslie Ruiz,invalid_mobile
+Rebecca Wright,Rebecca_Wright@walker.com,2013-09-14,834999,Rebecca Wright,invalid_mobile;below_18
+Jacqueline Phillips,Jacqueline_Phillips@larson.com,01/18/1988,5579 3915,Jacqueline Phillips,invalid_mobile
+Wesley Erickson,Wesley_Erickson@reyes.com,1978/06/08,32576,Wesley Erickson,invalid_mobile
+Janet West,Janet_West@chung-anderson.com,2001-01-24,687465,Janet West,invalid_mobile
+James Barnett,James_Barnett@evans-gonzalez.com,11/20/2016,573813,James Barnett,invalid_mobile;below_18
+Eric Scott,Eric_Scott@mccormick.com,22-05-2001,9183959,Eric Scott,invalid_mobile
+James Jones,James_Jones@bell.biz,04-04-1987,8285565,James Jones,invalid_mobile
+Joshua Baker DVM,Joshua_Baker@bradley.info,1966-02-05,614895,Joshua Baker,invalid_mobile
+Kathleen Baker,Kathleen_Baker@evans.com,1970/08/03,129849,Kathleen Baker,invalid_mobile
+Michael Clark,Michael_Clark@rojas.info,10-09-2016,91346,Michael Clark,invalid_mobile;below_18
+Renee Williams,Renee_Williams@smith.com,30-01-2013,505671,Renee Williams,invalid_mobile;below_18
+Robert White,Robert_White@schwartz.com,02/03/1990,6559120,Robert White,invalid_mobile
+Teresa Figueroa,Teresa_Figueroa@love.info,1950/11/19,32271,Teresa Figueroa,invalid_mobile
+Ashley Murphy,Ashley_Murphy@hart-alvarado.com,31-12-1952,254127,Ashley Murphy,invalid_mobile
+Laura Peterson,Laura_Peterson@morton.com,1965/04/22,5968411,Laura Peterson,invalid_mobile
+Brian Cardenas,Brian_Cardenas@allen.com,04-03-2000,2338540,Brian Cardenas,invalid_mobile
+Dana Conrad,Dana_Conrad@french-maxwell.com,21-12-1971,325467,Dana Conrad,invalid_mobile
+Kathleen Deleon,Kathleen_Deleon@cervantes-spears.org,1974/01/20,58746,Kathleen Deleon,invalid_mobile
+Ebony Garcia,Ebony_Garcia@williams.net,11-01-1968,7406281,Ebony Garcia,invalid_mobile
+Johnathan Allen,Johnathan_Allen@young.com,09/01/2000,551829,Johnathan Allen,invalid_mobile
+Laura Faulkner,Laura_Faulkner@underwood.org,06/11/2003,25621,Laura Faulkner,invalid_mobile
+Kirk Pearson,Kirk_Pearson@mason.net,1961/11/14,790413,Kirk Pearson,invalid_mobile
+Christina Moore,Christina_Moore@harvey.com,05/24/1955,89156,Christina Moore,invalid_mobile
+Laura Diaz,Laura_Diaz@wall-cross.com,1962/03/29,5299925,Laura Diaz,invalid_mobile
+Jerry Stuart,Jerry_Stuart@king.com,2018/05/25,6111134,Jerry Stuart,invalid_mobile;below_18
+Brianna Griffith,Brianna_Griffith@hughes.com,1951-10-30,7867399,Brianna Griffith,invalid_mobile
+Kenneth Lopez,Kenneth_Lopez@hess.biz,1997-01-26,5647867,Kenneth Lopez,invalid_mobile
+Wesley Krause,Wesley_Krause@sharp.com,22-02-2003,32951,Wesley Krause,invalid_mobile
+Derek Sullivan,Derek_Sullivan@weeks.org,18-01-1977,73526,Derek Sullivan,invalid_mobile
+Miss Monica Mcdonald,Monica_Mcdonald@massey.com,1972-06-14,5015753,Monica Mcdonald,invalid_mobile
+Brianna Ramirez,Brianna_Ramirez@jones-stone.com,2018/05/21,64836,Brianna Ramirez,invalid_mobile;below_18
+Robert Decker,Robert_Decker@travis.com,1979/10/21,8688688,Robert Decker,invalid_mobile
+Michael Bryant,Michael_Bryant@harris.net,26-12-1993,1333389,Michael Bryant,invalid_mobile
+Jamie Silva,Jamie_Silva@shepard.com,11/28/1983,824487,Jamie Silva,invalid_mobile
+Steven Jones,Steven_Jones@pearson-phelps.com,27-12-1964,544023,Steven Jones,invalid_mobile
+Elizabeth Stein,Elizabeth_Stein@zimmerman-hurley.com,1977/01/25,785703,Elizabeth Stein,invalid_mobile
+Brandi Werner,Brandi_Werner@cooper.info,2012-07-08,447507,Brandi Werner,invalid_mobile;below_18
+Derrick Jones,Derrick_Jones@montgomery-green.net,1998/03/16,3524116,Derrick Jones,invalid_mobile
+Michelle Price,Michelle_Price@wu.com,2008/11/06,649425,Michelle Price,invalid_mobile;below_18
+Kara Silva,Kara_Silva@wood.com,18-10-1996,908781,Kara Silva,invalid_mobile
+Lisa Cox,Lisa_Cox@turner-miller.com,02/22/1984,4848390,Lisa Cox,invalid_mobile
+Jonathan Armstrong,Jonathan_Armstrong@flores.com,02/06/1993,99926,Jonathan Armstrong,invalid_mobile
+Amber Payne,Amber_Payne@winters.com,1972/08/12,1431816,Amber Payne,invalid_mobile
+Patricia Moore,Patricia_Moore@moyer-campbell.com,05/12/2008,4391 4515,Patricia Moore,invalid_mobile;below_18
+Susan Colon,Susan_Colon@harris.info,2000/11/22,3040143,Susan Colon,invalid_mobile
+Ryan Morgan,Ryan_Morgan@gibson.org,1955/08/03,3472855,Ryan Morgan,invalid_mobile
+Chad Willis,Chad_Willis@thomas.net,22-06-1970,22391,Chad Willis,invalid_mobile
+Stephanie Jones,Stephanie_Jones@clark-morris.info,2018-12-10,8382501,Stephanie Jones,invalid_mobile;below_18
+Jeffrey Garcia,Jeffrey_Garcia@gomez-walters.com,1967/11/14,85236,Jeffrey Garcia,invalid_mobile
+Erik Walker,Erik_Walker@dunn-neal.info,2008/12/09,564231,Erik Walker,invalid_mobile;below_18
+Steven Murray,Steven_Murray@maynard.com,03/20/1993,437001,Steven Murray,invalid_mobile
+Samuel Simmons,Samuel_Simmons@summers-young.com,04/07/1992,75286,Samuel Simmons,invalid_mobile
+Barbara Brown,Barbara_Brown@hood.info,29-06-1961,1880264,Barbara Brown,invalid_mobile
+Jacob Yang,Jacob_Yang@knapp.com,02/28/2001,74321,Jacob Yang,invalid_mobile
+Jennifer Roberts,Jennifer_Roberts@ball.com,29-11-1959,62701,Jennifer Roberts,invalid_mobile
+Ashley Schultz,Ashley_Schultz@long-obrien.com,11/12/1959,1591997,Ashley Schultz,invalid_mobile
+Elizabeth Swanson,Elizabeth_Swanson@garcia-roberts.com,1951/12/12,31256,Elizabeth Swanson,invalid_mobile
+Jonathan Lawrence MD,Jonathan_Lawrence@reed.com,1954/05/06,608139,Jonathan Lawrence,invalid_mobile
+Linda Rodriguez,Linda_Rodriguez@rice.net,1977/03/06,92661,Linda Rodriguez,invalid_mobile
+Molly Tate,Molly_Tate@johnson.info,15-09-1992,4464699,Molly Tate,invalid_mobile
+Patrick Mosley,Patrick_Mosley@adams.org,03/16/2014,18381,Patrick Mosley,invalid_mobile;below_18
+Anita Nelson,Anita_Nelson@price.com,09/07/1963,810447,Anita Nelson,invalid_mobile
+Susan Harris,Susan_Harris@martinez.com,1975/01/25,348609,Susan Harris,invalid_mobile
+John Conrad,John_Conrad@hahn-newman.com,11/28/2002,980463,John Conrad,invalid_mobile
+Timothy Allen,Timothy_Allen@williams-graham.com,09-11-2014,3909676,Timothy Allen,invalid_mobile;below_18
+Susan Hansen,Susan_Hansen@ruiz.com,12/19/1974,805785,Susan Hansen,invalid_mobile
+Linda Woods,Linda_Woods@nelson.biz,12/16/2002,5367 5487,Linda Woods,invalid_mobile
+Linda White,Linda_White@owens-garcia.com,2003/10/29,957831,Linda White,invalid_mobile
+Mrs. Lisa Richardson MD,Lisa_Richardson@guerrero-rivas.com,09-10-1975,280467,Lisa Richardson,invalid_mobile
+Jennifer Dixon,Jennifer_Dixon@may.com,08-03-1988,112833,Jennifer Dixon,invalid_mobile
+Daniel James,Daniel_James@smith.biz,1951/06/28,995577,Daniel James,invalid_mobile
+Kyle Chaney,Kyle_Chaney@martin-gibson.biz,1985/02/20,7887356,Kyle Chaney,invalid_mobile
+Allison Jones,Allison_Jones@jacobs-coleman.org,11/25/1983,371925,Allison Jones,invalid_mobile
+Cameron Burton,Cameron_Burton@hubbard-gonzalez.com,08/24/1954,29171,Cameron Burton,invalid_mobile
+Joe Cook,Joe_Cook@cline-perkins.com,1986/03/26,12356,Joe Cook,invalid_mobile
+Robert Miller,Robert_Miller@graham.com,1956-10-01,69471,Robert Miller,invalid_mobile
+Olivia Martin,Olivia_Martin@carey.com,1977/07/31,32286,Olivia Martin,invalid_mobile
+Manuel Long,Manuel_Long@thomas.biz,2010-10-02,38196223,Manuel Long,below_18
+Richard Villanueva,Richard_Villanueva@macias.com,1961-10-21,9364468,Richard Villanueva,invalid_mobile
+Taylor Jones,Taylor_Jones@mendez.biz,23-12-2005,99236655,Taylor Jones,below_18
+Catherine Simmons,Catherine_Simmons@flores.com,2015-09-23,26756,Catherine Simmons,invalid_mobile;below_18
+Samantha Miranda,Samantha_Miranda@carter.com,12/31/2000,5738461,Samantha Miranda,invalid_mobile
+Sarah Brown,Sarah_Brown@johnson.info,27-06-1974,1409584,Sarah Brown,invalid_mobile
+Briana Morris,Briana_Morris@alvarado.com,08/05/2018,2591 8567,Briana Morris,invalid_mobile;below_18
+Michelle Schneider,Michelle_Schneider@shelton.com,2002/02/07,99886,Michelle Schneider,invalid_mobile
+Rebekah Gonzalez,Rebekah_Gonzalez@gutierrez.com,1987/05/16,28391,Rebekah Gonzalez,invalid_mobile
+Cameron Gay,Cameron_Gay@lee.net,1999/05/21,3454564,Cameron Gay,invalid_mobile
+Jose Martinez,Jose_Martinez@garza.com,21-04-1962,4988474,Jose Martinez,invalid_mobile
+Gabrielle Todd,Gabrielle_Todd@lane-browning.com,1973/08/24,36681,Gabrielle Todd,invalid_mobile
+James Daniels,James_Daniels@williamson.info,09/10/2004,4503 3767,James Daniels,invalid_mobile;below_18
+Henry Huffman,Henry_Huffman@khan.info,1995-10-18,8911358,Henry Huffman,invalid_mobile
+Beth Murphy,Beth_Murphy@sweeney.com,16-10-2003,68616,Beth Murphy,invalid_mobile
+Kevin Haynes,Kevin_Haynes@jones.com,06/24/1969,7543 3787,Kevin Haynes,invalid_mobile
+Darryl Deleon,Darryl_Deleon@lewis.com,03-03-2017,521997,Darryl Deleon,invalid_mobile;below_18
+Jeffrey Wells,Jeffrey_Wells@serrano.com,11/12/1959,8764288,Jeffrey Wells,invalid_mobile
+John Hicks,John_Hicks@weber.com,09/12/1953,9539 5487,John Hicks,invalid_mobile
+Pamela Stanley,Pamela_Stanley@thomas.com,1956/01/27,1794500,Pamela Stanley,invalid_mobile
+Frank Gardner,Frank_Gardner@barrett.com,1955-09-05,90991,Frank Gardner,invalid_mobile
+Eric Kennedy,Eric_Kennedy@mcdonald.com,05/22/1999,7799 4331,Eric Kennedy,invalid_mobile
+Michael Buchanan,Michael_Buchanan@hogan-carter.org,1956/08/14,27551,Michael Buchanan,invalid_mobile
+Joseph Alvarado,Joseph_Alvarado@thompson-williams.com,2000/06/24,4586149,Joseph Alvarado,invalid_mobile
+Dawn Ross,Dawn_Ross@newman.com,12-02-1999,49306,Dawn Ross,invalid_mobile
+Christina Hammond,Christina_Hammond@yang-owens.com,12/06/2003,531663,Christina Hammond,invalid_mobile
+Adrian Richmond,Adrian_Richmond@martin.com,1958/12/09,67931,Adrian Richmond,invalid_mobile
+Elizabeth Gardner,Elizabeth_Gardner@harris.com,08/05/1950,5103211,Elizabeth Gardner,invalid_mobile
+Janet Gross,Janet_Gross@chaney.net,04/14/2017,86976,Janet Gross,invalid_mobile;below_18
+Samuel Davis,Samuel_Davis@chavez.com,2000/07/15,833349,Samuel Davis,invalid_mobile
+James Garcia,James_Garcia@johnson.com,2014-04-09,729369,James Garcia,invalid_mobile;below_18
+Carolyn Glover,Carolyn_Glover@walker.com,07/14/1979,8783 2791,Carolyn Glover,invalid_mobile
+Jonathan Singleton,Jonathan_Singleton@baker.com,1993-01-16,55871,Jonathan Singleton,invalid_mobile
+Jennifer Rodriguez MD,Jennifer_Rodriguez@cruz.com,2004-04-02,734733,Jennifer Rodriguez,invalid_mobile;below_18
+Kelly Rodriguez,Kelly_Rodriguez@abbott.com,03/26/1963,25201,Kelly Rodriguez,invalid_mobile
+Michael Fisher,Michael_Fisher@turner-arias.com,1994-12-31,900663,Michael Fisher,invalid_mobile
+Lorraine Shaw,Lorraine_Shaw@rodriguez-dunn.com,27-03-1954,7727427,Lorraine Shaw,invalid_mobile
+Steven White,Steven_White@lozano.info,1955/12/09,31766,Steven White,invalid_mobile
+Joy Long,Joy_Long@martin.info,28-08-2007,45751,Joy Long,invalid_mobile;below_18
+Brandon Riggs,Brandon_Riggs@horn-welch.com,1960/01/02,526221,Brandon Riggs,invalid_mobile
+Raymond Henderson,Raymond_Henderson@ferrell.net,1951/11/28,81831,Raymond Henderson,invalid_mobile
+Kenneth Wright,Kenneth_Wright@perez.biz,11/05/2003,2487731,Kenneth Wright,invalid_mobile
+Katelyn Sloan,Katelyn_Sloan@yates.org,22-01-2014,4264149,Katelyn Sloan,invalid_mobile;below_18
+Jonathan Robinson,Jonathan_Robinson@dillon.com,2011-04-07,4476928,Jonathan Robinson,invalid_mobile;below_18
+Gina Morales,Gina_Morales@scott-shaw.info,03/28/1963,6581177,Gina Morales,invalid_mobile
+Rachel Martinez,Rachel_Martinez@davis.com,25-07-2014,70671,Rachel Martinez,invalid_mobile;below_18
+Dillon Baker,Dillon_Baker@hicks.org,01/26/1996,9393028,Dillon Baker,invalid_mobile
+Steven Lane,Steven_Lane@cohen.org,18-07-1991,98126,Steven Lane,invalid_mobile
+Sandra Cook,Sandra_Cook@deleon-cook.com,1970/12/27,52186,Sandra Cook,invalid_mobile
+Heather Cardenas,Heather_Cardenas@sullivan-holloway.com,10/01/2000,50941,Heather Cardenas,invalid_mobile
+Kyle Robinson,Kyle_Robinson@contreras.net,1968-01-24,35876,Kyle Robinson,invalid_mobile
+James Rodriguez,James_Rodriguez@moody.net,28-12-2014,5179476,James Rodriguez,invalid_mobile;below_18
+John Robertson,John_Robertson@johnson.info,22-10-1960,509475,John Robertson,invalid_mobile
+Melissa Smith,Melissa_Smith@howard.org,2012-03-31,37000679,Melissa Smith,below_18
+Sarah Oneal,Sarah_Oneal@ward-coleman.com,2010-02-20,7779913,Sarah Oneal,invalid_mobile;below_18
+Austin Mcdowell,Austin_Mcdowell@jones-bowers.com,28-08-1993,37201,Austin Mcdowell,invalid_mobile
+Marie Taylor,Marie_Taylor@wilson.org,2008-11-06,64264495,Marie Taylor,below_18
+Teresa Garrett,Teresa_Garrett@smith-stout.org,2013-02-20,3484944,Teresa Garrett,invalid_mobile;below_18
+Sara Lopez,Sara_Lopez@scott-gonzalez.net,2016-07-17,20671,Sara Lopez,invalid_mobile;below_18
+Jennifer Ortiz,Jennifer_Ortiz@fisher-brady.biz,04-01-2009,13841,Jennifer Ortiz,invalid_mobile;below_18
+Amanda Davis,Amanda_Davis@lopez-mitchell.com,1957/07/14,766509,Amanda Davis,invalid_mobile
+Wayne Reeves,Wayne_Reeves@sanchez-morris.biz,09/05/2012,615045,Wayne Reeves,invalid_mobile;below_18
+James Sullivan,James_Sullivan@patton.com,16-06-1966,38476,James Sullivan,invalid_mobile
+John Hernandez,John_Hernandez@rodriguez-ellis.com,09-10-2012,701445,John Hernandez,invalid_mobile;below_18
+Tiffany Barnett,Tiffany_Barnett@lewis.biz,2006/05/11,11136,Tiffany Barnett,invalid_mobile;below_18
+Jessica Watts,Jessica_Watts@cline.com,2013-07-20,1475125,Jessica Watts,invalid_mobile;below_18
+Miss Katherine Brennan MD,Katherine_Brennan@garcia.net,11/13/1977,3791 8255,Katherine Brennan,invalid_mobile
+Patricia Davis,Patricia_Davis@brown.net,17-03-1989,89586,Patricia Davis,invalid_mobile
+Ricardo Davies,Ricardo_Davies@lawrence.com,11-07-2016,79786,Ricardo Davies,invalid_mobile;below_18
+Matthew Lawson,Matthew_Lawson@collier.org,2005/01/08,76736911,Matthew Lawson,below_18
+Jack Lin,Jack_Lin@buckley-smith.net,2005/02/04,2187851,Jack Lin,invalid_mobile;below_18
+Michelle Jacobs,Michelle_Jacobs@day.org,2018/12/04,75251,Michelle Jacobs,invalid_mobile;below_18
+Christine Lara,Christine_Lara@barnes-lee.com,01/03/1959,7771 6475,Christine Lara,invalid_mobile
+Lindsey Owens,Lindsey_Owens@wilson.net,08-12-2009,180645,Lindsey Owens,invalid_mobile;below_18
+Lisa Brewer,Lisa_Brewer@houston.com,24-12-2001,659559,Lisa Brewer,invalid_mobile
+Susan Robinson,Susan_Robinson@robinson.com,1970-01-09,887259,Susan Robinson,invalid_mobile
+Christopher Olson,Christopher_Olson@kennedy.com,09/18/2015,61436,Christopher Olson,invalid_mobile;below_18
+Jon Roach,Jon_Roach@tyler.org,28-06-2010,53802271,Jon Roach,below_18
+Michael Robinson,Michael_Robinson@russell.com,1960-06-17,927603,Michael Robinson,invalid_mobile
+Rodney Arellano,Rodney_Arellano@green-williams.info,28-07-1997,8923916,Rodney Arellano,invalid_mobile
+Alicia Wong,Alicia_Wong@bates.com,10/30/2006,2753374,Alicia Wong,invalid_mobile;below_18
+Jesse Singh,Jesse_Singh@sharp-morales.net,1970/04/03,3778391,Jesse Singh,invalid_mobile
+Nicole Smith,Nicole_Smith@miller-rodriguez.com,22-03-1990,351057,Nicole Smith,invalid_mobile
+Dwayne Snyder,Dwayne_Snyder@henry.biz,03/14/1968,164109,Dwayne Snyder,invalid_mobile
+Marcus Rice,Marcus_Rice@mayer.info,1960/08/06,61156,Marcus Rice,invalid_mobile
+Ashley Dixon,Ashley_Dixon@rivera-holmes.com,11/18/1973,55256,Ashley Dixon,invalid_mobile
+Erica Nelson,Erica_Nelson@johns.com,1998-05-08,86051,Erica Nelson,invalid_mobile
+Anna Valdez,Anna_Valdez@flores-guzman.com,1993/10/07,5758719,Anna Valdez,invalid_mobile
+Marco Pierce,Marco_Pierce@sutton-smith.com,15-09-2000,538845,Marco Pierce,invalid_mobile
+Nicole Henry,Nicole_Henry@mills-hughes.info,2000/07/29,978345,Nicole Henry,invalid_mobile
+Melissa David,Melissa_David@rivera.com,01/15/1953,80071,Melissa David,invalid_mobile
+Patricia Moreno,Patricia_Moreno@wong.biz,1958-03-24,825333,Patricia Moreno,invalid_mobile
+Adam Bailey,Adam_Bailey@ward-williams.biz,07/07/1957,85891,Adam Bailey,invalid_mobile
+Carrie Henson,Carrie_Henson@snow-gonzalez.com,08-05-1953,34696,Carrie Henson,invalid_mobile
+Richard Martin,Richard_Martin@anderson.com,1966-03-31,66236,Richard Martin,invalid_mobile
+Whitney Reed,Whitney_Reed@mitchell.biz,10/27/1977,32896,Whitney Reed,invalid_mobile
+Michael Snyder,Michael_Snyder@taylor.com,31-08-1969,96971,Michael Snyder,invalid_mobile
+Dana Molina,Dana_Molina@miller-chavez.com,09-04-2016,34721,Dana Molina,invalid_mobile;below_18
+Justin Decker,Justin_Decker@anthony.com,05-11-2018,921861,Justin Decker,invalid_mobile;below_18
+Cristina Gray,Cristina_Gray@hoover-jones.info,04/24/1978,1555 8739,Cristina Gray,invalid_mobile
+Mark Nguyen,Mark_Nguyen@thomas-stone.net,02-04-2011,4250793,Mark Nguyen,invalid_mobile;below_18
+Michael Johnson,Michael_Johnson@bryant.com,2016/12/10,233829,Michael Johnson,invalid_mobile;below_18
+Nicholas Clark,Nicholas_Clark@brown.com,1993/07/07,45286,Nicholas Clark,invalid_mobile
+Todd Wheeler,Todd_Wheeler@woods.com,09/04/1996,5035 6375,Todd Wheeler,invalid_mobile
+Linda Woods,Linda_Woods@diaz.com,11/27/1961,8119 5711,Linda Woods,invalid_mobile
+Christina Pennington,Christina_Pennington@webb.com,03-03-1996,117909,Christina Pennington,invalid_mobile
+Jennifer Baldwin,Jennifer_Baldwin@schmitt.org,29-12-2016,62403007,Jennifer Baldwin,below_18
+Jake Oliver,Jake_Oliver@peterson-james.info,1981/01/27,28696,Jake Oliver,invalid_mobile
+Ms. Krystal Reilly,Krystal_Reilly@martinez.com,1982/09/09,782829,Krystal Reilly,invalid_mobile
+Malik Wright,Malik_Wright@brooks.com,1977/06/11,383535,Malik Wright,invalid_mobile
+Anne Howard,Anne_Howard@rowe.com,06/10/1969,3519 8251,Anne Howard,invalid_mobile
+Trevor Gutierrez,Trevor_Gutierrez@murphy-butler.com,09/29/2011,7937630,Trevor Gutierrez,invalid_mobile;below_18
+Jennifer Hernandez,Jennifer_Hernandez@hughes.com,10/21/1970,90426,Jennifer Hernandez,invalid_mobile
+Mark Montes,Mark_Montes@alexander.com,18-06-1972,741843,Mark Montes,invalid_mobile
+Matthew Peck,Matthew_Peck@mclean.org,2012/04/17,59541,Matthew Peck,invalid_mobile;below_18
+Jonathan Mclaughlin,Jonathan_Mclaughlin@cannon.org,1992/04/06,74106,Jonathan Mclaughlin,invalid_mobile
+Melissa Vega DVM,Melissa_Vega@greene-ward.com,04/21/2007,584709,Melissa Vega,invalid_mobile;below_18
+Renee Ellis,Renee_Ellis@martin.com,1958-12-02,315699,Renee Ellis,invalid_mobile
+Mark Schmidt,Mark_Schmidt@jenkins.com,2010-04-29,5018644,Mark Schmidt,invalid_mobile;below_18
+Anthony Baker,Anthony_Baker@burns.biz,07/25/1989,5059 8455,Anthony Baker,invalid_mobile
+Amanda Perkins,Amanda_Perkins@norton.com,1987-05-07,55826,Amanda Perkins,invalid_mobile
+Lisa Garcia,Lisa_Garcia@carrillo.com,1950/07/26,437613,Lisa Garcia,invalid_mobile
+Jennifer Sullivan,Jennifer_Sullivan@brown-winters.info,11-03-1957,5734716,Jennifer Sullivan,invalid_mobile
+Jeremy Wright,Jeremy_Wright@friedman.com,1971-07-10,958071,Jeremy Wright,invalid_mobile
+Tracy Frazier,Tracy_Frazier@reed.info,1982/03/15,6636295,Tracy Frazier,invalid_mobile
+Robert Wheeler,Robert_Wheeler@ramirez.com,1959/04/24,897117,Robert Wheeler,invalid_mobile
+John Gonzalez,John_Gonzalez@beck-lynch.org,2017-08-15,85888895,John Gonzalez,below_18
+Thomas Gordon,Thomas_Gordon@perez-nelson.com,11/06/2004,6508825,Thomas Gordon,invalid_mobile;below_18
+Jacob Mcintyre,Jacob_Mcintyre@willis.com,2014-08-08,26330743,Jacob Mcintyre,below_18
+Charles Melendez,Charles_Melendez@wood.org,26-07-1978,847119,Charles Melendez,invalid_mobile
+Derek Stevens,Derek_Stevens@anderson-taylor.com,03-11-2002,39056,Derek Stevens,invalid_mobile
+Cindy Odonnell,Cindy_Odonnell@powell-johnson.com,12/19/2009,4662652,Cindy Odonnell,invalid_mobile;below_18
+Mary Holmes,Mary_Holmes@russo.com,08/22/1993,7206095,Mary Holmes,invalid_mobile
+Amanda Monroe,Amanda_Monroe@phillips-riley.com,2010/04/10,737001,Amanda Monroe,invalid_mobile;below_18
+Sara Sanchez,Sara_Sanchez@rivas.com,1953-06-19,41021,Sara Sanchez,invalid_mobile
+Dennis Williams,Dennis_Williams@bowman-henderson.info,18-01-2014,2395219,Dennis Williams,invalid_mobile;below_18
+Emily Mitchell,Emily_Mitchell@white-garrison.com,1972/04/17,316377,Emily Mitchell,invalid_mobile
+Lauren Rodriguez,Lauren_Rodriguez@delgado.info,1978-12-30,7323485,Lauren Rodriguez,invalid_mobile
+Tony Norton,Tony_Norton@shepherd.com,1951/12/10,33876,Tony Norton,invalid_mobile
+Jacqueline Choi,Jacqueline_Choi@lynn.com,16-03-1995,67741,Jacqueline Choi,invalid_mobile
+Larry Livingston,Larry_Livingston@cook.info,25-04-2016,3239790,Larry Livingston,invalid_mobile;below_18
+Caitlin Ryan,Caitlin_Ryan@smith-mitchell.biz,04/06/1956,304605,Caitlin Ryan,invalid_mobile
+Crystal Harris,Crystal_Harris@reyes.com,2013/12/19,790029,Crystal Harris,invalid_mobile;below_18
+Joseph Marshall,Joseph_Marshall@scott.com,1965-05-02,39856,Joseph Marshall,invalid_mobile
+Amy Wilson,Amy_Wilson@cortez.net,04/12/1974,6439 2323,Amy Wilson,invalid_mobile
+David Clark,David_Clark@fleming.com,08/01/1985,4483 4223,David Clark,invalid_mobile
+Terri Pace,Terri_Pace@griffin.com,1966-05-21,58881,Terri Pace,invalid_mobile
+Erika Joseph,Erika_Joseph@romero.com,03/03/1981,5107 5039,Erika Joseph,invalid_mobile
+Jessica Brown,Jessica_Brown@perez.com,01/15/2007,8623035,Jessica Brown,invalid_mobile;below_18
+Chase Young,Chase_Young@miller.com,2016/02/19,512313,Chase Young,invalid_mobile;below_18
+Mitchell Cook,Mitchell_Cook@henson.com,2005/11/21,481893,Mitchell Cook,invalid_mobile;below_18
+Melinda Hamilton,Melinda_Hamilton@martinez-norris.com,2003/11/03,1252406,Melinda Hamilton,invalid_mobile
+Randall Scott,Randall_Scott@hernandez.biz,09/03/1971,9839 9307,Randall Scott,invalid_mobile
+Pamela Allison,Pamela_Allison@garcia.com,06-01-1965,4971100,Pamela Allison,invalid_mobile
+Cynthia Harrington,Cynthia_Harrington@adams.info,07/24/1979,4887 9875,Cynthia Harrington,invalid_mobile
+Heidi Brown,Heidi_Brown@molina.com,1990/12/24,320787,Heidi Brown,invalid_mobile
+Kathryn Graham,Kathryn_Graham@wright.com,1984/09/06,776895,Kathryn Graham,invalid_mobile
+Samantha Strickland,Samantha_Strickland@edwards.net,2011/07/26,3009630,Samantha Strickland,invalid_mobile;below_18
+Kimberly Gilbert,Kimberly_Gilbert@huff-grant.net,21-06-1992,20011,Kimberly Gilbert,invalid_mobile
+Laura King,Laura_King@allen.info,10/14/2013,49261,Laura King,invalid_mobile;below_18
+Janet Perez,Janet_Perez@trevino.com,2013-05-08,70551,Janet Perez,invalid_mobile;below_18
+George Hunt,George_Hunt@evans.com,10/25/1970,704277,George Hunt,invalid_mobile
+Randy Taylor,Randy_Taylor@butler-walker.biz,24-09-1987,1290241,Randy Taylor,invalid_mobile
+Mark Hensley,Mark_Hensley@newton.net,08-11-1991,397449,Mark Hensley,invalid_mobile
+Elizabeth Woodard,Elizabeth_Woodard@wilson.org,1997-12-11,87081,Elizabeth Woodard,invalid_mobile
+Amanda Snow,Amanda_Snow@bryan-andrews.com,20-12-1956,525699,Amanda Snow,invalid_mobile
+Colton Porter,Colton_Porter@serrano-woods.org,1984/08/01,6956125,Colton Porter,invalid_mobile
+Barbara Aguilar,Barbara_Aguilar@jordan.com,09/18/1985,736605,Barbara Aguilar,invalid_mobile
+Donna Little,Donna_Little@taylor.com,11/16/1991,322215,Donna Little,invalid_mobile
+Kathleen Ramirez,Kathleen_Ramirez@banks-wright.com,08/29/1955,4035 1711,Kathleen Ramirez,invalid_mobile
+Caitlin Espinoza,Caitlin_Espinoza@koch-thompson.com,1987-06-02,3313605,Caitlin Espinoza,invalid_mobile
+Michael Mccarthy Jr.,Michael_Mccarthy@estrada.com,1950/08/26,7283109,Michael Mccarthy Jr.,invalid_mobile
+Michael Moore,Michael_Moore@keller.org,1968/10/25,42831,Michael Moore,invalid_mobile
+Brian Little,Brian_Little@pierce.biz,12/22/1972,5471495,Brian Little,invalid_mobile
+Mr. Robert Davis MD,Robert_Davis@miller.com,01-06-1986,36886,Robert Davis,invalid_mobile
+Miranda Phillips,Miranda_Phillips@riley.info,11/01/1994,251577,Miranda Phillips,invalid_mobile
+Jonathan Garrison,Jonathan_Garrison@hernandez.com,08/01/1983,625935,Jonathan Garrison,invalid_mobile
+Anthony Guerrero,Anthony_Guerrero@johnson.com,1985/06/02,4294158,Anthony Guerrero,invalid_mobile
+Kenneth Bryant,Kenneth_Bryant@matthews.info,12/26/1979,701211,Kenneth Bryant,invalid_mobile
+Amy Brown,Amy_Brown@simon.org,2010/01/26,41431,Amy Brown,invalid_mobile;below_18
+Robert Morris,Robert_Morris@miller-moore.net,1988/09/04,4670555,Robert Morris,invalid_mobile
+Carrie Lyons,Carrie_Lyons@rodriguez-cohen.org,2017/10/25,31306,Carrie Lyons,invalid_mobile;below_18
+Laura Graves,Laura_Graves@brock.info,05-01-1958,64331,Laura Graves,invalid_mobile
+Jaime Lucas,Jaime_Lucas@robinson-fisher.info,31-10-1967,69701,Jaime Lucas,invalid_mobile
+Jordan Pearson,Jordan_Pearson@campbell-hamilton.com,1960/10/05,8802151,Jordan Pearson,invalid_mobile
+Nicholas Martinez,Nicholas_Martinez@white.net,11/26/1951,2031674,Nicholas Martinez,invalid_mobile
+Mary Padilla,Mary_Padilla@young-garcia.org,05/03/1957,637371,Mary Padilla,invalid_mobile
+Scott Chapman,Scott_Chapman@davidson.net,06-02-1958,806871,Scott Chapman,invalid_mobile
+Pamela Bridges,Pamela_Bridges@marshall-collins.org,1970/11/10,61041,Pamela Bridges,invalid_mobile
+Wanda Collins,Wanda_Collins@parker-tate.com,1971/01/25,522993,Wanda Collins,invalid_mobile
+Amanda Norris,Amanda_Norris@perez-oconnell.org,12-01-2002,2120665,Amanda Norris,invalid_mobile
+Jamie Young,Jamie_Young@bell.com,02-11-1958,429465,Jamie Young,invalid_mobile
+Brian Peterson,Brian_Peterson@brown-martinez.com,05-04-1962,91301,Brian Peterson,invalid_mobile
+Lisa Warren,Lisa_Warren@watts.com,06-04-2007,139875,Lisa Warren,invalid_mobile;below_18
+Lacey Rosales,Lacey_Rosales@bennett-singh.com,19-10-2010,314373,Lacey Rosales,invalid_mobile;below_18
+Daniel Harper,Daniel_Harper@huang-moody.org,1966/04/02,932085,Daniel Harper,invalid_mobile
+Barbara Smith,Barbara_Smith@aguirre.biz,1994/07/23,488889,Barbara Smith,invalid_mobile
+Holly Brown,Holly_Brown@graham.com,2015/08/17,1129115,Holly Brown,invalid_mobile;below_18
+Wesley Cunningham,Wesley_Cunningham@booth-simmons.com,12/15/2008,3895 9971,Wesley Cunningham,invalid_mobile;below_18
+Rachel Mason,Rachel_Mason@kelly.com,1950-07-23,71851,Rachel Mason,invalid_mobile
+Alicia Case,Alicia_Case@moore.info,1996-08-10,56511,Alicia Case,invalid_mobile
+Thomas Wright,Thomas_Wright@pacheco.com,1960-07-29,86461,Thomas Wright,invalid_mobile
+Kelsey Collins,Kelsey_Collins@carter.org,2010/01/07,82451,Kelsey Collins,invalid_mobile;below_18
+Michael Hodges,Michael_Hodges@foster.com,10/07/1978,5221231,Michael Hodges,invalid_mobile
+Elizabeth Gutierrez,Elizabeth_Gutierrez@rhodes.biz,02/09/2000,866985,Elizabeth Gutierrez,invalid_mobile
+Scott Brown,Scott_Brown@scott.com,1950-01-26,84341,Scott Brown,invalid_mobile
+Melvin Wiley,Melvin_Wiley@simpson-schneider.info,05-07-1970,1957019,Melvin Wiley,invalid_mobile
+Stephanie Haas,Stephanie_Haas@smith.com,1980-08-02,94971,Stephanie Haas,invalid_mobile
+Lisa Medina,Lisa_Medina@harris.com,1956-06-16,81656,Lisa Medina,invalid_mobile
+Susan Lane,Susan_Lane@archer-warner.biz,2012/12/27,22551711,Susan Lane,below_18
+William Tran,William_Tran@williams.com,01-11-1956,7430774,William Tran,invalid_mobile
+Savannah Holland,Savannah_Holland@williams-kelly.com,2004-07-04,79359575,Savannah Holland,below_18
+Crystal Vega,Crystal_Vega@bradford.com,27-06-1954,99496,Crystal Vega,invalid_mobile
+Erika Espinoza,Erika_Espinoza@mitchell.com,08/24/1997,766575,Erika Espinoza,invalid_mobile
+Deborah Jones,Deborah_Jones@brown.info,06/07/1990,337743,Deborah Jones,invalid_mobile
+Kirsten Williams,Kirsten_Williams@mitchell.info,12/04/1951,2819 3351,Kirsten Williams,invalid_mobile
+Charles Patel,Charles_Patel@rivas.biz,1965-01-13,119961,Charles Patel,invalid_mobile
+Misty Ramirez,Misty_Ramirez@waters-turner.org,1976-01-07,246471,Misty Ramirez,invalid_mobile
+Mark Bowman,Mark_Bowman@lam-valentine.com,05/31/1982,22876,Mark Bowman,invalid_mobile
+Christina Orr,Christina_Orr@marquez.com,2004-12-14,9889090,Christina Orr,invalid_mobile;below_18
+Brian Bridges,Brian_Bridges@hobbs.biz,2013-08-12,4455655,Brian Bridges,invalid_mobile;below_18
+Mike Hale,Mike_Hale@hall.net,08-11-1984,144735,Mike Hale,invalid_mobile
+Amanda Allen,Amanda_Allen@cross-johnson.com,1978-04-17,420549,Amanda Allen,invalid_mobile
+Robert Hernandez,Robert_Hernandez@bush.com,26-02-1995,3890454,Robert Hernandez,invalid_mobile
+Brandon Bernard,Brandon_Bernard@pierce.com,1962/04/17,392397,Brandon Bernard,invalid_mobile
+Dan Young,Dan_Young@smith.com,23-09-1998,1156877,Dan Young,invalid_mobile
+Jonathan Nguyen,Jonathan_Nguyen@cooley.com,2009/10/02,8036036,Jonathan Nguyen,invalid_mobile;below_18
+Mary Sandoval,Mary_Sandoval@gomez-baker.com,1990-05-05,728007,Mary Sandoval,invalid_mobile
+Bryan Clark,Bryan_Clark@walsh-miles.com,22-01-1950,60216,Bryan Clark,invalid_mobile
+Joseph Huynh,Joseph_Huynh@meyer.com,15-03-1965,6006071,Joseph Huynh,invalid_mobile
+Kelly Meyer,Kelly_Meyer@bennett.com,07/30/2015,49126,Kelly Meyer,invalid_mobile;below_18
+Mary Clark,Mary_Clark@kennedy-barker.net,28-01-1950,130575,Mary Clark,invalid_mobile
+Sherry Lyons,Sherry_Lyons@carson-copeland.com,09/02/1998,4767 2835,Sherry Lyons,invalid_mobile
+Jonathan Adams,Jonathan_Adams@brown-castro.info,1991-01-29,46051,Jonathan Adams,invalid_mobile
+Jeremy Henderson,Jeremy_Henderson@stanton.net,1993-01-30,29156,Jeremy Henderson,invalid_mobile
+Edward King,Edward_King@bright.info,1955-12-18,87986,Edward King,invalid_mobile
+Jennifer Butler,Jennifer_Butler@arellano-morris.com,11/18/1951,1607 9075,Jennifer Butler,invalid_mobile
+Michael Taylor,Michael_Taylor@hernandez-lamb.com,02/08/2014,321063,Michael Taylor,invalid_mobile;below_18
+James House,James_House@chavez.biz,16-05-1963,487995,James House,invalid_mobile
+Pamela Kelley,Pamela_Kelley@mooney-williams.org,1982/11/25,323007,Pamela Kelley,invalid_mobile
+Carolyn Sanchez,Carolyn_Sanchez@cunningham.net,28-11-2011,60183815,Carolyn Sanchez,below_18
+Jacqueline Johnson,Jacqueline_Johnson@johnston.com,2007/10/14,20215991,Jacqueline Johnson,below_18
+Aaron Gardner,Aaron_Gardner@briggs.com,27-01-2008,2176889,Aaron Gardner,invalid_mobile;below_18
+Randall Kemp,Randall_Kemp@jenkins.net,24-09-1997,226959,Randall Kemp,invalid_mobile
+Kristen Flores,Kristen_Flores@watkins.com,1995/03/28,756093,Kristen Flores,invalid_mobile
+Robert Wilson,Robert_Wilson@webster-cooper.com,1958-08-18,371427,Robert Wilson,invalid_mobile
+John Taylor,John_Taylor@jones.biz,07/25/1982,93261,John Taylor,invalid_mobile
+Misty Mckinney,Misty_Mckinney@zimmerman.net,1987-04-26,587367,Misty Mckinney,invalid_mobile
+Craig Smith,Craig_Smith@anderson.com,03/23/1978,33481,Craig Smith,invalid_mobile
+Brianna Long,Brianna_Long@booth.net,1994/04/03,88226,Brianna Long,invalid_mobile
+Ms. Hailey Fisher,Hailey_Fisher@diaz.com,2018-09-25,258189,Hailey Fisher,invalid_mobile;below_18
+Elizabeth Cantrell,Elizabeth_Cantrell@hutchinson.com,03-05-1951,78986,Elizabeth Cantrell,invalid_mobile
+Jennifer Ortiz,Jennifer_Ortiz@waters-cervantes.info,07/07/1981,2347 6599,Jennifer Ortiz,invalid_mobile
+Dr. Charles Rose,Charles_Rose@walker.com,1955/11/20,4900995,Charles Rose,invalid_mobile
+Noah Mccarty,Noah_Mccarty@rios-oneill.com,06/20/1965,6471 8427,Noah Mccarty,invalid_mobile
+James Casey,James_Casey@morrison.info,1986-07-28,1168350,James Casey,invalid_mobile
+Hector Stanton,Hector_Stanton@baxter-rios.biz,06/17/1963,78586,Hector Stanton,invalid_mobile
+Dustin Watkins,Dustin_Watkins@coleman.com,06/09/2005,737823,Dustin Watkins,invalid_mobile;below_18
+Chloe Pham,Chloe_Pham@porter.info,05/14/1957,9514254,Chloe Pham,invalid_mobile
+Jordan White,Jordan_White@sandoval.net,15-09-1988,557379,Jordan White,invalid_mobile
+Melissa Reese,Melissa_Reese@phillips.com,1966/12/20,22241,Melissa Reese,invalid_mobile
+Mr. Gary Taylor,Gary_Taylor@donaldson.com,01/31/1994,49861,Gary Taylor,invalid_mobile
+Michele West,Michele_West@francis-stewart.info,05/05/1964,594297,Michele West,invalid_mobile
+Jennifer Baker,Jennifer_Baker@mckinney.net,10-01-1960,988317,Jennifer Baker,invalid_mobile
+Andre Brown,Andre_Brown@reed.biz,1990-02-06,320577,Andre Brown,invalid_mobile
+Joseph Murphy,Joseph_Murphy@williams.com,07/09/2011,21126,Joseph Murphy,invalid_mobile;below_18
+Cole Harris,Cole_Harris@valdez.org,16-02-1962,7598809,Cole Harris,invalid_mobile
+Kimberly Levy,Kimberly_Levy@montoya.org,13-10-1958,935493,Kimberly Levy,invalid_mobile
+Jerry Shannon,Jerry_Shannon@sweeney-gibbs.com,05/05/1951,8623 9787,Jerry Shannon,invalid_mobile
+Blake Brown,Blake_Brown@george-kelly.net,06/15/1957,3483 5327,Blake Brown,invalid_mobile
+Brianna Ford,Brianna_Ford@jenkins.com,09-12-2004,419265,Brianna Ford,invalid_mobile;below_18
+Bryan Santiago,Bryan_Santiago@schneider-grimes.com,1988-01-23,713793,Bryan Santiago,invalid_mobile
+Michelle Walker,Michelle_Walker@zavala-frey.com,1987/08/25,289053,Michelle Walker,invalid_mobile
+David Lewis,David_Lewis@davis-anderson.com,1974/03/06,43571,David Lewis,invalid_mobile
+Molly Henry,Molly_Henry@guzman.com,1974-07-23,8235536,Molly Henry,invalid_mobile
+Michaela Sanchez,Michaela_Sanchez@fernandez.net,23-07-1964,483513,Michaela Sanchez,invalid_mobile
+Samantha Ramirez,Samantha_Ramirez@garcia-gay.com,02/09/1954,5432722,Samantha Ramirez,invalid_mobile
+Matthew Kramer DDS,Matthew_Kramer@martinez.com,08-09-1980,3669289,Matthew Kramer,invalid_mobile
+Stephanie Marquez,Stephanie_Marquez@le.info,05/29/2007,643491,Stephanie Marquez,invalid_mobile;below_18
+Maria Short,Maria_Short@le.com,1989-05-01,37876,Maria Short,invalid_mobile
+Sandra Hawkins,Sandra_Hawkins@wilson-little.com,04/19/2012,1614656,Sandra Hawkins,invalid_mobile;below_18
+James Copeland,James_Copeland@steele.com,2016/04/24,5070129,James Copeland,invalid_mobile;below_18
+Roberto Chapman,Roberto_Chapman@anderson.com,12/14/2011,62741,Roberto Chapman,invalid_mobile;below_18
+Douglas Murphy,Douglas_Murphy@weaver.net,01/12/2002,620229,Douglas Murphy,invalid_mobile
+Lori Chavez DDS,Lori_Chavez@daniel.com,1954-09-30,96146,Lori Chavez,invalid_mobile
+Cynthia Weaver,Cynthia_Weaver@smith-castillo.net,08/08/1959,387297,Cynthia Weaver,invalid_mobile
+Christopher Charles,Christopher_Charles@sawyer.biz,1957/08/24,59306,Christopher Charles,invalid_mobile
+Joshua Thompson,Joshua_Thompson@wright.biz,01/12/1999,36761,Joshua Thompson,invalid_mobile
+Michael Bowers,Michael_Bowers@klein-barry.com,09/03/2002,7007 4031,Michael Bowers,invalid_mobile
+Kimberly Torres,Kimberly_Torres@lee.biz,23-06-1985,93336,Kimberly Torres,invalid_mobile
+Scott Webb,Scott_Webb@hurst.com,2017-08-02,732903,Scott Webb,invalid_mobile;below_18
+Karen Luna,Karen_Luna@miller-lopez.com,30-04-1959,143907,Karen Luna,invalid_mobile
+Shelly Long,Shelly_Long@sutton.org,04-05-2010,79230711,Shelly Long,below_18
+Russell Medina,Russell_Medina@smith-bell.info,05/08/1996,9904399,Russell Medina,invalid_mobile
+Anne Baker,Anne_Baker@buckley-curtis.net,1959-10-03,912489,Anne Baker,invalid_mobile
+Christopher Jones,Christopher_Jones@wilson.net,28-05-2009,99596183,Christopher Jones,below_18
+Kelly Espinoza,Kelly_Espinoza@davidson.com,30-03-1953,9252664,Kelly Espinoza,invalid_mobile
+Rachel Martinez,Rachel_Martinez@goodwin.org,02/02/2016,1323 2735,Rachel Martinez,invalid_mobile;below_18
+Lori Reese,Lori_Reese@terry.info,1966-01-17,66811,Lori Reese,invalid_mobile
+James Cruz,James_Cruz@bender-harris.com,07/30/1950,1875 8595,James Cruz,invalid_mobile
+Austin Roth,Austin_Roth@ramsey.com,2014-02-19,4974327,Austin Roth,invalid_mobile;below_18
+Timothy Edwards,Timothy_Edwards@wheeler.net,25-11-1950,61776,Timothy Edwards,invalid_mobile
+Michael Knight,Michael_Knight@blanchard.com,07-11-1972,64146,Michael Knight,invalid_mobile
+Nicolas Ray,Nicolas_Ray@lynch-richards.net,2007-01-15,97346,Nicolas Ray,invalid_mobile;below_18
+Tracy Butler,Tracy_Butler@allison.info,02/05/1957,4543 5383,Tracy Butler,invalid_mobile
+Brian Novak,Brian_Novak@ross.com,05-02-1995,4886141,Brian Novak,invalid_mobile
+Mario Humphrey,Mario_Humphrey@short.com,1950-07-07,6814270,Mario Humphrey,invalid_mobile
+Kelly Mcdonald,Kelly_Mcdonald@carr.com,2004-06-06,255639,Kelly Mcdonald,invalid_mobile;below_18
+Melinda Smith,Melinda_Smith@castro-parker.info,1997-10-24,6609520,Melinda Smith,invalid_mobile
+Emily Sanchez,Emily_Sanchez@dillon-chavez.org,03-06-1987,252231,Emily Sanchez,invalid_mobile
+Dana Vega,Dana_Vega@jones.info,17-08-1953,8481824,Dana Vega,invalid_mobile
+Jessica Cortez,Jessica_Cortez@newton.biz,1962/10/24,5671478,Jessica Cortez,invalid_mobile
+Kelly Olson,Kelly_Olson@phillips-clay.com,1965/07/31,8275268,Kelly Olson,invalid_mobile
+Timothy Gallegos Jr.,Timothy_Gallegos@jenkins-murphy.net,06/30/1955,6378639,Timothy Gallegos Jr.,invalid_mobile
+Jonathan Cummings,Jonathan_Cummings@baker-harding.org,03-03-1963,4021585,Jonathan Cummings,invalid_mobile
+Steven Johnson,Steven_Johnson@hoffman-frazier.biz,05-10-2008,32111095,Steven Johnson,below_18
+Christopher Sullivan,Christopher_Sullivan@clayton.org,15-05-2007,808959,Christopher Sullivan,invalid_mobile;below_18
+Kimberly Garcia,Kimberly_Garcia@tapia.com,08/01/1963,4139 7407,Kimberly Garcia,invalid_mobile
+Michael Nguyen,Michael_Nguyen@miller.biz,1995-02-02,678231,Michael Nguyen,invalid_mobile
+Kevin Foster,Kevin_Foster@garcia.com,1999/02/02,994545,Kevin Foster,invalid_mobile
+Jennifer Preston,Jennifer_Preston@armstrong-harris.com,10-12-1991,74641,Jennifer Preston,invalid_mobile
+Mary Chapman,Mary_Chapman@espinoza.info,1977-04-16,5702362,Mary Chapman,invalid_mobile
+Marc Collins,Marc_Collins@richardson.com,1959/03/16,26381,Marc Collins,invalid_mobile
+Shawn Kennedy,Shawn_Kennedy@hanson.net,24-04-2007,3258991,Shawn Kennedy,invalid_mobile;below_18
+Christine Farmer,Christine_Farmer@obrien.biz,23-09-1955,9091405,Christine Farmer,invalid_mobile
+Pam Martinez,Pam_Martinez@stephens.com,02-04-1965,61196,Pam Martinez,invalid_mobile
+Lisa Thompson,Lisa_Thompson@howard-caldwell.com,2015/01/02,974673,Lisa Thompson,invalid_mobile;below_18
+John Bennett,John_Bennett@leon.com,2015-02-26,86701,John Bennett,invalid_mobile;below_18
+Ronald Dixon,Ronald_Dixon@hale-kirk.com,05/07/1992,59611,Ronald Dixon,invalid_mobile
+Carrie Jones,Carrie_Jones@fox.biz,1956/10/17,9685145,Carrie Jones,invalid_mobile
+Katie Hanna,Katie_Hanna@chavez.com,06/28/1984,632367,Katie Hanna,invalid_mobile
+Seth Villanueva,Seth_Villanueva@mccoy-west.info,1969/05/02,852117,Seth Villanueva,invalid_mobile
+Tina Hunter,Tina_Hunter@peterson.info,1968/08/01,495393,Tina Hunter,invalid_mobile
+Sheri Beck,Sheri_Beck@lewis.info,21-01-1966,801807,Sheri Beck,invalid_mobile
+Kristen Hall,Kristen_Hall@clay.com,1981/06/02,678123,Kristen Hall,invalid_mobile
+Zachary Miller,Zachary_Miller@shelton.com,1977-03-08,69166,Zachary Miller,invalid_mobile
+Teresa Collins,Teresa_Collins@reed.net,1950/01/17,41601,Teresa Collins,invalid_mobile
+Amy Gray,Amy_Gray@dunlap.org,1965-10-17,271761,Amy Gray,invalid_mobile
+Tracy Wagner,Tracy_Wagner@anderson-martin.com,10/09/1959,748809,Tracy Wagner,invalid_mobile
+Eric West,Eric_West@fields-brewer.com,21-02-2014,59066,Eric West,invalid_mobile;below_18
+Denise Harper,Denise_Harper@lyons.com,01/07/2005,3642836,Denise Harper,invalid_mobile;below_18
+Brianna Richards,Brianna_Richards@blevins.com,02-05-1967,784245,Brianna Richards,invalid_mobile
+Shirley Garcia,Shirley_Garcia@byrd.com,1952-04-24,5999645,Shirley Garcia,invalid_mobile
+James Byrd,James_Byrd@andersen-nguyen.net,22-02-1975,64951,James Byrd,invalid_mobile
+Krista Mata,Krista_Mata@hernandez-glenn.biz,2005-12-12,715047,Krista Mata,invalid_mobile;below_18
+Vernon Gomez,Vernon_Gomez@brown.net,29-11-2000,25171,Vernon Gomez,invalid_mobile
+John Gilbert,John_Gilbert@williams.net,1963/03/27,65006,John Gilbert,invalid_mobile
+Alicia Medina,Alicia_Medina@carrillo-may.com,05/04/1966,77576,Alicia Medina,invalid_mobile
+Vanessa Campbell,Vanessa_Campbell@martinez.biz,01-01-1969,5662427,Vanessa Campbell,invalid_mobile
+Pamela Berg,Pamela_Berg@robinson.com,2011-10-27,834261,Pamela Berg,invalid_mobile;below_18
+Thomas Austin,Thomas_Austin@kline.com,27-10-1972,83171,Thomas Austin,invalid_mobile
+Lindsey Powers,Lindsey_Powers@dixon.net,1976/12/27,33441,Lindsey Powers,invalid_mobile
+Jacqueline Sawyer,Jacqueline_Sawyer@ruiz-marshall.com,24-04-1957,207027,Jacqueline Sawyer,invalid_mobile
+Nancy Wilkins,Nancy_Wilkins@webster.biz,28-12-2013,439839,Nancy Wilkins,invalid_mobile;below_18
+Shane White,Shane_White@mccoy.biz,04/21/1996,8925435,Shane White,invalid_mobile
+Daniel Rivas,Daniel_Rivas@cain.net,2016/03/18,1239043,Daniel Rivas,invalid_mobile;below_18
+Andrew Medina,Andrew_Medina@taylor-campbell.biz,23-04-2004,6951680,Andrew Medina,invalid_mobile;below_18
+Donald Carson,Donald_Carson@robinson.com,01/17/1966,79831,Donald Carson,invalid_mobile
+Jason Hamilton,Jason_Hamilton@lopez.net,2014/05/19,99086,Jason Hamilton,invalid_mobile;below_18
+Mark Perez,Mark_Perez@mccall.com,1958-11-03,316719,Mark Perez,invalid_mobile
+Christina Mann,Christina_Mann@watson.info,04/25/1953,1839 1991,Christina Mann,invalid_mobile
+Matthew Miller,Matthew_Miller@jenkins-jackson.com,02/01/2006,220101,Matthew Miller,invalid_mobile;below_18
+Nicholas Mccarthy,Nicholas_Mccarthy@williams.com,06-07-1963,9323910,Nicholas Mccarthy,invalid_mobile
+John Barnett,John_Barnett@lewis.org,09/06/1973,713175,John Barnett,invalid_mobile
+Paige Hudson,Paige_Hudson@harris-thomas.com,05-10-1974,29771,Paige Hudson,invalid_mobile
+Dr. Edward Marshall MD,Edward_Marshall@estes-jensen.com,1977-11-24,47486,Edward Marshall,invalid_mobile
+Gina Higgins,Gina_Higgins@boyer.com,1953/07/31,6852882,Gina Higgins,invalid_mobile
+Linda Ellis,Linda_Ellis@gilbert.org,01/13/1958,41051,Linda Ellis,invalid_mobile
+Daniel Wade,Daniel_Wade@taylor-bernard.org,2011/07/05,37401,Daniel Wade,invalid_mobile;below_18
+Jessica Weiss,Jessica_Weiss@davidson.net,1972/02/06,565563,Jessica Weiss,invalid_mobile
+Erik Aguilar,Erik_Aguilar@bates.com,1982/04/02,8425306,Erik Aguilar,invalid_mobile
+Mr. Gregg Baker,Gregg_Baker@ho.info,03-09-2011,4201310,Gregg Baker,invalid_mobile;below_18
+Bradley Compton,Bradley_Compton@west-lee.com,05/12/1988,1384293,Bradley Compton,invalid_mobile
+Steve Mccall,Steve_Mccall@flores.com,20-07-1966,89186,Steve Mccall,invalid_mobile
+Thomas Hull,Thomas_Hull@schmidt.com,12/19/2016,6123 5491,Thomas Hull,invalid_mobile;below_18
+Carla Cunningham,Carla_Cunningham@barrett.com,12/12/1967,3770159,Carla Cunningham,invalid_mobile
+Rachel Sullivan,Rachel_Sullivan@perkins.info,09/29/1982,5324222,Rachel Sullivan,invalid_mobile
+Kayla Wright,Kayla_Wright@cook.com,24-02-2009,631197,Kayla Wright,invalid_mobile;below_18
+Andrew Tanner,Andrew_Tanner@underwood.com,04/29/1995,309333,Andrew Tanner,invalid_mobile
+Aaron Hansen,Aaron_Hansen@mckinney.com,01/28/1998,5163 9887,Aaron Hansen,invalid_mobile
+Hunter Atkinson,Hunter_Atkinson@foster.com,05/22/1994,5743046,Hunter Atkinson,invalid_mobile
+Richard Williams,Richard_Williams@vance-ramos.net,1982-05-03,14641,Richard Williams,invalid_mobile
+Frank Martinez,Frank_Martinez@garcia-johnson.biz,26-08-2015,58076,Frank Martinez,invalid_mobile;below_18
+Timothy Burns,Timothy_Burns@diaz.info,1967-07-03,2420132,Timothy Burns,invalid_mobile
+Henry White DDS,Henry_White@daniels-lewis.com,2005/02/16,55186,Henry White,invalid_mobile;below_18
+Amanda Mccoy,Amanda_Mccoy@hernandez.biz,1973/01/15,2033991,Amanda Mccoy,invalid_mobile
+Pamela Cox,Pamela_Cox@oneill.com,05/21/1963,998991,Pamela Cox,invalid_mobile
+Linda Ray,Linda_Ray@walters.net,10/22/1973,187113,Linda Ray,invalid_mobile
+Stephen Reid,Stephen_Reid@howell.com,07-05-1997,958833,Stephen Reid,invalid_mobile
+Kevin Landry,Kevin_Landry@miller-meyer.com,01/22/1999,6007009,Kevin Landry,invalid_mobile
+Jamie Porter,Jamie_Porter@farmer-brown.com,1971/07/05,2761326,Jamie Porter,invalid_mobile
+Mr. Ryan Rodriguez,Ryan_Rodriguez@green.com,10/16/2008,420789,Ryan Rodriguez,invalid_mobile;below_18
+Brittany Bradley,Brittany_Bradley@green-allen.org,04/16/2005,3546383,Brittany Bradley,invalid_mobile;below_18
+Amy Wallace,Amy_Wallace@martin-bolton.org,08/23/1973,738579,Amy Wallace,invalid_mobile
+Timothy King,Timothy_King@johnson-smith.com,1953/10/01,669447,Timothy King,invalid_mobile
+Charles Jennings,Charles_Jennings@cochran.net,07/14/1975,7091 3863,Charles Jennings,invalid_mobile
+Jacqueline Briggs,Jacqueline_Briggs@howell-adams.info,1995/10/30,1979531,Jacqueline Briggs,invalid_mobile
+Laurie Gonzales,Laurie_Gonzales@jones.net,26-07-1971,589965,Laurie Gonzales,invalid_mobile
+Donald Molina,Donald_Molina@berry-duncan.net,09-10-2018,3528918,Donald Molina,invalid_mobile;below_18
+Ricky Allen,Ricky_Allen@roberts-mendoza.com,06/19/1961,6143 3467,Ricky Allen,invalid_mobile
+Catherine Rodriguez,Catherine_Rodriguez@owens-gibson.com,1993/07/24,840063,Catherine Rodriguez,invalid_mobile
+Mr. Daniel Torres,Daniel_Torres@dunlap.biz,04/23/1981,9875846,Daniel Torres,invalid_mobile
+David Shepherd,David_Shepherd@thompson.com,13-08-1953,8071239,David Shepherd,invalid_mobile
+Jonathan Hansen,Jonathan_Hansen@wright.info,1977/08/29,28556,Jonathan Hansen,invalid_mobile
+Tracey Hess,Tracey_Hess@thompson-moore.biz,08-11-1980,3512601,Tracey Hess,invalid_mobile
+Victoria Walker,Victoria_Walker@jacobs.biz,1965-12-01,76041,Victoria Walker,invalid_mobile
+John Gibbs,John_Gibbs@cox.biz,03/28/1980,73806,John Gibbs,invalid_mobile
+Angela Torres,Angela_Torres@henry.com,31-07-2007,897705,Angela Torres,invalid_mobile;below_18
+Harold Glover,Harold_Glover@manning.com,04-04-1965,33596,Harold Glover,invalid_mobile
+Dawn Myers,Dawn_Myers@cross-thomas.com,1993/09/21,7755245,Dawn Myers,invalid_mobile
+Ashley Spencer,Ashley_Spencer@anderson.com,01/26/1991,6855 5775,Ashley Spencer,invalid_mobile
+Mary Walters,Mary_Walters@russell-garrett.info,1970/03/30,3803640,Mary Walters,invalid_mobile
+Christina Davenport,Christina_Davenport@cox-williams.info,1954-10-10,668277,Christina Davenport,invalid_mobile
+Brian Johnson,Brian_Johnson@benton.com,03/23/1977,680751,Brian Johnson,invalid_mobile
+Crystal Contreras,Crystal_Contreras@ramirez.com,1995-02-18,318579,Crystal Contreras,invalid_mobile
+Tanya Turner,Tanya_Turner@simpson-dennis.com,1989/08/13,52251,Tanya Turner,invalid_mobile
+Katelyn Durham,Katelyn_Durham@mcneil.com,15-10-2010,2600732,Katelyn Durham,invalid_mobile;below_18
+Nathaniel Wilson,Nathaniel_Wilson@fisher.org,16-12-1957,25386,Nathaniel Wilson,invalid_mobile
+Joseph Long,Joseph_Long@mcguire-rodriguez.org,25-11-1981,83686,Joseph Long,invalid_mobile
+Mallory Hall,Mallory_Hall@moore-mckinney.com,03/26/2006,35866,Mallory Hall,invalid_mobile;below_18
+Bianca Chavez,Bianca_Chavez@brooks-hendrix.com,02-05-1985,633609,Bianca Chavez,invalid_mobile
+Victoria Strickland,Victoria_Strickland@mccarthy-stewart.com,07/30/1953,3159 5971,Victoria Strickland,invalid_mobile
+Scott Jackson,Scott_Jackson@johnston.biz,29-10-2013,216321,Scott Jackson,invalid_mobile;below_18
+Patrick Smith,Patrick_Smith@molina.net,01/29/1972,7639 8335,Patrick Smith,invalid_mobile
+Samuel West,Samuel_West@johnson-ryan.net,06/27/2002,5035 4899,Samuel West,invalid_mobile
+Dr. Brian Baker,Brian_Baker@hodges-bowers.net,08/01/1957,1998340,Brian Baker,invalid_mobile
+Joanna Fernandez,Joanna_Fernandez@garcia.biz,1960/08/03,95206,Joanna Fernandez,invalid_mobile
+Jeffrey Berg,Jeffrey_Berg@tran.net,05/30/1970,28191,Jeffrey Berg,invalid_mobile
+David Fuller,David_Fuller@holland.net,2011/08/06,786921,David Fuller,invalid_mobile;below_18
+Laura Kramer,Laura_Kramer@white.net,1959-02-03,72611,Laura Kramer,invalid_mobile
+Melinda Lambert,Melinda_Lambert@rogers.com,04-10-1951,833751,Melinda Lambert,invalid_mobile
+Jill Thornton,Jill_Thornton@brown-carrillo.biz,1987/04/15,369021,Jill Thornton,invalid_mobile
+Beth Kim,Beth_Kim@mckinney.com,1993/07/27,7678476,Beth Kim,invalid_mobile
+Kelly Thomas,Kelly_Thomas@martin-aguilar.com,27-12-1998,4822833,Kelly Thomas,invalid_mobile
+Teresa James,Teresa_James@white.com,2017-11-15,98296,Teresa James,invalid_mobile;below_18
+Jasmine Johnson,Jasmine_Johnson@weaver.net,2007-11-14,38786455,Jasmine Johnson,below_18
+Brian Wood,Brian_Wood@jones.com,2003/07/05,478965,Brian Wood,invalid_mobile
+Deborah Estes,Deborah_Estes@foster-juarez.info,2016-11-09,5563776,Deborah Estes,invalid_mobile;below_18
+Jeremy Knight,Jeremy_Knight@farrell.com,18-10-1985,36631,Jeremy Knight,invalid_mobile
+Abigail Mccoy,Abigail_Mccoy@washington.com,12/24/2007,3983 9051,Abigail Mccoy,invalid_mobile;below_18
+Chad Sellers,Chad_Sellers@mccoy.org,1974/01/03,201111,Chad Sellers,invalid_mobile
+James Terry,James_Terry@valencia.info,2004-06-04,160731,James Terry,invalid_mobile;below_18
+Rachael Watson,Rachael_Watson@miller-meyer.biz,02/02/2011,964347,Rachael Watson,invalid_mobile;below_18
+Matthew Salazar,Matthew_Salazar@bernard.com,09/21/1956,7436157,Matthew Salazar,invalid_mobile
+Christopher Small,Christopher_Small@miller.net,12-10-2016,4818122,Christopher Small,invalid_mobile;below_18
+Noah Smith,Noah_Smith@waller.info,1995/12/01,925137,Noah Smith,invalid_mobile
+Steven Mack,Steven_Mack@fisher.biz,2001-07-26,80966,Steven Mack,invalid_mobile
+Casey Castillo,Casey_Castillo@clark.com,11/16/1958,75866,Casey Castillo,invalid_mobile
+Karen Sutton,Karen_Sutton@lin-nguyen.com,12/22/1970,66336,Karen Sutton,invalid_mobile
+John Martinez,John_Martinez@robinson.com,2012-05-02,57866,John Martinez,invalid_mobile;below_18
+Michele Harrington,Michele_Harrington@dean.biz,1998/08/05,7182190,Michele Harrington,invalid_mobile
+Cheyenne Brown,Cheyenne_Brown@lee.com,31-07-1993,7463751,Cheyenne Brown,invalid_mobile
+David Turner,David_Turner@johnston-hernandez.com,1976/10/18,496491,David Turner,invalid_mobile
+Brian Carter,Brian_Carter@brown.com,09/17/1975,2396584,Brian Carter,invalid_mobile
+Anthony Carson,Anthony_Carson@mcintyre.com,05/04/1956,3663759,Anthony Carson,invalid_mobile
+Janet Zavala,Janet_Zavala@chavez.com,1972-01-16,42521,Janet Zavala,invalid_mobile
+Carla Cannon,Carla_Cannon@olson.com,1952-10-08,53351,Carla Cannon,invalid_mobile
+Lacey Lopez,Lacey_Lopez@savage.org,1961-04-30,5649407,Lacey Lopez,invalid_mobile
+Amy Copeland,Amy_Copeland@white.com,10/11/1989,535389,Amy Copeland,invalid_mobile
+Kristin Jacobs,Kristin_Jacobs@gardner.com,1960/03/03,67891,Kristin Jacobs,invalid_mobile
+Antonio Ferguson,Antonio_Ferguson@bailey.com,2008/07/10,8239470,Antonio Ferguson,invalid_mobile;below_18
+Isabella Bush DDS,Isabella_Bush@reed.info,1964/10/31,9726109,Isabella Bush,invalid_mobile
+Holly Mendoza,Holly_Mendoza@pratt.com,14-03-1980,226641,Holly Mendoza,invalid_mobile
+Jordan Lopez,Jordan_Lopez@barnes-mathews.com,2006/12/20,413133,Jordan Lopez,invalid_mobile;below_18
+Antonio Ryan,Antonio_Ryan@hall-herrera.com,09-09-2010,87921,Antonio Ryan,invalid_mobile;below_18
+Raymond Ware,Raymond_Ware@walsh.com,08/15/2004,8263 2731,Raymond Ware,invalid_mobile;below_18
+Alexander Stafford,Alexander_Stafford@farley.com,10-02-2006,82406,Alexander Stafford,invalid_mobile;below_18
+Kristen Rice,Kristen_Rice@johnson.com,1955-08-25,78291,Kristen Rice,invalid_mobile
+Joseph Moore,Joseph_Moore@mckenzie.com,1995/11/07,17051,Joseph Moore,invalid_mobile
+Bryan Riley,Bryan_Riley@martin.biz,1959-10-03,3220449,Bryan Riley,invalid_mobile
+Diana Flores,Diana_Flores@snow.com,29-03-1978,336339,Diana Flores,invalid_mobile
+Kathryn Lawrence MD,Kathryn_Lawrence@miller-hoffman.com,2009-01-21,34701,Kathryn Lawrence,invalid_mobile;below_18
+Deanna Smith,Deanna_Smith@cooke.com,04/16/1951,5039 5271,Deanna Smith,invalid_mobile
+Nancy Miller,Nancy_Miller@hansen.info,1985-09-27,90626,Nancy Miller,invalid_mobile
+David Horton,David_Horton@bullock-reyes.com,1974-02-16,421611,David Horton,invalid_mobile
+Zachary Esparza,Zachary_Esparza@walton.com,1992/04/29,4635982,Zachary Esparza,invalid_mobile
+Victoria Moreno,Victoria_Moreno@chen-nelson.com,01-07-1970,29941,Victoria Moreno,invalid_mobile
+Douglas Skinner,Douglas_Skinner@ward.biz,1991/01/15,986439,Douglas Skinner,invalid_mobile
+Timothy Spencer,Timothy_Spencer@morrison.net,06/23/1960,51646,Timothy Spencer,invalid_mobile
+Daniel Oconnor,Daniel_Oconnor@tucker.org,16-12-2006,29838831,Daniel Oconnor,below_18
+Ryan Fitzgerald,Ryan_Fitzgerald@whitaker-davis.com,1970/09/12,5849257,Ryan Fitzgerald,invalid_mobile
+Natalie Martinez,Natalie_Martinez@martinez.com,2018/06/09,4714942,Natalie Martinez,invalid_mobile;below_18
+Joyce Hayes,Joyce_Hayes@morris.biz,2006-09-06,43466,Joyce Hayes,invalid_mobile;below_18
+Amber Morris,Amber_Morris@wong.com,07/23/1964,8998046,Amber Morris,invalid_mobile
+Tiffany Jackson,Tiffany_Jackson@avery.biz,19-05-2004,2914570,Tiffany Jackson,invalid_mobile;below_18
+Tiffany Vasquez,Tiffany_Vasquez@greene-smith.com,2005/05/17,799671,Tiffany Vasquez,invalid_mobile;below_18
+John Douglas,John_Douglas@jensen.info,03/02/1999,2207 2627,John Douglas,invalid_mobile
+William Reed,William_Reed@morales.org,16-02-1993,6807207,William Reed,invalid_mobile
+Nicole James,Nicole_James@brown-mills.com,1991/01/07,844311,Nicole James,invalid_mobile
+Mrs. Danielle Miller,Danielle_Miller@hughes.com,1967-02-12,97561,Danielle Miller,invalid_mobile
+Sarah Miller,Sarah_Miller@may.com,1990-01-23,238173,Sarah Miller,invalid_mobile
+John Morrison,John_Morrison@anderson-lucas.com,14-03-1955,51106,John Morrison,invalid_mobile
+Daniel Smith,Daniel_Smith@harris.com,1988/11/10,279231,Daniel Smith,invalid_mobile
+Kurt Butler,Kurt_Butler@taylor.net,06/21/1964,4339 4675,Kurt Butler,invalid_mobile
+Derrick Campbell,Derrick_Campbell@webb.com,1985/01/10,2978858,Derrick Campbell,invalid_mobile
+Jennifer Ibarra,Jennifer_Ibarra@ibarra-medina.com,1962/09/14,346227,Jennifer Ibarra,invalid_mobile
+Timothy Black,Timothy_Black@robinson-williams.com,2008-09-07,17276,Timothy Black,invalid_mobile;below_18
+Shawn Blanchard,Shawn_Blanchard@robinson.org,1991/06/27,67761,Shawn Blanchard,invalid_mobile
+Brian Johnson,Brian_Johnson@rodriguez.biz,2006/12/14,669405,Brian Johnson,invalid_mobile;below_18
+James White,James_White@moran-sullivan.com,1987-09-06,676143,James White,invalid_mobile
+William Smith,William_Smith@woods-hicks.net,2007-03-14,52860751,William Smith,below_18
+Mrs. Hannah Cummings,Hannah_Cummings@anderson-hansen.com,01/05/2008,1511896,Hannah Cummings,invalid_mobile;below_18
+Philip Mills,Philip_Mills@riley.net,11/02/1963,4903634,Philip Mills,invalid_mobile
+Emily Berry,Emily_Berry@anderson.com,11/20/2006,613125,Emily Berry,invalid_mobile;below_18
+Casey Coffey,Casey_Coffey@west.com,2004-08-02,26436239,Casey Coffey,below_18
+Regina Johnson,Regina_Johnson@hernandez.org,1953/05/14,9976058,Regina Johnson,invalid_mobile
+Steven Waters,Steven_Waters@davis.com,04/20/2007,2539 7755,Steven Waters,invalid_mobile;below_18
+Joshua Gonzalez,Joshua_Gonzalez@greene.com,1980/09/24,1884597,Joshua Gonzalez,invalid_mobile
+Kimberly Green,Kimberly_Green@sanchez.com,10/09/2017,2367 6815,Kimberly Green,invalid_mobile;below_18
+Linda Barajas,Linda_Barajas@ramirez.com,09-12-1985,93651,Linda Barajas,invalid_mobile
+Amber Jensen,Amber_Jensen@reed.biz,2003-05-23,965115,Amber Jensen,invalid_mobile
+Elizabeth Benitez,Elizabeth_Benitez@goodwin-sullivan.biz,1956/03/23,4224823,Elizabeth Benitez,invalid_mobile
+Jonathan Hernandez,Jonathan_Hernandez@hood-abbott.com,1998/10/02,61501,Jonathan Hernandez,invalid_mobile
+Benjamin Stevens,Benjamin_Stevens@walton-gamble.com,1999/11/12,838161,Benjamin Stevens,invalid_mobile
+Isaac Roth,Isaac_Roth@thompson.com,01/02/1961,706593,Isaac Roth,invalid_mobile
+Lauren Smith,Lauren_Smith@davis.info,01-08-1978,34446,Lauren Smith,invalid_mobile
+Nicole Duffy MD,Nicole_Duffy@davenport-nelson.info,08-01-2009,18095111,Nicole Duffy,below_18
+Emily Vega,Emily_Vega@butler.com,05/08/1996,887709,Emily Vega,invalid_mobile
+Jesse Stone,Jesse_Stone@morales.com,09/08/2004,3149819,Jesse Stone,invalid_mobile;below_18
+Jo Humphrey,Jo_Humphrey@ramos.com,10/31/1988,71786,Jo Humphrey,invalid_mobile
+Nicholas Marquez,Nicholas_Marquez@good.info,03/21/1990,2188138,Nicholas Marquez,invalid_mobile
+Brent Lloyd,Brent_Lloyd@lester-smith.com,1971-06-21,593355,Brent Lloyd,invalid_mobile
+Jonathan Hill,Jonathan_Hill@butler-murphy.info,1950/12/14,184365,Jonathan Hill,invalid_mobile
+Timothy Kelly,Timothy_Kelly@frye-brown.com,1977-04-20,68576,Timothy Kelly,invalid_mobile
+Donna Martinez,Donna_Martinez@rich-cook.com,2001/12/10,343875,Donna Martinez,invalid_mobile
+Tammy Miles,Tammy_Miles@allen.com,03/07/2014,40571,Tammy Miles,invalid_mobile;below_18
+Stephen Fields,Stephen_Fields@wilson.com,1958-07-23,7179348,Stephen Fields,invalid_mobile
+Paige Kemp,Paige_Kemp@green.org,03/31/1984,9431 6667,Paige Kemp,invalid_mobile
+Hannah Myers,Hannah_Myers@schaefer.com,09-09-1950,17826,Hannah Myers,invalid_mobile
+Tanya Garcia,Tanya_Garcia@vazquez.com,1978-12-09,35021,Tanya Garcia,invalid_mobile
+Elizabeth Moody,Elizabeth_Moody@parker.org,2012/06/09,222735,Elizabeth Moody,invalid_mobile;below_18
+Rebecca Santos,Rebecca_Santos@long.com,2003-04-30,8681023,Rebecca Santos,invalid_mobile
+Tammy Williams,Tammy_Williams@greer.info,03-06-1963,1276297,Tammy Williams,invalid_mobile
+Lauren Zimmerman DDS,Lauren_Zimmerman@chan.com,1997/06/28,325953,Lauren Zimmerman,invalid_mobile
+Amy Reed,Amy_Reed@chung.com,2000-01-05,8444388,Amy Reed,invalid_mobile
+Peter Holland,Peter_Holland@lopez-norris.com,09/27/1974,802413,Peter Holland,invalid_mobile
+Stephen Martinez,Stephen_Martinez@schmidt.com,1993-12-20,39056,Stephen Martinez,invalid_mobile
+Evan Martinez,Evan_Martinez@adkins-dennis.com,02/08/1989,548331,Evan Martinez,invalid_mobile
+Stephanie Smith,Stephanie_Smith@oconnor.com,2017/05/30,634983,Stephanie Smith,invalid_mobile;below_18
+Robert Schultz,Robert_Schultz@vance.com,05/30/2000,582441,Robert Schultz,invalid_mobile
+Steven Price,Steven_Price@thompson-williams.com,1998/11/15,45636,Steven Price,invalid_mobile
+William Park,William_Park@peterson.com,1960/09/14,755733,William Park,invalid_mobile
+Cole Butler,Cole_Butler@campbell.info,25-12-2009,940509,Cole Butler,invalid_mobile;below_18
+Jessica Prince,Jessica_Prince@rodriguez-hill.com,1995/12/27,596913,Jessica Prince,invalid_mobile
+Brian Smith,Brian_Smith@martinez.com,1979-03-02,853017,Brian Smith,invalid_mobile
+Mark Ortiz,Mark_Ortiz@costa-barker.info,2000/08/01,5881751,Mark Ortiz,invalid_mobile
+Shane Garcia,Shane_Garcia@ingram-ford.com,12/23/2005,8043 5507,Shane Garcia,invalid_mobile;below_18
+Tammy Lowe,Tammy_Lowe@hart.info,05-02-2011,43251,Tammy Lowe,invalid_mobile;below_18
+Bonnie Parsons,Bonnie_Parsons@elliott.info,1999-11-27,887463,Bonnie Parsons,invalid_mobile
+Diane Lee,Diane_Lee@mills-robinson.org,07/14/1988,968625,Diane Lee,invalid_mobile
+Destiny Thompson,Destiny_Thompson@wood.com,06/30/2008,419979,Destiny Thompson,invalid_mobile;below_18
+Carol Johnston,Carol_Johnston@anderson-brown.com,01/19/1968,6968634,Carol Johnston,invalid_mobile
+Catherine Cline,Catherine_Cline@smith.net,04/30/2006,919797,Catherine Cline,invalid_mobile;below_18
+Whitney Russell,Whitney_Russell@ellis.com,1958-02-13,1790769,Whitney Russell,invalid_mobile
+Joseph Brown,Joseph_Brown@park.biz,1991-04-11,237615,Joseph Brown,invalid_mobile
+Andrea Cherry,Andrea_Cherry@miller-roberts.com,1957/02/04,44891,Andrea Cherry,invalid_mobile
+Ronnie James,Ronnie_James@dalton-williams.org,04/22/2017,766785,Ronnie James,invalid_mobile;below_18
+Jesse Wagner,Jesse_Wagner@miller-nguyen.biz,08/16/1966,999171,Jesse Wagner,invalid_mobile
+Jennifer Johnson,Jennifer_Johnson@soto.com,12/30/1979,4868354,Jennifer Johnson,invalid_mobile
+Amy Collins,Amy_Collins@lindsey-farrell.com,11/09/1964,47251,Amy Collins,invalid_mobile
+Nathaniel Curtis,Nathaniel_Curtis@brooks.org,1968-12-05,59686,Nathaniel Curtis,invalid_mobile
+Daniel Gonzalez,Daniel_Gonzalez@rogers.org,10-01-2006,1447412,Daniel Gonzalez,invalid_mobile;below_18
+Patricia Gomez,Patricia_Gomez@chan.com,11-06-2002,208857,Patricia Gomez,invalid_mobile
+Christopher Douglas,Christopher_Douglas@rodriguez-santos.com,1955-12-21,83776,Christopher Douglas,invalid_mobile
+Thomas Glover,Thomas_Glover@kane.biz,08/14/1967,4143 3683,Thomas Glover,invalid_mobile
+Ryan Fischer,Ryan_Fischer@smith.biz,08/12/1977,4815 1867,Ryan Fischer,invalid_mobile
+Briana Turner,Briana_Turner@bailey.com,28-04-1981,87921,Briana Turner,invalid_mobile
+Patrick Williams,Patrick_Williams@hill.com,02/28/2010,565971,Patrick Williams,invalid_mobile;below_18
+Kathryn Morris,Kathryn_Morris@martin-diaz.biz,06/05/1966,1219 8603,Kathryn Morris,invalid_mobile
+Jonathan Henry,Jonathan_Henry@mccoy.info,02/27/1981,6011 3947,Jonathan Henry,invalid_mobile
+Jonathan Navarro,Jonathan_Navarro@keller.com,04/23/1961,85746,Jonathan Navarro,invalid_mobile
+Steven Ryan,Steven_Ryan@miller-williams.biz,1995-01-15,3604994,Steven Ryan,invalid_mobile
+Matthew Rodriguez,Matthew_Rodriguez@smith.info,05-07-2005,463443,Matthew Rodriguez,invalid_mobile;below_18
+Laurie Stewart,Laurie_Stewart@marquez.com,1981-01-30,32491,Laurie Stewart,invalid_mobile
+Joseph Ramirez,Joseph_Ramirez@garcia.com,1955/05/10,84221,Joseph Ramirez,invalid_mobile
+Eric Harris,Eric_Harris@brown.info,10-09-1950,2320578,Eric Harris,invalid_mobile
+Amy Townsend,Amy_Townsend@wright.com,2015-07-15,948999,Amy Townsend,invalid_mobile;below_18
+Jeffrey Gutierrez,Jeffrey_Gutierrez@fleming.com,02/06/1961,485013,Jeffrey Gutierrez,invalid_mobile
+Kenneth Zimmerman,Kenneth_Zimmerman@cruz-bowman.com,1968/10/18,46616,Kenneth Zimmerman,invalid_mobile
+Jonathan Guerrero,Jonathan_Guerrero@paul.com,07-04-1984,176811,Jonathan Guerrero,invalid_mobile
+James Thomas,James_Thomas@munoz.net,1982-01-28,7823775,James Thomas,invalid_mobile
+James Bradshaw,James_Bradshaw@brewer.com,2009/11/29,34761231,James Bradshaw,below_18
+Edgar Moreno,Edgar_Moreno@patel.com,05/13/1964,689517,Edgar Moreno,invalid_mobile
+Margaret Roberts,Margaret_Roberts@rojas-green.org,27-12-1994,2508045,Margaret Roberts,invalid_mobile
+Mary Gonzales,Mary_Gonzales@weber-day.org,1962-11-19,872655,Mary Gonzales,invalid_mobile
+Deborah Ortiz,Deborah_Ortiz@phelps-sanchez.com,1966-05-17,23241,Deborah Ortiz,invalid_mobile
+Jesse Thomas,Jesse_Thomas@floyd-warner.info,11/14/1956,9809451,Jesse Thomas,invalid_mobile
+Taylor Torres,Taylor_Torres@romero.com,2006-05-08,875451,Taylor Torres,invalid_mobile;below_18
+Jennifer Sampson,Jennifer_Sampson@west-rodriguez.com,1968-07-23,6685330,Jennifer Sampson,invalid_mobile
+Jennifer Shaffer,Jennifer_Shaffer@palmer.org,04/15/1976,30986,Jennifer Shaffer,invalid_mobile
+Melanie Griffith,Melanie_Griffith@black-reyes.org,11/02/1997,167535,Melanie Griffith,invalid_mobile
+Michelle May,Michelle_May@wells-walker.com,23-07-1975,69466,Michelle May,invalid_mobile
+Alexandra Shelton,Alexandra_Shelton@jackson-gomez.com,13-02-1987,8728861,Alexandra Shelton,invalid_mobile
+Carl Gonzalez,Carl_Gonzalez@zamora.org,25-11-1950,165939,Carl Gonzalez,invalid_mobile
+Chad Kelly,Chad_Kelly@sherman.com,09/21/1970,634155,Chad Kelly,invalid_mobile
+Jacob White,Jacob_White@melton.com,2004-12-16,939267,Jacob White,invalid_mobile;below_18
+Tony Howard,Tony_Howard@gutierrez.org,02/11/1953,6299 3627,Tony Howard,invalid_mobile
+Randy Franklin,Randy_Franklin@hamilton.com,22-02-1952,6321491,Randy Franklin,invalid_mobile
+Taylor Davidson,Taylor_Davidson@williams.net,1979-11-09,9689611,Taylor Davidson,invalid_mobile
+Daniel Martinez,Daniel_Martinez@sullivan.com,1993/12/01,85401,Daniel Martinez,invalid_mobile
+Theresa Potter,Theresa_Potter@valdez.com,02/12/1958,98186,Theresa Potter,invalid_mobile
+William Kerr,William_Kerr@meyer.net,1991-01-24,63111,William Kerr,invalid_mobile
+Erin Anderson,Erin_Anderson@middleton.com,1972/09/02,300921,Erin Anderson,invalid_mobile
+Carlos Sawyer,Carlos_Sawyer@villa-watkins.com,07-04-1953,621855,Carlos Sawyer,invalid_mobile
+Steven Reyes,Steven_Reyes@wolfe.net,1979-10-24,900693,Steven Reyes,invalid_mobile
+Robert Johnson,Robert_Johnson@thomas-boyd.com,20-09-1964,5540753,Robert Johnson,invalid_mobile
+John Kelley,John_Kelley@george-barker.com,09/28/1996,9991 9107,John Kelley,invalid_mobile
+Melissa Franklin,Melissa_Franklin@nelson.info,07/08/1998,1791581,Melissa Franklin,invalid_mobile
+Travis Davis,Travis_Davis@thomas-long.org,11/07/1950,761589,Travis Davis,invalid_mobile
+Adam Bailey,Adam_Bailey@bates.com,24-04-1999,5377205,Adam Bailey,invalid_mobile
+Crystal Peterson,Crystal_Peterson@parker-soto.com,1968/01/13,2593879,Crystal Peterson,invalid_mobile
+David Anderson,David_Anderson@hughes.com,1984-12-10,646941,David Anderson,invalid_mobile
+David Allen III,David_Allen@bentley-scott.com,06/06/1955,57931,David Allen III,invalid_mobile
+Jose Mitchell,Jose_Mitchell@roth.com,1974/07/19,9383102,Jose Mitchell,invalid_mobile
+Jay Smith,Jay_Smith@nguyen-martinez.biz,1965-11-21,6277888,Jay Smith,invalid_mobile
+David Spence,David_Spence@sullivan.org,04/25/1965,49986,David Spence,invalid_mobile
+Alicia Young,Alicia_Young@barton-bell.com,1994/05/14,86706,Alicia Young,invalid_mobile
+Gregory Cooper,Gregory_Cooper@lopez.com,07/25/2013,907869,Gregory Cooper,invalid_mobile;below_18
+Michelle Brown,Michelle_Brown@perez-scott.net,08/17/2003,618951,Michelle Brown,invalid_mobile
+Melissa Johnson,Melissa_Johnson@cameron-byrd.com,1982/11/19,301347,Melissa Johnson,invalid_mobile
+Madeline Terry,Madeline_Terry@higgins.com,1952-09-22,291141,Madeline Terry,invalid_mobile
+Rebekah Fischer,Rebekah_Fischer@meza-warren.com,1969-10-23,8302925,Rebekah Fischer,invalid_mobile
+Wendy Sexton,Wendy_Sexton@hopkins-harvey.com,1988-02-17,480237,Wendy Sexton,invalid_mobile
+Brent Richards,Brent_Richards@fletcher-skinner.org,2010-06-09,291309,Brent Richards,invalid_mobile;below_18
+Christopher Kim,Christopher_Kim@marshall-wilkins.com,2009-08-06,7521277,Christopher Kim,invalid_mobile;below_18
+Kristie White,Kristie_White@padilla.com,24-09-1986,4611328,Kristie White,invalid_mobile
+Eric Anderson,Eric_Anderson@valdez.biz,1973/07/24,14996,Eric Anderson,invalid_mobile
+Patrick Moran,Patrick_Moran@kennedy-smith.com,04-12-1954,9123766,Patrick Moran,invalid_mobile
+Kimberly Dillon,Kimberly_Dillon@drake.info,2001/06/18,996591,Kimberly Dillon,invalid_mobile
+Michael Morris,Michael_Morris@nelson.net,09/24/1979,6295 9695,Michael Morris,invalid_mobile
+Stephanie Garcia,Stephanie_Garcia@mckinney-baker.biz,1953/06/13,346491,Stephanie Garcia,invalid_mobile
+Brandon Henry,Brandon_Henry@king-bowers.org,1959/04/09,454143,Brandon Henry,invalid_mobile
+Elizabeth Jones,Elizabeth_Jones@peterson-johnson.net,05/30/2010,89436,Elizabeth Jones,invalid_mobile;below_18
+Manuel Reyes,Manuel_Reyes@leon-johnson.com,03/30/1976,2704430,Manuel Reyes,invalid_mobile
+Mindy Valentine,Mindy_Valentine@gutierrez-martin.com,1979/04/25,94856,Mindy Valentine,invalid_mobile
+Mary Stevenson,Mary_Stevenson@clark.com,1955/09/11,5888464,Mary Stevenson,invalid_mobile
+Emma Beltran,Emma_Beltran@armstrong-adkins.biz,13-02-1986,426357,Emma Beltran,invalid_mobile
+Paul Phillips,Paul_Phillips@manning.org,1992-04-23,29741,Paul Phillips,invalid_mobile
+James Porter,James_Porter@cervantes.biz,03-07-1990,3071230,James Porter,invalid_mobile
+David Harrison,David_Harrison@green.info,1984-10-31,2368605,David Harrison,invalid_mobile
+Tara Davidson,Tara_Davidson@hernandez.com,17-11-1986,1738283,Tara Davidson,invalid_mobile
+Donna Kelly,Donna_Kelly@young.org,28-11-1962,4989146,Donna Kelly,invalid_mobile
+Renee Mayer,Renee_Mayer@petty.com,2005-02-01,351321,Renee Mayer,invalid_mobile;below_18
+Victor Davis,Victor_Davis@crawford.org,1957-01-03,9626898,Victor Davis,invalid_mobile
+Marc Abbott,Marc_Abbott@grimes.info,08/25/2017,54976,Marc Abbott,invalid_mobile;below_18
+Kevin Flores,Kevin_Flores@crawford.com,1956/06/05,414045,Kevin Flores,invalid_mobile
+Sarah Mayo,Sarah_Mayo@thompson.org,1993/05/07,2388107,Sarah Mayo,invalid_mobile
+Anthony Morgan,Anthony_Morgan@smith.com,14-01-1967,41706,Anthony Morgan,invalid_mobile
+Sarah Wong,Sarah_Wong@glover.info,03/27/1985,8765597,Sarah Wong,invalid_mobile
+Tanya Martinez,Tanya_Martinez@moore.com,09/11/1976,3661127,Tanya Martinez,invalid_mobile
+Jacob Lewis,Jacob_Lewis@carlson.net,16-09-1962,7367256,Jacob Lewis,invalid_mobile
+Valerie Spencer,Valerie_Spencer@franklin-jackson.info,10-03-2018,22299967,Valerie Spencer,below_18
+Kelly Drake,Kelly_Drake@pollard-nelson.com,14-01-1971,68351,Kelly Drake,invalid_mobile
+Zachary Foster,Zachary_Foster@hamilton-king.com,2011-10-20,572823,Zachary Foster,invalid_mobile;below_18
+Susan Summers,Susan_Summers@wilson.com,01-07-1981,9873480,Susan Summers,invalid_mobile
+Alicia Roberts,Alicia_Roberts@ramos.net,2009-09-24,75301,Alicia Roberts,invalid_mobile;below_18
+Charlene Patterson,Charlene_Patterson@edwards.com,1986/09/27,7158222,Charlene Patterson,invalid_mobile
+Nichole Murray,Nichole_Murray@harmon-blackwell.com,1953-10-28,7541654,Nichole Murray,invalid_mobile
+Anthony Robinson,Anthony_Robinson@welch-williams.net,03/27/1987,345279,Anthony Robinson,invalid_mobile
+Andrew Sutton,Andrew_Sutton@mcintyre-allen.com,15-12-1966,818421,Andrew Sutton,invalid_mobile
+John Munoz,John_Munoz@perkins-proctor.org,2004/10/09,7944973,John Munoz,invalid_mobile;below_18
+Mallory Bright,Mallory_Bright@santiago.com,1954/11/18,117729,Mallory Bright,invalid_mobile
+Zachary Johnson,Zachary_Johnson@velez.com,1974/10/02,2099868,Zachary Johnson,invalid_mobile
+Nicolas Myers,Nicolas_Myers@shaw.net,2001/06/18,4088904,Nicolas Myers,invalid_mobile
+Larry Smith,Larry_Smith@phillips-pratt.org,2013-11-27,18336,Larry Smith,invalid_mobile;below_18
+Victoria Hoover,Victoria_Hoover@roberts.com,1984/11/01,97191,Victoria Hoover,invalid_mobile
+Carl Shannon,Carl_Shannon@raymond.net,1980/04/01,4571624,Carl Shannon,invalid_mobile
+Melissa Hardy,Melissa_Hardy@stewart.com,03/04/1990,58936,Melissa Hardy,invalid_mobile
+Carolyn Smith,Carolyn_Smith@mccormick.biz,1976/04/18,383949,Carolyn Smith,invalid_mobile
+Austin Washington,Austin_Washington@hodge-weber.com,2000-05-25,61981,Austin Washington,invalid_mobile
+Earl Jackson,Earl_Jackson@cummings.com,09-12-1990,475281,Earl Jackson,invalid_mobile
+Nicole Simmons,Nicole_Simmons@webb.com,21-11-1988,9303981,Nicole Simmons,invalid_mobile
+Phillip Hurst,Phillip_Hurst@thompson-flores.net,13-07-1986,395427,Phillip Hurst,invalid_mobile
+Hailey Robbins,Hailey_Robbins@miller.com,10/28/1986,16186,Hailey Robbins,invalid_mobile
+James Taylor,James_Taylor@sparks.net,1971-04-30,334581,James Taylor,invalid_mobile
+Andrea Figueroa,Andrea_Figueroa@warren-romero.com,10/23/2014,2620507,Andrea Figueroa,invalid_mobile;below_18
+Cassandra Moreno,Cassandra_Moreno@roberts-mccarthy.info,1968/03/27,528657,Cassandra Moreno,invalid_mobile
+Gregory Pacheco,Gregory_Pacheco@perez.com,1963-12-28,89236,Gregory Pacheco,invalid_mobile
+Nicole Huerta,Nicole_Huerta@acevedo.com,1981-07-01,915957,Nicole Huerta,invalid_mobile
+Matthew Hoffman,Matthew_Hoffman@lara.com,05-04-2005,44628735,Matthew Hoffman,below_18
+Barbara Hudson,Barbara_Hudson@robinson-jones.com,10/28/1997,3319 4551,Barbara Hudson,invalid_mobile
+Sandra Francis,Sandra_Francis@juarez.org,18-04-1965,596037,Sandra Francis,invalid_mobile
+Rebecca Ray,Rebecca_Ray@davis.com,1991/03/28,78041,Rebecca Ray,invalid_mobile
+Tammy Simpson,Tammy_Simpson@schneider.net,1972-09-14,9676269,Tammy Simpson,invalid_mobile
+Kyle Clark,Kyle_Clark@harvey.org,1961/09/25,53051,Kyle Clark,invalid_mobile
+Sherry Peterson,Sherry_Peterson@dillon-barber.com,11/26/1969,9191 6671,Sherry Peterson,invalid_mobile
+Kyle Howard,Kyle_Howard@shannon-mosley.net,2009-10-21,21951,Kyle Howard,invalid_mobile;below_18
+David Warren,David_Warren@bell-lewis.com,07/18/1969,437769,David Warren,invalid_mobile
+Brandon Townsend,Brandon_Townsend@gray-davis.info,1989/02/03,38911,Brandon Townsend,invalid_mobile
+Christopher Ellis,Christopher_Ellis@johnson.com,1970/05/14,4715418,Christopher Ellis,invalid_mobile
+Renee Mccall,Renee_Mccall@valencia-ward.com,1994/11/09,4767253,Renee Mccall,invalid_mobile
+Nicole Valdez,Nicole_Valdez@chase.net,05/18/1975,2440103,Nicole Valdez,invalid_mobile
+Austin Bird,Austin_Bird@young-stout.com,05/15/1976,5371 3179,Austin Bird,invalid_mobile
+Adam Morrison,Adam_Morrison@clay-jones.com,01-08-1980,4022019,Adam Morrison,invalid_mobile
+Kenneth Koch,Kenneth_Koch@wagner.com,1966/02/06,130515,Kenneth Koch,invalid_mobile
+Michael Harris,Michael_Harris@miller-fischer.com,2004/05/22,66016,Michael Harris,invalid_mobile;below_18
+Devon Levy,Devon_Levy@chapman.com,1968/06/25,244203,Devon Levy,invalid_mobile
+Alison Wright,Alison_Wright@moore.info,1954-02-25,8439607,Alison Wright,invalid_mobile
+Jennifer Jones,Jennifer_Jones@williams.com,2014-04-26,67930447,Jennifer Jones,below_18
+Alexandra Rosales,Alexandra_Rosales@wu-kerr.net,1953-09-25,9013887,Alexandra Rosales,invalid_mobile
+Erika Wood,Erika_Wood@jacobson.org,09-06-1952,7709010,Erika Wood,invalid_mobile
+Kristen Dyer,Kristen_Dyer@haynes.com,06/20/1992,371487,Kristen Dyer,invalid_mobile
+Kristin Higgins,Kristin_Higgins@leonard.com,12/19/1998,5807 1267,Kristin Higgins,invalid_mobile
+Adrian Martin,Adrian_Martin@rojas.net,2008/03/07,98206903,Adrian Martin,below_18
+Joshua Hunter,Joshua_Hunter@jackson-parker.com,2007-05-17,60770775,Joshua Hunter,below_18
+Cindy Wells,Cindy_Wells@munoz.com,1973-06-16,5892335,Cindy Wells,invalid_mobile
+Meredith Shepherd,Meredith_Shepherd@wolfe.com,2016-10-29,65360583,Meredith Shepherd,below_18
+Paula Jackson,Paula_Jackson@rodgers.com,09/03/2010,945849,Paula Jackson,invalid_mobile;below_18
+Jacob Woodard,Jacob_Woodard@lee-williams.biz,08/21/2005,4707 3639,Jacob Woodard,invalid_mobile;below_18
+Michael Hill,Michael_Hill@herrera-vargas.com,1977-08-02,9580964,Michael Hill,invalid_mobile
+Maureen Miller,Maureen_Miller@wright.com,04/07/1958,6526234,Maureen Miller,invalid_mobile
+Pamela Brandt,Pamela_Brandt@glover.com,1983/08/21,93461,Pamela Brandt,invalid_mobile
+Matthew Rojas Jr.,Matthew_Rojas@austin.com,1950/04/30,4089233,Matthew Rojas Jr.,invalid_mobile
+Lawrence Jordan,Lawrence_Jordan@adams-gutierrez.com,05/19/1962,677979,Lawrence Jordan,invalid_mobile
+Travis Coleman,Travis_Coleman@williams.com,09-02-1995,424587,Travis Coleman,invalid_mobile
+Tina Lopez,Tina_Lopez@white-payne.com,2017-01-12,53786,Tina Lopez,invalid_mobile;below_18
+Joseph Armstrong,Joseph_Armstrong@miller-lee.com,11-09-1980,18656,Joseph Armstrong,invalid_mobile
+Kayla Sellers,Kayla_Sellers@stewart.info,2002/03/29,509223,Kayla Sellers,invalid_mobile
+Michael Rogers,Michael_Rogers@wagner.com,03/12/1955,22141,Michael Rogers,invalid_mobile
+Tiffany Fitzpatrick,Tiffany_Fitzpatrick@lindsey.com,13-02-1996,791433,Tiffany Fitzpatrick,invalid_mobile
+Sierra Warren,Sierra_Warren@miranda.biz,1963-02-12,82651,Sierra Warren,invalid_mobile
+Gregory Castillo,Gregory_Castillo@nunez-henderson.org,20-02-1972,3822057,Gregory Castillo,invalid_mobile
+Gilbert Johnson,Gilbert_Johnson@jones.com,09/23/1985,9719 1811,Gilbert Johnson,invalid_mobile
+Yvonne Murphy,Yvonne_Murphy@valdez.com,1993/06/25,1348131,Yvonne Murphy,invalid_mobile
+Austin Patel,Austin_Patel@reid.com,2016-07-30,666243,Austin Patel,invalid_mobile;below_18
+Ronald Lopez,Ronald_Lopez@swanson.com,1978/01/27,25071,Ronald Lopez,invalid_mobile
+Terry Fowler,Terry_Fowler@rivers-miller.org,2004-07-10,65941,Terry Fowler,invalid_mobile;below_18
+Holly Lara,Holly_Lara@young.net,01/16/1970,81361,Holly Lara,invalid_mobile
+Cody Hayden,Cody_Hayden@donovan.com,04/10/1989,2063461,Cody Hayden,invalid_mobile
+Veronica Bradford,Veronica_Bradford@larson.com,1986-10-24,3765728,Veronica Bradford,invalid_mobile
+Jeffery Wilson,Jeffery_Wilson@cook.com,1978-11-18,30701,Jeffery Wilson,invalid_mobile
+Tammy Cooper,Tammy_Cooper@allen.com,05-01-1979,38916,Tammy Cooper,invalid_mobile
+Jessica Gardner,Jessica_Gardner@cook-howe.com,08/05/1964,20356,Jessica Gardner,invalid_mobile
+Mr. Matthew Roman,Matthew_Roman@gonzalez-cooper.com,2011/02/15,72646,Matthew Roman,invalid_mobile;below_18
+Sharon Frazier,Sharon_Frazier@garcia-hall.info,1997-05-08,9084097,Sharon Frazier,invalid_mobile
+James Gonzalez,James_Gonzalez@woodward.org,20-03-1974,95391,James Gonzalez,invalid_mobile
+Tracy Mcmillan,Tracy_Mcmillan@wilson.com,06/20/2001,87726,Tracy Mcmillan,invalid_mobile
+Jenna Ayala,Jenna_Ayala@price.net,2017/06/19,112557,Jenna Ayala,invalid_mobile;below_18
+Julie Martinez,Julie_Martinez@chung-williams.com,23-05-2014,59153079,Julie Martinez,below_18
+Richard Lee,Richard_Lee@jones-willis.info,2000-10-24,3018611,Richard Lee,invalid_mobile
+Karen Smith MD,Karen_Smith@washington.com,05/05/1963,9103 6383,Karen Smith,invalid_mobile
+Timothy Lopez,Timothy_Lopez@george.com,2008-08-28,49793623,Timothy Lopez,below_18
+Robin Evans,Robin_Evans@coleman.net,30-07-1973,909081,Robin Evans,invalid_mobile
+Melvin Butler,Melvin_Butler@hardy.org,11/14/1957,6415 4343,Melvin Butler,invalid_mobile
+Deborah Mcbride,Deborah_Mcbride@brooks-pitts.net,05/11/1988,64806,Deborah Mcbride,invalid_mobile
+Austin Williams,Austin_Williams@villanueva.com,1962-08-24,84646,Austin Williams,invalid_mobile
+Kenneth Dean,Kenneth_Dean@rodriguez.com,1962-06-21,8649705,Kenneth Dean,invalid_mobile
+Joan Crawford,Joan_Crawford@scott.com,10/31/1963,31071,Joan Crawford,invalid_mobile
+Erin King,Erin_King@lee-miller.com,01/28/1957,399327,Erin King,invalid_mobile
+Mr. James Hamilton,James_Hamilton@finley-nelson.com,2014-04-12,1118839,James Hamilton,invalid_mobile;below_18
+Deborah Hood,Deborah_Hood@olson.com,25-12-1966,29986,Deborah Hood,invalid_mobile
+Marcus Stout,Marcus_Stout@barber-wright.org,05/10/1996,2686195,Marcus Stout,invalid_mobile
+Shannon Jacobs,Shannon_Jacobs@norris.com,2000/09/22,44866,Shannon Jacobs,invalid_mobile
+Todd Harris,Todd_Harris@pierce.com,1975-08-07,355683,Todd Harris,invalid_mobile
+Sarah Wilson,Sarah_Wilson@webb-gomez.com,01/31/2011,23076,Sarah Wilson,invalid_mobile;below_18
+Edward Brown,Edward_Brown@baker-wright.net,04/16/1960,26096,Edward Brown,invalid_mobile
+Calvin Jones,Calvin_Jones@morgan-lopez.org,2007-11-26,89850455,Calvin Jones,below_18
+Mr. Nicholas Fry,Nicholas_Fry@neal.com,02/15/2010,572103,Nicholas Fry,invalid_mobile;below_18
+Alejandro Sharp,Alejandro_Sharp@banks.biz,1986-05-31,8316624,Alejandro Sharp,invalid_mobile
+Debra Morgan,Debra_Morgan@clark.com,1980/10/28,4955196,Debra Morgan,invalid_mobile
+John Kemp,John_Kemp@underwood.com,28-09-1990,1162092,John Kemp,invalid_mobile
+Benjamin Richardson,Benjamin_Richardson@yang.com,1976-09-10,5904655,Benjamin Richardson,invalid_mobile
+Eric Cobb,Eric_Cobb@cannon.net,1982-10-25,869745,Eric Cobb,invalid_mobile
+Joseph Daniel,Joseph_Daniel@manning.info,08-08-1965,4498656,Joseph Daniel,invalid_mobile
+William Pollard,William_Pollard@lewis-wiley.com,18-06-2004,3633106,William Pollard,invalid_mobile;below_18
+Aaron Pace,Aaron_Pace@burgess-riley.com,01/02/2012,75746,Aaron Pace,invalid_mobile;below_18
+Wendy Smith,Wendy_Smith@ferguson-jones.com,1986/06/29,8189700,Wendy Smith,invalid_mobile
+Cheyenne Hernandez,Cheyenne_Hernandez@thomas.info,01/20/1973,782919,Cheyenne Hernandez,invalid_mobile
+Patricia Spencer,Patricia_Spencer@holland-rodriguez.com,2004-03-23,52772407,Patricia Spencer,below_18
+Charles Taylor PhD,Charles_Taylor@ramsey-pruitt.net,15-05-1966,369705,Charles Taylor,invalid_mobile
+Stacey Clark,Stacey_Clark@williams.com,1957-08-25,71616,Stacey Clark,invalid_mobile
+Megan Williams,Megan_Williams@novak.com,19-08-1987,75936,Megan Williams,invalid_mobile
+Robert Lee,Robert_Lee@house.com,1973-10-21,4718981,Robert Lee,invalid_mobile
+James Davis,James_Davis@huang.com,05/01/1959,9453046,James Davis,invalid_mobile
+Tami Harper,Tami_Harper@hall-flowers.biz,28-06-1972,7979651,Tami Harper,invalid_mobile
+Thomas Avila,Thomas_Avila@henry-powell.org,1997/01/09,502887,Thomas Avila,invalid_mobile
+Donald Perez,Donald_Perez@douglas-robles.com,1993-10-10,2697444,Donald Perez,invalid_mobile
+Elizabeth Moran,Elizabeth_Moran@mills.com,19-03-1994,91826,Elizabeth Moran,invalid_mobile
+Kristina Chapman,Kristina_Chapman@hunt.org,06/26/1984,71866,Kristina Chapman,invalid_mobile
+Julie Hobbs,Julie_Hobbs@moreno.biz,1980-02-14,787695,Julie Hobbs,invalid_mobile
+Robert Elliott,Robert_Elliott@johnson.com,03-12-2001,157947,Robert Elliott,invalid_mobile
+Kathleen Franklin,Kathleen_Franklin@golden.com,02/10/1997,281229,Kathleen Franklin,invalid_mobile
+Cassandra Smith,Cassandra_Smith@sweeney.com,19-10-1994,13626,Cassandra Smith,invalid_mobile
+Stacey Montoya,Stacey_Montoya@smith.net,01/26/2008,7954164,Stacey Montoya,invalid_mobile;below_18
+Hector Rivera,Hector_Rivera@oconnor.info,09/11/1956,2315 3231,Hector Rivera,invalid_mobile
+Veronica Morris,Veronica_Morris@thomas.com,04-04-1958,7713651,Veronica Morris,invalid_mobile
+Derrick Sanders,Derrick_Sanders@lopez.info,1951-04-25,96331,Derrick Sanders,invalid_mobile
+Russell Gallagher,Russell_Gallagher@davidson.com,23-02-1974,711303,Russell Gallagher,invalid_mobile
+Cody Moore,Cody_Moore@parker.com,1961/07/10,759435,Cody Moore,invalid_mobile
+Robin Ramsey,Robin_Ramsey@gilbert-bailey.info,2010/02/05,1197988,Robin Ramsey,invalid_mobile;below_18
+Heather Shelton,Heather_Shelton@porter.com,04/15/1996,252819,Heather Shelton,invalid_mobile
+Lindsay Zuniga,Lindsay_Zuniga@carson.org,04/12/2004,9566523,Lindsay Zuniga,invalid_mobile;below_18
+Mark Wells,Mark_Wells@bentley-thomas.info,1972/01/06,53601,Mark Wells,invalid_mobile
+Gerald Gonzales,Gerald_Gonzales@bennett.com,01/02/1975,71646,Gerald Gonzales,invalid_mobile
+Christopher Perez,Christopher_Perez@barker-daniels.com,1985-09-24,830727,Christopher Perez,invalid_mobile
+Justin Thornton,Justin_Thornton@mcintyre-knight.com,1996/07/30,801567,Justin Thornton,invalid_mobile
+Miss Lauren Solis,Lauren_Solis@frazier-lewis.com,2014-09-22,13418359,Lauren Solis,below_18
+Michelle Kidd,Michelle_Kidd@klein-goodman.com,02/22/1950,8051 1627,Michelle Kidd,invalid_mobile
+Michael Shannon,Michael_Shannon@martinez-mccann.info,2005/05/09,996129,Michael Shannon,invalid_mobile;below_18
+Sheila Garcia,Sheila_Garcia@griffin-garcia.org,18-03-1985,17726,Sheila Garcia,invalid_mobile
+Rebecca Rogers,Rebecca_Rogers@graves-clark.com,05/24/1987,504393,Rebecca Rogers,invalid_mobile
+Dana Tran,Dana_Tran@brown.com,2016-12-15,8245840,Dana Tran,invalid_mobile;below_18
+Elizabeth Lee,Elizabeth_Lee@lynn-sullivan.com,1974/09/01,87941,Elizabeth Lee,invalid_mobile
+Isaac Wright,Isaac_Wright@parker.com,2002-11-02,39506,Isaac Wright,invalid_mobile
+Jennifer Evans,Jennifer_Evans@bender.info,1992/02/02,3653070,Jennifer Evans,invalid_mobile
+Martha Mahoney,Martha_Mahoney@stephens.biz,1965/05/15,9900465,Martha Mahoney,invalid_mobile
+Daniel Shelton,Daniel_Shelton@kent.biz,13-08-2009,18052207,Daniel Shelton,below_18
+Jacqueline Sandoval,Jacqueline_Sandoval@craig.com,12/03/1962,858903,Jacqueline Sandoval,invalid_mobile
+Yvette Gonzales,Yvette_Gonzales@campbell.info,2004-05-19,7022436,Yvette Gonzales,invalid_mobile;below_18
+Sherry Randolph,Sherry_Randolph@wood.com,09/08/1971,2831501,Sherry Randolph,invalid_mobile
+Nicholas Vincent,Nicholas_Vincent@clark-jones.com,1961-10-02,1589155,Nicholas Vincent,invalid_mobile
+Nicole Banks,Nicole_Banks@mosley-blackwell.com,2006/06/04,72706,Nicole Banks,invalid_mobile;below_18
+Kathryn Mckinney,Kathryn_Mckinney@gordon.com,06/03/1961,824547,Kathryn Mckinney,invalid_mobile
+Kaylee Griffin,Kaylee_Griffin@russell.com,1954-05-08,629163,Kaylee Griffin,invalid_mobile
+Raymond Yu,Raymond_Yu@mathis.com,05-02-1969,32306,Raymond Yu,invalid_mobile
+Stephen Hill,Stephen_Hill@nelson.com,09/03/1954,516669,Stephen Hill,invalid_mobile
+Ryan Young,Ryan_Young@eaton.com,07-01-1962,91136,Ryan Young,invalid_mobile
+Kevin Turner,Kevin_Turner@wood.biz,1984/11/08,660435,Kevin Turner,invalid_mobile
+Scott Smith,Scott_Smith@solomon.net,1971/11/03,42946,Scott Smith,invalid_mobile
+Jill George,Jill_George@roberts-henderson.com,05-12-2007,779817,Jill George,invalid_mobile;below_18
+Anthony Odonnell,Anthony_Odonnell@terry.com,1959-11-21,3722664,Anthony Odonnell,invalid_mobile
+Kenneth Walton,Kenneth_Walton@anderson.com,03/09/1995,9335 8011,Kenneth Walton,invalid_mobile
+Tammy Dixon,Tammy_Dixon@campbell.com,1971/01/19,998367,Tammy Dixon,invalid_mobile
+Mary Herring,Mary_Herring@bell.org,1960/03/24,4231347,Mary Herring,invalid_mobile
+David Harris,David_Harris@eaton.biz,06/20/1976,305373,David Harris,invalid_mobile
+Holly Jenkins,Holly_Jenkins@morrow-jenkins.com,12/07/2013,8791315,Holly Jenkins,invalid_mobile;below_18
+Kristen Hall,Kristen_Hall@davenport.com,1985/01/24,8958020,Kristen Hall,invalid_mobile
+Vanessa Hernandez,Vanessa_Hernandez@williams-wagner.com,1995-07-17,12111,Vanessa Hernandez,invalid_mobile
+Lindsey Baker,Lindsey_Baker@brown-anderson.com,1959/04/24,45676,Lindsey Baker,invalid_mobile
+Jessica Cooper,Jessica_Cooper@rivera.com,03/12/1990,9755481,Jessica Cooper,invalid_mobile
+Daniel Garcia,Daniel_Garcia@williams-griffin.com,1956-03-15,99651,Daniel Garcia,invalid_mobile
+Brandon Proctor,Brandon_Proctor@baldwin.com,2014/05/04,38506,Brandon Proctor,invalid_mobile;below_18
+Ray Moore,Ray_Moore@davies.com,1956/10/07,20616,Ray Moore,invalid_mobile
+Thomas Hughes,Thomas_Hughes@alvarez-gibson.com,18-06-2006,958323,Thomas Hughes,invalid_mobile;below_18
+Erika Hill,Erika_Hill@weaver.net,21-12-2006,57806,Erika Hill,invalid_mobile;below_18
+William Wright,William_Wright@mcdonald.info,01/17/1970,838293,William Wright,invalid_mobile
+Joshua Hurley,Joshua_Hurley@smith.com,04-04-2003,8537131,Joshua Hurley,invalid_mobile
+Allen Luna,Allen_Luna@mitchell.net,1979/08/02,933279,Allen Luna,invalid_mobile
+David Forbes,David_Forbes@cochran.biz,2014-05-25,771255,David Forbes,invalid_mobile;below_18
+Jeffrey Ross,Jeffrey_Ross@cooper-browning.biz,1991-08-21,2737799,Jeffrey Ross,invalid_mobile
+Yolanda Morris,Yolanda_Morris@robles.info,02/10/1972,9915 6595,Yolanda Morris,invalid_mobile
+Amy Webster,Amy_Webster@oliver-sanchez.info,2015/05/20,2325212,Amy Webster,invalid_mobile;below_18
+Joseph Lopez,Joseph_Lopez@brown.biz,1980/05/25,549909,Joseph Lopez,invalid_mobile
+Robert Miller,Robert_Miller@shields.com,1954/03/17,8861294,Robert Miller,invalid_mobile
+Karen Harris,Karen_Harris@wheeler-moran.com,04/21/1991,80331,Karen Harris,invalid_mobile
+George Spencer,George_Spencer@fuller.com,2018-12-16,2849022,George Spencer,invalid_mobile;below_18
+Eric Roberts,Eric_Roberts@frey.com,08/08/1952,55931,Eric Roberts,invalid_mobile
+Daniel Mckinney,Daniel_Mckinney@hernandez.com,12/18/1999,35241,Daniel Mckinney,invalid_mobile
+William Armstrong,William_Armstrong@richards.net,11/18/1964,2511 9611,William Armstrong,invalid_mobile
+Stephanie Rangel,Stephanie_Rangel@hart.com,07/25/2017,5612482,Stephanie Rangel,invalid_mobile;below_18
+Cody Nichols,Cody_Nichols@rodriguez-lewis.info,05/26/2006,60386,Cody Nichols,invalid_mobile;below_18
+Charles White,Charles_White@gomez.com,2016/12/18,116505,Charles White,invalid_mobile;below_18
+Jennifer Ortiz,Jennifer_Ortiz@sosa.biz,11/07/1990,286689,Jennifer Ortiz,invalid_mobile
+Ryan Hampton,Ryan_Hampton@edwards.com,2007-08-08,98126,Ryan Hampton,invalid_mobile;below_18
+Jacqueline Soto,Jacqueline_Soto@holmes.com,1965/04/02,703569,Jacqueline Soto,invalid_mobile
+Ashley Jones,Ashley_Jones@martin.com,03-12-1989,124377,Ashley Jones,invalid_mobile
+Thomas Torres,Thomas_Torres@hammond.net,1997-01-02,787545,Thomas Torres,invalid_mobile
+Charles Holt,Charles_Holt@sharp.com,1963-09-12,5416699,Charles Holt,invalid_mobile
+Matthew Rodgers,Matthew_Rodgers@kaufman.com,1978/07/07,3455474,Matthew Rodgers,invalid_mobile
+Jeffery Barry,Jeffery_Barry@newton.info,2015-03-03,62246,Jeffery Barry,invalid_mobile;below_18
+Katherine Berry,Katherine_Berry@wright.org,1988-03-15,295749,Katherine Berry,invalid_mobile
+Zachary Holmes,Zachary_Holmes@huber.org,12/03/1953,324009,Zachary Holmes,invalid_mobile
+Luis Peters,Luis_Peters@ramos-ruiz.com,1998-02-07,211911,Luis Peters,invalid_mobile
+Rebecca Castillo,Rebecca_Castillo@hicks.org,01-12-1962,301083,Rebecca Castillo,invalid_mobile
+Jessica Parker,Jessica_Parker@estrada.com,2016/12/02,758685,Jessica Parker,invalid_mobile;below_18
+Bradley Anderson MD,Bradley_Anderson@bennett.info,1983-02-06,773709,Bradley Anderson,invalid_mobile
+Adrian Perez,Adrian_Perez@carrillo.com,12/19/1970,369681,Adrian Perez,invalid_mobile
+Matthew Green,Matthew_Green@russell.com,1990/10/12,551997,Matthew Green,invalid_mobile
+Michelle Price,Michelle_Price@mcbride.com,1998-01-11,942495,Michelle Price,invalid_mobile
+Phillip Meyer,Phillip_Meyer@mckee.com,1977-10-23,55691,Phillip Meyer,invalid_mobile
+Julie Phillips,Julie_Phillips@doyle.biz,09-11-1960,9652868,Julie Phillips,invalid_mobile
+Joseph Weber,Joseph_Weber@white.biz,07/25/2008,1431550,Joseph Weber,invalid_mobile;below_18
+Charles Mack,Charles_Mack@greer-mcdonald.info,11-11-1991,22116,Charles Mack,invalid_mobile
+John Tucker,John_Tucker@nelson-blake.info,07/04/2003,5346545,John Tucker,invalid_mobile
+Dana Wilson,Dana_Wilson@bass.org,01/03/1966,54366,Dana Wilson,invalid_mobile
+Henry Howard,Henry_Howard@turner-curtis.org,06/25/1976,6436865,Henry Howard,invalid_mobile
+William Garcia,William_Garcia@wilson.com,1995/12/20,7846476,William Garcia,invalid_mobile
+Matthew Miller,Matthew_Miller@jones.info,18-12-1995,760359,Matthew Miller,invalid_mobile
+Joseph Sanchez,Joseph_Sanchez@martinez-hoffman.biz,09/13/1956,9099 6671,Joseph Sanchez,invalid_mobile
+Cory Christensen,Cory_Christensen@perry.net,06/15/2018,4467562,Cory Christensen,invalid_mobile;below_18
+Jamie Mccullough,Jamie_Mccullough@carlson.com,1992/10/01,90301,Jamie Mccullough,invalid_mobile
+Jose Smith,Jose_Smith@clarke-pierce.net,1955/09/13,176193,Jose Smith,invalid_mobile
+Christine Andrews,Christine_Andrews@bennett-ramirez.com,1993/10/19,435993,Christine Andrews,invalid_mobile
+Justin Taylor,Justin_Taylor@faulkner.com,2009-09-14,42836,Justin Taylor,invalid_mobile;below_18
+Dylan Sanchez,Dylan_Sanchez@villa-yang.net,11-11-2003,425397,Dylan Sanchez,invalid_mobile
+Megan Watson,Megan_Watson@gray-alexander.com,16-08-2008,32181,Megan Watson,invalid_mobile;below_18
+Reginald Bell,Reginald_Bell@estrada.net,11/14/1981,75521,Reginald Bell,invalid_mobile
+James Bell,James_Bell@elliott-mills.org,1952/06/11,606561,James Bell,invalid_mobile
+Jennifer Cooper,Jennifer_Cooper@mitchell-edwards.com,1973-12-23,711699,Jennifer Cooper,invalid_mobile
+Tanya Wagner,Tanya_Wagner@jones-molina.com,1986/11/23,381597,Tanya Wagner,invalid_mobile
+Henry Curtis,Henry_Curtis@owens-walker.biz,1989-05-27,6919718,Henry Curtis,invalid_mobile
+Cassandra Elliott,Cassandra_Elliott@bradley.com,2003-05-06,6271378,Cassandra Elliott,invalid_mobile
+Pedro Mitchell,Pedro_Mitchell@sims.com,09/27/1961,9959 5743,Pedro Mitchell,invalid_mobile
+Ray Mccarty,Ray_Mccarty@fuller.info,1971/02/08,55446,Ray Mccarty,invalid_mobile
+Briana Marshall,Briana_Marshall@lawrence.com,1951/12/18,3113664,Briana Marshall,invalid_mobile
+Melissa Clark,Melissa_Clark@holmes.com,1985-11-03,789753,Melissa Clark,invalid_mobile
+Patrick Mays,Patrick_Mays@woods.com,18-08-1967,30286,Patrick Mays,invalid_mobile
+Maria Powell,Maria_Powell@potts-knapp.com,01/21/1999,3376808,Maria Powell,invalid_mobile
+Brian Rhodes,Brian_Rhodes@harris.com,1992/06/01,6948187,Brian Rhodes,invalid_mobile
+Kenneth Holmes,Kenneth_Holmes@martinez.com,05-02-1989,4094623,Kenneth Holmes,invalid_mobile
+Adam Garcia,Adam_Garcia@patterson.com,1995/02/06,5263028,Adam Garcia,invalid_mobile
+Matthew Johnson,Matthew_Johnson@weber.com,24-09-1968,4986731,Matthew Johnson,invalid_mobile
+Randy Aguirre,Randy_Aguirre@gates.com,2011/10/27,114495,Randy Aguirre,invalid_mobile;below_18
+Michael Garcia,Michael_Garcia@thornton.com,05/11/2006,884685,Michael Garcia,invalid_mobile;below_18
+Henry Johnson Jr.,Henry_Johnson@horton.org,2012-05-15,54804439,Henry Johnson Jr.,below_18
+Christopher Stark,Christopher_Stark@blackwell.com,03/07/1971,9471 6219,Christopher Stark,invalid_mobile
+Scott Dodson,Scott_Dodson@campbell-long.com,16-05-1951,333987,Scott Dodson,invalid_mobile
+Laura Faulkner,Laura_Faulkner@wood.info,1995/09/29,583917,Laura Faulkner,invalid_mobile
+Joseph Patterson,Joseph_Patterson@bentley.net,2017-01-16,2014986,Joseph Patterson,invalid_mobile;below_18
+Vanessa Johnson,Vanessa_Johnson@barber.com,10/19/1960,8923 6567,Vanessa Johnson,invalid_mobile
+Robert Kelley,Robert_Kelley@scott.com,06/02/1987,78861,Robert Kelley,invalid_mobile
+Justin Mack,Justin_Mack@caldwell.com,13-05-2011,9661919,Justin Mack,invalid_mobile;below_18
+Anna Gray,Anna_Gray@brown.biz,2006/02/23,5814397,Anna Gray,invalid_mobile;below_18
+Christopher Lee,Christopher_Lee@chung-smith.com,2018-09-26,1169792,Christopher Lee,invalid_mobile;below_18
+Mrs. Sara Garrett,Sara_Garrett@horn.com,01/04/2015,524085,Sara Garrett,invalid_mobile;below_18
+Wendy Sanchez,Wendy_Sanchez@perry.com,1953-01-23,67276,Wendy Sanchez,invalid_mobile
+Dr. Maria Hall,Maria_Hall@anderson-reyes.com,12/13/1951,563805,Maria Hall,invalid_mobile
+Mr. James Hall,James_Hall@barrett.com,01/10/1951,1682122,James Hall,invalid_mobile
+Megan Morrison,Megan_Morrison@long-weaver.com,03/19/1973,7875155,Megan Morrison,invalid_mobile
+Jaime Mcdaniel,Jaime_Mcdaniel@mcclure-brooks.biz,2017/05/19,69676,Jaime Mcdaniel,invalid_mobile;below_18
+Joseph Williams,Joseph_Williams@patterson-flores.biz,28-01-2002,8489027,Joseph Williams,invalid_mobile
+Kevin Madden,Kevin_Madden@decker.com,2005-12-26,47551,Kevin Madden,invalid_mobile;below_18
+Philip Cruz,Philip_Cruz@cohen.net,2007-04-10,2887249,Philip Cruz,invalid_mobile;below_18
+Andrew Shaw,Andrew_Shaw@lee.biz,27-09-1990,366219,Andrew Shaw,invalid_mobile
+Jessica Sexton,Jessica_Sexton@anderson.com,2007/02/18,963483,Jessica Sexton,invalid_mobile;below_18
+Stephen Campos,Stephen_Campos@lam.biz,2005/01/23,19488863,Stephen Campos,below_18
+Robert Griffith,Robert_Griffith@montgomery-roberts.info,08-01-1980,243957,Robert Griffith,invalid_mobile
+John Aguilar,John_Aguilar@murphy-zuniga.com,10/19/1953,99521,John Aguilar,invalid_mobile
+Jesus Meyer,Jesus_Meyer@sanford.com,1960/10/03,5316837,Jesus Meyer,invalid_mobile
+Troy Butler,Troy_Butler@anderson.org,1974/04/05,2780947,Troy Butler,invalid_mobile
+Jody Reed,Jody_Reed@winters-taylor.biz,2015/12/30,27588167,Jody Reed,below_18
+Gloria Hartman,Gloria_Hartman@bell.com,1997/02/27,613809,Gloria Hartman,invalid_mobile
+Melissa Mcbride,Melissa_Mcbride@miller.com,04/24/1990,36671,Melissa Mcbride,invalid_mobile
+Robert Allen,Robert_Allen@boone.com,02/18/1985,61541,Robert Allen,invalid_mobile
+Phillip Evans,Phillip_Evans@clayton-russo.net,1980/03/29,35416,Phillip Evans,invalid_mobile
+Philip Banks,Philip_Banks@boyer.com,1996-06-10,70481,Philip Banks,invalid_mobile
+Janet King,Janet_King@collins.biz,30-07-2014,6330059,Janet King,invalid_mobile;below_18
+Michael Pierce,Michael_Pierce@boyd-griffith.com,1966/11/11,12221,Michael Pierce,invalid_mobile
+Michael Serrano,Michael_Serrano@turner-maldonado.com,07/11/1982,1279 2543,Michael Serrano,invalid_mobile
+Joseph Brown,Joseph_Brown@hays.net,2005-04-14,29911,Joseph Brown,invalid_mobile;below_18
+Richard Martin,Richard_Martin@russell.com,11/22/1965,185529,Richard Martin,invalid_mobile
+Brenda Turner,Brenda_Turner@vance-king.com,03/14/1990,5812899,Brenda Turner,invalid_mobile
+Jennifer Conrad,Jennifer_Conrad@white-bennett.com,1997/03/06,7310892,Jennifer Conrad,invalid_mobile
+Catherine Kirk,Catherine_Kirk@miller-mcfarland.com,2013-03-09,20921,Catherine Kirk,invalid_mobile;below_18
+Andrea Gaines,Andrea_Gaines@lewis.net,10/30/1959,6065312,Andrea Gaines,invalid_mobile
+Madison Nguyen,Madison_Nguyen@butler.info,1979-01-17,635127,Madison Nguyen,invalid_mobile
+Tony Reese,Tony_Reese@henry-wells.net,23-06-1984,4413606,Tony Reese,invalid_mobile
+Terri Powell,Terri_Powell@hunter-guerra.net,1987-03-07,27151,Terri Powell,invalid_mobile
+David Wells,David_Wells@medina.com,1983-10-30,8094269,David Wells,invalid_mobile
+Timothy Mitchell,Timothy_Mitchell@fields.net,1965/03/18,2410829,Timothy Mitchell,invalid_mobile
+Kimberly Oconnor,Kimberly_Oconnor@jones-hanson.com,06/03/1951,134787,Kimberly Oconnor,invalid_mobile
+Anthony Smith,Anthony_Smith@jones.biz,1956/03/25,846981,Anthony Smith,invalid_mobile
+Roberta Garza,Roberta_Garza@peterson.com,2003-07-06,779787,Roberta Garza,invalid_mobile
+Terry Bennett,Terry_Bennett@garcia.com,2012/02/28,16471,Terry Bennett,invalid_mobile;below_18
+Mrs. Tiffany Gomez,Tiffany_Gomez@reilly-hill.com,07-01-1950,65216,Tiffany Gomez,invalid_mobile
+Katherine Franklin,Katherine_Franklin@richardson.biz,27-08-2010,906189,Katherine Franklin,invalid_mobile;below_18
+Sherry Martin,Sherry_Martin@cross-wright.org,1995/05/04,45471,Sherry Martin,invalid_mobile
+Robert Li,Robert_Li@brock.com,2018/11/07,38151,Robert Li,invalid_mobile;below_18
+Jesse Miller,Jesse_Miller@thompson-owens.biz,1961-03-06,854883,Jesse Miller,invalid_mobile
+Kevin Jones,Kevin_Jones@moore.org,26-01-1974,122217,Kevin Jones,invalid_mobile
+Rhonda Young,Rhonda_Young@knight.com,04-01-1958,53046,Rhonda Young,invalid_mobile
